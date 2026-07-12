@@ -1,87 +1,104 @@
-# Ernährungsplan – Sixpack in 2 Wochen
+# Ernährungsplan – Personalisiert für Kosta
 
-> **Kalorien & Makros werden personalisiert sobald Körperwerte erfasst sind.**
-> Placeholder-Werte für 80 kg / moderater Aktivitätslevel.
+> **Stand: 12.07.2026 | Ziel: Sixpack bis 28.07.2026 | Tag 1 von 16**
 
 ---
 
-## Kalorienziele (Beispiel – wird angepasst)
+## Dein Kalorienprofil
+
 | | kcal |
 |---|---|
-| Erhaltungsbedarf (TDEE) | ~2.400 kcal |
-| Deficit | -600 kcal |
-| **Zielkalorien** | **~1.800 kcal** |
+| BMR (Grundumsatz) | 1.562 kcal |
+| TDEE (mit Aktivität) | ~2.400 kcal |
+| Deficit | -650 kcal |
+| **Ziel – Normale Tage (Büro)** | **1.750 kcal** |
+| **Ziel – Sporttage (Tennis/Padel/Gym)** | **1.950 kcal** |
 
-## Makros (Beispiel – wird angepasst)
+> **TDEE-Berechnung**: BMR 1562 × 1.55 (Büro + 3–4 Sporttage/Woche) = 2.420 kcal
+
+---
+
+## Deine Makros
+
+### Normale Tage (1.750 kcal)
+| Makro | g/Tag | kcal | Warum |
+|-------|-------|------|-------|
+| **Protein** | **150 g** | **600** | 2.2g/kg – Muskelschutz beim Deficit |
+| **Fett** | **65 g** | **585** | Hormone, Sättigung |
+| **Kohlenhydrate** | **141 g** | **565** | Energie, reduziert aber vorhanden |
+
+### Sporttage (1.950 kcal)
 | Makro | g/Tag | kcal |
 |-------|-------|------|
-| Protein | 160 g | 640 |
-| Kohlenhydrate | 150 g | 600 |
-| Fett | 62 g | 558 |
+| **Protein** | **155 g** | **620** |
+| **Fett** | **65 g** | **585** |
+| **Kohlenhydrate** | **186 g** | **745** | +50g um Training herum |
 
 ---
 
-## Tagesplan-Vorlage (Sixpack-Phase)
+## Dein Tagesplan (konkret)
 
-### Frühstück (~400 kcal)
-- 5 Eiweiß + 2 ganze Eier (Rührei) → ~250 kcal, 30g Protein
-- 100g Haferflocken (trocken) mit Wasser → ~150 kcal, 5g Protein
-- Optional: 1 TL Zimt, keine Milch
+### Frühstück – 07:00 (~420 kcal | 38g P | 30g C | 16g F)
+- 5 Eiklar + 2 ganze Eier → Rührei (Pfanne mit 1 Spray) → 290 kcal, 34g P
+- 60g Haferflocken (trocken) mit Wasser, 1 TL Zimt → 215 kcal, 7g P, 40g C
+- Optional: schwarzer Kaffee, kein Zucker
 
-### Mittagessen (~550 kcal)
-- 200g Hühnerbrust oder Thunfisch → ~220 kcal, 45g Protein
-- 200g gekochter Reis (gekocht) oder Süßkartoffel → ~180 kcal
-- Gemüse unlimited: Brokkoli, Spinat, Zucchini, Paprika → ~50 kcal
-- 1 TL Olivenöl → ~40 kcal
+### Snack Vormittag – 10:00 (~180 kcal | 23g P | 10g C | 5g F)
+- 200g Magerquark (0.2% Fett) mit 100g Beeren (TK geht gut) → 175 kcal
 
-### Snack (~200 kcal)
-- 200g Magerquark + 1 Handvoll Beeren → ~200 kcal, 20g Protein
-- ODER: 1 Portion Protein-Shake mit Wasser → ~120 kcal
+### Mittagessen – 13:00 (~500 kcal | 48g P | 40g C | 12g F)
+- 200g Hühnerbrust (gegrillt/gebacken, kein Öl) → 220 kcal, 44g P
+- 150g Basmati-/brauner Reis (gekocht) → 175 kcal, 38g C
+- Gemüse ohne Limit: Brokkoli, Zucchini, Paprika, Spinat → ~50 kcal
+- 1 TL Olivenöl + Gewürze → 40 kcal
 
-### Abendessen (~500 kcal)
-- 200g Lachs oder Rinderhack (mager) → ~300 kcal, 40g Protein
-- Großer Salat: Rucola, Tomaten, Gurke, Zwiebel → ~50 kcal
-- Dressing: Zitrone + Essig + 1 TL Öl → ~50 kcal
-- Optional: 50g Hüttenkäse → ~50 kcal
+### Snack Nachmittag – 16:00 (~150 kcal | 25g P)
+- 1 Protein-Shake mit Wasser → 120–150 kcal, 25–30g P
+- ODER: 150g Hüttenkäse + Gurke
 
-### Post-Workout (wenn abends trainiert)
-- Protein-Shake → ~120 kcal, 25g Protein
-- 1 Banane → ~90 kcal
+### Abendessen – 19:00 (~480 kcal | 42g P | 10g C | 25g F)
+- 180g Lachs (Ofen) → 350 kcal, 36g P, 22g F
+- Großer Salat: Rucola, Tomaten, Gurke, rote Zwiebel → ~50 kcal
+- Dressing: Zitrone + Apfelessig + ½ TL Olivenöl → ~40 kcal
+- KEIN Reis/Brot am Abend (außer nach Abend-Sport)
 
----
-
-## Absolute NO-GOs für die nächsten 2 Wochen
-- Alkohol (leert Fettverbrennung für 48h)
-- Zucker & Süßigkeiten
-- Weißbrot, Pizza, Pasta (nur Vollkorn & limitiert)
-- Fertigprodukte & Fast Food
-- Softdrinks (auch Light nur limitiert – Heißhunger)
-- Fruchtsäfte (Zucker!)
+### Post-Workout (nur bei Abend-Sport)
+- 1 Banane + Protein-Shake → ~230 kcal, 27g P, 25g C
 
 ---
 
-## Erlaubt & empfohlen
-- Kaffee (schwarz, ohne Zucker)
-- Grüner Tee & ungesüßte Kräutertees
-- Wasser (min. 3–4 L/Tag – erhöht Fettverbrennung)
-- Hühnerbrust, Putenbrust, Thunfisch, Lachs, Eier
-- Quark, Hüttenkäse (Mager)
-- Brokkoli, Spinat, Rucola, Gurke, Zucchini, Tomaten
-- Haferflocken, Süßkartoffel, brauner Reis (limitiert)
+## Die wichtigsten 2-Wochen-Regeln
+
+### Absolut eliminieren
+| Was | Warum |
+|-----|-------|
+| Alkohol | Stoppt Fettverbrennung für 24–48h, leere Kalorien |
+| Zucker & Süßes | Insulin-Spike, hemmt Fettverbrennung |
+| Verarbeitete Lebensmittel | Verstecktes Salz → Wasserretention |
+| Weißbrot, normale Pasta | Hoher GI, Wasserretention durch Glykogen |
+| Fruchtsäfte | Flüssigzucker ohne Sättigung |
+| **Bier & Wein** | Kein Kompromiss – auch "wenig" zerstört den Plan |
+
+### Täglich 3–4 Liter Wasser
+Klingt kontraproduktiv, aber mehr Wasser = weniger Wasserretention!
+
+### Sodium reduzieren
+Weniger Salz in letzten 3 Tagen vor 28.07. → macht einen großen Unterschied optisch.
 
 ---
 
-## Essenslogs
-_Tagesweise in separaten Dateien:_
-```
-Ernährung/Essenslog/YYYY-MM-DD.md
-```
-→ [[Essenslog/]]
+## Wann isst du Kohlenhydrate?
+- **Vor dem Sport**: 1–2 Stunden davor (gibt Energie)
+- **Nach dem Sport**: Als Erholung (innerhalb 1 Stunde)
+- **Abends ohne Sport**: Carbs auf Minimum (max. 30–40g, Gemüse-Carbs)
+- **Morgens**: OK, begrenzt (Haferflocken)
 
 ---
 
-## Tipps für die Umsetzung
-1. **Meal prep am Sonntag** – Hühnerbrust, Reis, Gemüse vorkochen
-2. **Hunger ≠ Gefahr** – leichter Hunger ist normal und zeigt Deficit
-3. **Abends kein Carbs** nach 18 Uhr (hilft kurzfristig)
-4. **Proteinziel priorisieren** – bei Kalorienfrage lieber Protein behalten
+## Tracking-Empfehlung
+Nutze eine App (MyFitnessPal, Cronometer) um die ersten 3–5 Tage genau zu tracken — dann bekommst du ein Gefühl für Portionen und brauchst die App weniger.
+
+---
+
+## Essenslog
+→ [[Essenslog/]] (täglich ausfüllen)

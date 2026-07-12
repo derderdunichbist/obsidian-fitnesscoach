@@ -1,2 +1,3 @@
-Datum,Gewicht_kg,Koerperfett_pct,Bauchumfang_cm,BMI,Notiz
-2026-07-12,,,,, Ausgangsmessung fehlt
+Datum,Gewicht_kg,Koerperfett_pct,FettMasse_kg,FettfreieMasse_kg,SubkutanesFett_pct,VisceralFett,SkelettMuskel_pct,Muskelmasse_kg,Knochenmasse_kg,Koerperwasser_pct,BMR_kcal,BMI,MetabolischesAlter,Bauchumfang_cm,Notiz
+2026-06-28,68.90,19.5,13.44,55.50,17.7,5,52.0,52.70,2.78,58.2,1568,22.0,25,,Vergleichswert (aus App)
+2026-07-12,68.15,19.0,12.95,55.20,17.2,5,52.3,52.40,2.76,58.5,1562,21.8,25,87,Startmessung Coaching
