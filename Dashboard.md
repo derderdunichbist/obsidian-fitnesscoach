@@ -48,14 +48,14 @@
 ---
 
 ## Diese Woche (12.–18.07.)
-| Tag | Training | Kcal-Modus | Status |
+| Tag | Training | Kcal-Ziel | Status |
 |-----|----------|-----------|--------|
-| So 12.07. | Tennis ✅ 71 min | Sporttag 1.950 | ✅ Sport done |
-| Mo 13.07. | Gym: Oberkörper + Core | Sporttag 1.950 | — |
-| Di 14.07. | Gym: Unterkörper + Core | Sporttag 1.950 | — |
-| Mi 15.07. | Tennis/Padel ODER HIIT | Sporttag 1.950 | — |
-| Do 16.07. | Gym: Ganzkörper + Core | Sporttag 1.950 | — |
-| Fr 17.07. | HIIT 25 min + Core | Sporttag 1.950 | — |
+| So 12.07. | Tennis 71 min ✅ | 1.950 (war: 2.057) ⚠️ Bier | ✅ |
+| **Mo 13.07.** | **Gym Oberkörper 45min + Tennis nachmittags** | **2.100** | — |
+| **Di 14.07.** | **2h Padel + Core zuhause** | **2.200** | — |
+| Mi 15.07. | Gym: Unterkörper + Core | 1.950 | — |
+| Do 16.07. | Gym: Ganzkörper + Core | 1.950 | — |
+| Fr 17.07. | HIIT 25 min + Core | 1.950 | — |
 | Sa 18.07. | Padel/Fahrrad ODER Aktiv | 1.750–1.950 | — |
 
 ---

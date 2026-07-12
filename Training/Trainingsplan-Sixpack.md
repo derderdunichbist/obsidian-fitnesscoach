@@ -9,15 +9,17 @@
 
 | Tag | Hauptaktivität | Zusatz | Kalorien-Modus |
 |-----|---------------|--------|----------------|
-| **Mo** | Gym: Kraft Oberkörper + Core | Abendspaziergang 30 min | Sporttag: 1.950 kcal |
-| **Di** | Gym: Kraft Unterkörper + Core | ODER Tennis/Padel wenn geplant | Sporttag: 1.950 kcal |
-| **Mi** | Tennis/Padel/Badminton (wenn möglich) | Core 15 min | Sporttag: 1.950 kcal |
+| **Mo** | Gym: Oberkörper kompakt (45 min) + Tennis nachmittags | Core Circuit A+B nach Gym | **Doppel-Session: 2.100 kcal** |
+| **Di** | 2h Padel | Core Circuit A+B+C zuhause danach | **High-Activity: 2.200 kcal** |
+| **Mi** | Gym: Kraft Unterkörper + Core | — | Sporttag: 1.950 kcal |
 | **Do** | Gym: Ganzkörper + Core | 30 min Fahrrad LISS | Sporttag: 1.950 kcal |
 | **Fr** | HIIT 25 min + Core | Aktiv bleiben, viele Schritte | Sporttag: 1.950 kcal |
 | **Sa** | Tennis/Padel/Badminton ODER Fahrrad 90 min | Core | Sporttag: 1.950 kcal |
 | **So** | Aktive Erholung: Spaziergang 60 min | Stretching 20 min | Normal: 1.750 kcal |
 
-> **Deine Sporttage (Tennis etc.) zählen vollständig als Training-Tag.** Kein Doppeltraining nötig wenn du spielst — Core danach reicht.
+> **Montag ist Doppel-Session:** Gym kompakt halten (45 min, 3 statt 4 Sätze), Kabelzug-Fly weglassen — Tennis übernimmt den Rest.
+> **Dienstag:** 2h Padel ersetzt das Gym vollständig. Core zuhause danach reicht.
+> **Mittwoch verschiebt sich:** Unterkörper-Gym auf Mi (war ursprünglich Di).
 
 ---
 

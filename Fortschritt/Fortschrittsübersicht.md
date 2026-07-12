@@ -44,9 +44,9 @@ START                              ZIEL
 
 | Datum | Tag | Gewicht | Kalorien | Training | Schritte | Notiz |
 |-------|-----|---------|----------|----------|----------|-------|
-| 12.07. | 1 | 68.15 kg | — | Tennis 71 min | 5.638 | Coaching-Start, Plan erstellt |
-| 13.07. | 2 | — | — | — | — | — |
-| 14.07. | 3 | — | — | — | — | — |
+| 12.07. | 1 | 68.15 kg | 2.057 kcal ⚠️ | Tennis 71 min | 5.638 | Coaching-Start. +107 kcal wegen Bier |
+| 13.07. | 2 | — | Ziel: 2.100 | Gym Oberkörper + Tennis | Ziel: 10.000 | Doppel-Session |
+| 14.07. | 3 | — | Ziel: 2.200 | 2h Padel + Core | Ziel: 12.000 | High-Activity Tag |
 | 15.07. | 4 | — | — | — | — | — |
 | 16.07. | 5 | — | — | — | — | — |
 | 17.07. | 6 | — | — | — | — | — |
