@@ -67,6 +67,24 @@
 
 ---
 
+## Fixe Genuss-Position: Cappuccino ☕ (fest eingeplant)
+
+> Wichtig für dein Wohlergehen – bleibt drin. Fest eingerechnet, kein „Sünde"-Faktor.
+
+| Position | kcal | Protein | Carbs | Fett |
+|----------|------|---------|-------|------|
+| **2× Cappuccino/Tag (fettarme Milch 1,5 %)** | **~112** | **~8 g** | **~10 g** | **~4,5 g** |
+
+**Regeln dazu:**
+- Milch: **fettarm (1,5 %)** statt halb/halb → spart ~2,5 g Fett/Tag beim knappsten Makro, Protein bleibt gleich
+- **Kein Zucker/Sirup** – Zimt oder Kakao pur ist okay
+- Letzte Tasse **vor ~15:00 Uhr** – Koffein am Nachmittag stört sonst den Schlaf (→ schlechtere Regeneration & Fettabbau)
+- Optional als **Pre-Workout**: eine Tasse ~45 Min vor der Einheit gibt einen Koffein-Boost
+
+Die ~112 kcal sind bereits im Tagesbudget berücksichtigt – einfach ganz normal genießen.
+
+---
+
 ## Die wichtigsten 2-Wochen-Regeln
 
 ### Absolut eliminieren
