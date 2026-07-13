@@ -7,7 +7,8 @@
 | Datum | Gewicht (kg) | KF (%) | Fett (kg) | FFM (kg) | Bauch (cm) | BMR | Notiz |
 |-------|-------------|--------|-----------|----------|------------|-----|-------|
 | 28.06.2026 | 68.90 | 19.5 | 13.44 | 55.50 | — | 1568 | Vergleichswert |
-| **12.07.2026** | **68.15** | **19.0** | **12.95** | **55.20** | **87** | **1562** | **Startmessung** |
+| 12.07.2026 | 68.15 | 19.0 | 12.95 | 55.20 | 87 | 1562 | Startmessung |
+| **13.07.2026** | **67.70** | **18.8** | **12.73** | **55.00** | **87** | **1557** | **Tag 1 morgens** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -26,6 +27,22 @@
 | Visceral Fett | 0 | Gut — stabil |
 
 **Fazit:** Du hast in den 2 Wochen vor Coaching-Start bereits 0.5% KF verloren. Das ist eine Rate von ~0.25%/Woche — wir wollen das auf 0.4–0.5%/Woche steigern.
+
+### 12.07. → 13.07. (Tag 1 – erste 24h)
+| Metrik | Veränderung | Bewertung |
+|--------|------------|-----------|
+| Gewicht | -0.45 kg | Sehr gut — v.a. Wasser/Glykogen |
+| Körperfett | -0.2% | Positiv — echte Richtung |
+| Fettmasse | -0.22 kg | Positiv |
+| Fettfreie Masse | -0.20 kg | Neutral — größtenteils Wasser, kein echter Muskelverlust |
+| Muskelmasse | -0.20 kg | Neutral — Wasserschwankung, Skelettmuskel-% steigt sogar (+0.2) |
+| Skelettmuskel | +0.2% | Gut — relativer Anteil steigt |
+| Subcutanes Fett | -0.1% | Gut — sichtbares Fett sinkt |
+| Visceral Fett | -1 (5→4) | Sehr gut — jetzt tief im grünen Bereich |
+| Körperwasser | +0.2% | Gut — Hydration stimmt |
+| Bauchumfang | 0 cm (87) | Noch stabil — kommt mit etwas Verzögerung |
+
+**Fazit Tag 1:** Starker Auftakt. -0.45 kg über Nacht ist überwiegend Wasser/Glykogen (erwartet in Woche 1), aber die Richtung stimmt auf allen Ebenen: KF runter, Skelettmuskel-Anteil rauf, Visceralfett von 5 auf 4. Bauchumfang reagiert erfahrungsgemäß 3–5 Tage verzögert — nicht beunruhigen. **Weiter so:** Defizit halten, 150g Protein, 3.5–4L Wasser.
 
 ---
 
