@@ -8,7 +8,8 @@
 |-------|-------------|--------|-----------|----------|------------|-----|-------|
 | 28.06.2026 | 68.90 | 19.5 | 13.44 | 55.50 | — | 1568 | Vergleichswert |
 | 12.07.2026 | 68.15 | 19.0 | 12.95 | 55.20 | 87 | 1562 | Startmessung |
-| **13.07.2026** | **67.70** | **18.8** | **12.73** | **55.00** | **87** | **1557** | **Tag 1 morgens** |
+| 13.07.2026 | 67.70 | 18.8 | 12.73 | 55.00 | 87 | 1557 | Tag 1 morgens |
+| **14.07.2026** | **67.40** | **18.6** | **12.54** | **54.90** | **—** | **1555** | **Tag 3 morgens** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -43,6 +44,36 @@
 | Bauchumfang | 0 cm (87) | Noch stabil — kommt mit etwas Verzögerung |
 
 **Fazit Tag 1:** Starker Auftakt. -0.45 kg über Nacht ist überwiegend Wasser/Glykogen (erwartet in Woche 1), aber die Richtung stimmt auf allen Ebenen: KF runter, Skelettmuskel-Anteil rauf, Visceralfett von 5 auf 4. Bauchumfang reagiert erfahrungsgemäß 3–5 Tage verzögert — nicht beunruhigen. **Weiter so:** Defizit halten, 150g Protein, 3.5–4L Wasser.
+
+### 13.07. → 14.07. (Tag 1 → Tag 3)
+| Metrik | Veränderung | Bewertung |
+|--------|------------|-----------|
+| Gewicht | -0.30 kg | Sehr gut — sauberer, ruhiger Rückgang (kein Wassersprung mehr) |
+| Körperfett | -0.2% | Positiv — echte Fettreduktion, konstante Rate |
+| Fettmasse | -0.19 kg | Positiv — genau der Anteil, der runter soll |
+| Fettfreie Masse | -0.10 kg | Neutral — minimal, Muskel gut geschützt |
+| Skelettmuskel | +0.1% | Gut — relativer Anteil steigt weiter |
+| Muskelmasse | -0.10 kg | Neutral — Wasserschwankung, kein echter Verlust |
+| Subcutanes Fett | -0.2% | Sehr gut — das sichtbare Fett sinkt spürbar (17.1 → 16.9) |
+| Visceral Fett | 0 (bleibt 4) | Gut — stabil im grünen Bereich |
+| Körperwasser | +0.1% | Gut — Hydration weiter aufwärts |
+| BMR | -2 kcal | Neutral — folgt nur dem Gewicht, kein Stoffwechsel-Einbruch |
+
+**Fazit Tag 3:** Genau das Bild, das ich sehen will. Der Rückgang ist jetzt **sauber und fettbasiert** — nicht mehr der Wasser-/Glykogen-Effekt vom ersten Tag. Von deinen -0.30 kg sind **-0.19 kg reine Fettmasse**, das ist ein hervorragendes Verhältnis. Subkutanfett fällt am schnellsten (17.7 → 16.9 seit Start) — das ist genau die Schicht, die den Sixpack verdeckt. Muskel bleibt geschützt (Skelettmuskel-Anteil steigt sogar weiter).
+
+**Kumulativ seit Start (12.07. → 14.07., 2 Tage):**
+| Metrik | Start | Heute | Δ | Rate |
+|--------|-------|-------|---|------|
+| Gewicht | 68.15 | 67.40 | **-0.75 kg** | ~0.38 kg/Tag* |
+| Körperfett | 19.0 | 18.6 | **-0.4%** | starker Auftakt |
+| Fettmasse | 12.95 | 12.54 | **-0.41 kg** | überwiegend echtes Fett |
+| Subkutanfett | 17.2 | 16.9 | **-0.3%** | sichtbares Fett sinkt |
+
+*Die Rate flacht ab Tag 3–4 natürlich ab (Wasser ist raus) — das ist normal und gewollt.
+
+**Checkpoint-1-Vorschau (Ziel 19.07.):** Du liegst nach 2 Tagen schon **innerhalb bzw. am oberen Rand aller Zielkorridore** (Gewicht-Ziel 66.5–67.2 / ist 67.40, KF-Ziel 18.0–18.5 / ist 18.6, Fettmasse-Ziel 12.0–12.5 / ist 12.54). Voll auf Kurs, tendenziell leicht voraus.
+
+**Heute (Tag 3):** 2h Padel + Core → High-Activity-Tag mit 2.200 kcal / 165g Protein. Defizit über erhöhten Bedarf halten, 3.5–4L Wasser, kein Alkohol. Bitte **morgen wieder Bauchumfang messen** (heute vergessen) — das ist unser wichtigster Sixpack-Indikator.
 
 ---
 
