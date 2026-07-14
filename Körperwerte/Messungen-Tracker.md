@@ -9,7 +9,7 @@
 | 28.06.2026 | 68.90 | 19.5 | 13.44 | 55.50 | — | 1568 | Vergleichswert |
 | 12.07.2026 | 68.15 | 19.0 | 12.95 | 55.20 | 87 | 1562 | Startmessung |
 | 13.07.2026 | 67.70 | 18.8 | 12.73 | 55.00 | 87 | 1557 | Tag 1 morgens |
-| **14.07.2026** | **67.40** | **18.6** | **12.54** | **54.90** | **—** | **1555** | **Tag 3 morgens** |
+| **14.07.2026** | **67.40** | **18.6** | **12.54** | **54.90** | **87** | **1555** | **Tag 3 morgens** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -68,8 +68,11 @@
 | Körperfett | 19.0 | 18.6 | **-0.4%** | starker Auftakt |
 | Fettmasse | 12.95 | 12.54 | **-0.41 kg** | überwiegend echtes Fett |
 | Subkutanfett | 17.2 | 16.9 | **-0.3%** | sichtbares Fett sinkt |
+| Bauchumfang | 87 | 87 | **0 cm** | noch stabil — reagiert 3–5 Tage verzögert |
 
 *Die Rate flacht ab Tag 3–4 natürlich ab (Wasser ist raus) — das ist normal und gewollt.
+
+**Bauchumfang (87 cm, unverändert):** Kein Grund zur Sorge. Der Umfang hinkt der Körperfett-Reduktion typischerweise 3–5 Tage hinterher — die Fettschicht dünnt erst intern aus, bevor sich das am Maßband zeigt. Subkutanfett fällt bereits messbar (17.7 → 16.9%), der Umfang zieht in den nächsten Tagen nach. **Ab jetzt täglich morgens messen**, damit wir den Knick früh sehen.
 
 **Checkpoint-1-Vorschau (Ziel 19.07.):** Du liegst nach 2 Tagen schon **innerhalb bzw. am oberen Rand aller Zielkorridore** (Gewicht-Ziel 66.5–67.2 / ist 67.40, KF-Ziel 18.0–18.5 / ist 18.6, Fettmasse-Ziel 12.0–12.5 / ist 12.54). Voll auf Kurs, tendenziell leicht voraus.
 
