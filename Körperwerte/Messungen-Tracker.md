@@ -10,7 +10,7 @@
 | 12.07.2026 | 68.15 | 19.0 | 12.95 | 55.20 | 87 | 1562 | Startmessung |
 | 13.07.2026 | 67.70 | 18.8 | 12.73 | 55.00 | 87 | 1557 | Tag 1 morgens |
 | 14.07.2026 | 67.40 | 18.6 | 12.54 | 54.90 | 87 | 1555 | Tag 3 morgens |
-| **15.07.2026** | **67.45** | **18.6** | **12.55** | **54.90** | **—** | **1555** | **Tag 4 morgens (nach Padeltag)** |
+| **15.07.2026** | **67.45** | **18.6** | **12.55** | **54.90** | **87** | **1555** | **Tag 4 morgens (nach Padeltag)** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -108,7 +108,7 @@
 
 **Was das für heute heißt:** Nicht vom Uptick verunsichern lassen — die Richtung stimmt komplett. Heute steht **Gym Unterkörper + Core** an (regulärer Tag → 1.950 kcal / 150g Protein). Nach dem intensiven Padeltag hilft heute: **Wasser hoch (3.5–4L)** um die Retention auszuspülen, Protein sichern, kein Alkohol.
 
-> ⚠️ **Bauchumfang heute wieder nicht gemessen.** Das ist unser wichtigster Sixpack-Indikator und fehlt jetzt seit 3 Tagen (letzter Wert 87 cm am 14.07.). Bitte **morgen früh Maßband an den Nabel** — sonst fehlt uns beim Checkpoint 1 (19.07.) die entscheidende Zahl.
+> ✅ **Bauchumfang gemessen: 87 cm** (nachgetragen für 15.07.). Damit steht der Umfang jetzt lückenlos bei **87 cm über alle 4 Tage** (12.–15.07.) — unverändert. Das ist zu diesem Zeitpunkt **erwartet und kein schlechtes Zeichen**: Der Umfang hinkt der Körperfett-/Subkutanfett-Reduktion (17.2 → 16.9%) typischerweise 3–5 Tage hinterher. Bei stabilem Defizit sollte die erste Bewegung am Maßband in den nächsten 2–4 Tagen kommen (Ziel Checkpoint 1 am 19.07.: 85–86 cm). **Ab jetzt täglich morgens nüchtern messen**, damit wir den Knick genau erwischen.
 
 ---
 
