@@ -1,18 +1,19 @@
 # Fitness Coach Dashboard – Kosta
 
 ## Primäres Ziel
-> **Sichtbarer Sixpack bis 28.07.2026 – TAG 1 VON 16**
-> Urlaub in **16 Tagen** — jeder Tag zählt!
+> **Sichtbarer Sixpack bis 28.07.2026 – TAG 4 VON 16**
+> Urlaub in **13 Tagen** — jeder Tag zählt!
 
 ---
 
-## Körperwerte Aktuell (12.07.2026)
+## Körperwerte Aktuell (15.07.2026)
 | Metrik | Wert | Ziel 28.07. | Trend |
 |--------|------|-------------|-------|
-| Gewicht | 68.15 kg | 65–67 kg | ↓ -0.75kg seit 28.06. |
-| Körperfett | 19.0% | 16–17% | ↓ -0.5% seit 28.06. |
-| Bauchumfang | 87 cm | <85 cm | — |
-| Muskelmasse | 52.40 kg | halten | Ausgezeichnet! |
+| Gewicht | 67.45 kg | 65–67 kg | ↓ -0.70kg seit Start (12.07.) |
+| Körperfett | 18.6% | 16–17% | ↓ -0.4% seit Start |
+| Bauchumfang | 87 cm ⚠️ | <85 cm | seit 3 Tagen nicht gemessen! |
+| Muskelmasse | 52.20 kg | halten | geschützt (-0.2kg) ✓ |
+| Visceral Fett | 4 | ≤4 | ↓ -1 seit Start ✓ |
 
 ---
 
@@ -51,9 +52,9 @@
 | Tag | Training | Kcal-Ziel | Status |
 |-----|----------|-----------|--------|
 | So 12.07. | Tennis 71 min ✅ | 1.950 (war: 2.057) ⚠️ Bier | ✅ |
-| **Mo 13.07.** | **Gym Oberkörper 45min + Tennis nachmittags** | **2.100** | — |
-| **Di 14.07.** | **2h Padel + Core zuhause** | **2.200** | — |
-| Mi 15.07. | Gym: Unterkörper + Core | 1.950 | — |
+| Mo 13.07. | Gym Oberkörper + Tennis ✅ | 2.100 | ✅ |
+| Di 14.07. | 2h Padel + Core ✅ | 2.200 (war: 1.910) | ✅ |
+| **Mi 15.07.** | **Gym: Unterkörper + Core** | **1.950** | — |
 | Do 16.07. | Gym: Ganzkörper + Core | 1.950 | — |
 | Fr 17.07. | HIIT 25 min + Core | 1.950 | — |
 | Sa 18.07. | Padel/Fahrrad ODER Aktiv | 1.750–1.950 | — |

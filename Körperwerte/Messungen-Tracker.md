@@ -9,7 +9,8 @@
 | 28.06.2026 | 68.90 | 19.5 | 13.44 | 55.50 | — | 1568 | Vergleichswert |
 | 12.07.2026 | 68.15 | 19.0 | 12.95 | 55.20 | 87 | 1562 | Startmessung |
 | 13.07.2026 | 67.70 | 18.8 | 12.73 | 55.00 | 87 | 1557 | Tag 1 morgens |
-| **14.07.2026** | **67.40** | **18.6** | **12.54** | **54.90** | **87** | **1555** | **Tag 3 morgens** |
+| 14.07.2026 | 67.40 | 18.6 | 12.54 | 54.90 | 87 | 1555 | Tag 3 morgens |
+| **15.07.2026** | **67.45** | **18.6** | **12.55** | **54.90** | **—** | **1555** | **Tag 4 morgens (nach Padeltag)** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -77,6 +78,37 @@
 **Checkpoint-1-Vorschau (Ziel 19.07.):** Du liegst nach 2 Tagen schon **innerhalb bzw. am oberen Rand aller Zielkorridore** (Gewicht-Ziel 66.5–67.2 / ist 67.40, KF-Ziel 18.0–18.5 / ist 18.6, Fettmasse-Ziel 12.0–12.5 / ist 12.54). Voll auf Kurs, tendenziell leicht voraus.
 
 **Heute (Tag 3):** 2h Padel + Core → High-Activity-Tag mit 2.200 kcal / 165g Protein. Defizit über erhöhten Bedarf halten, 3.5–4L Wasser, kein Alkohol. Bitte **morgen wieder Bauchumfang messen** (heute vergessen) — das ist unser wichtigster Sixpack-Indikator.
+
+### 14.07. → 15.07. (Tag 3 → Tag 4)
+| Metrik | Veränderung | Bewertung |
+|--------|------------|-----------|
+| Gewicht | +0.05 kg | Neutral — Mini-Uptick nach dem 2h-Padeltag, reine Wassereinlagerung |
+| Körperfett | 0.0% (18.6) | Neutral — stabil, kein Rückschritt |
+| Fettmasse | +0.01 kg | Neutral — praktisch unverändert |
+| Fettfreie Masse | 0.00 kg (54.90) | Neutral — stabil |
+| Muskelmasse | +0.10 kg | Gut — leichter Zuwachs, spiegelt Wasser in reparierender Muskulatur nach hoher Belastung |
+| Skelettmuskel | 0.0% (52.6) | Gut — hält den erreichten Höchststand |
+| Subkutanfett | 0.0% (16.9) | Neutral — stabil, kein Rückschritt |
+| Visceral Fett | 0 (bleibt 4) | Gut — stabil im grünen Bereich |
+| Körperwasser | 0.0% (58.8) | Neutral — stabil |
+| Protein | +0.1% (18.6) | Gut — Proteinanteil steigt leicht |
+| BMR | 0 (1555) | Neutral — stabil |
+
+**Fazit Tag 4:** Genau der erwartete Ruhetag auf der Waage. Nach einem **massiven High-Activity-Tag** (2× Padel + Core, ~1.200 kcal aktiv, Defizit ~857 kcal) ist der Mini-Uptick von +0.05 kg **kein Fett** — es ist Wasser. Intensive Belastung + Muskelmikrorisse ziehen für 24–48h Wasser in die Muskulatur (sichtbar auch am +0.10 kg Muskelmasse). Das ist ein bekanntes und **positives** Phänomen: der Körper repariert und lagert Glykogen/Wasser zur Regeneration ein. Alle Fettmarker stehen still oder sind minimal besser (Protein-Anteil +0.1) — kein einziger Rückschritt. **Der Whoosh kommt:** Solche Plateaus/Micro-Upticks lösen sich typischerweise 1–2 Tage später in einem stärkeren Abfall auf, wenn das Wasser abfließt.
+
+**Kumulativ seit Start (12.07. → 15.07., 3 Tage):**
+| Metrik | Start | Heute | Δ |
+|--------|-------|-------|---|
+| Gewicht | 68.15 | 67.45 | **-0.70 kg** |
+| Körperfett | 19.0 | 18.6 | **-0.4%** |
+| Fettmasse | 12.95 | 12.55 | **-0.40 kg** |
+| Subkutanfett | 17.2 | 16.9 | **-0.3%** |
+| Muskelmasse | 52.40 | 52.20 | -0.20 kg (Muskel geschützt) |
+| Visceral Fett | 5 | 4 | **-1** |
+
+**Was das für heute heißt:** Nicht vom Uptick verunsichern lassen — die Richtung stimmt komplett. Heute steht **Gym Unterkörper + Core** an (regulärer Tag → 1.950 kcal / 150g Protein). Nach dem intensiven Padeltag hilft heute: **Wasser hoch (3.5–4L)** um die Retention auszuspülen, Protein sichern, kein Alkohol.
+
+> ⚠️ **Bauchumfang heute wieder nicht gemessen.** Das ist unser wichtigster Sixpack-Indikator und fehlt jetzt seit 3 Tagen (letzter Wert 87 cm am 14.07.). Bitte **morgen früh Maßband an den Nabel** — sonst fehlt uns beim Checkpoint 1 (19.07.) die entscheidende Zahl.
 
 ---
 
