@@ -11,7 +11,7 @@
 |--------|------|-------------|-------|
 | Gewicht | 67.25 kg | 65–67 kg | ↓ -0.90kg seit Start (12.07.) |
 | Körperfett | 18.5% | 16–17% | ↓ -0.5% seit Start (Tiefstwert) |
-| Bauchumfang | 87 cm ⚠️ | <85 cm | heute messen! Subkutanfett fällt → Knick erwartet |
+| Bauchumfang | 86 cm | <85 cm | ↓ -1 cm (87→86) 🎯 erster Knick an Tag 5 |
 | Muskelmasse | 52.10 kg | halten | geschützt (-0.3kg) ✓ |
 | Visceral Fett | 4 | ≤4 | ↓ -1 seit Start ✓ |
 

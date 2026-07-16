@@ -48,7 +48,7 @@ START                              ZIEL
 | 13.07. | 2 | — | Ziel: 2.100 | Gym Oberkörper + Tennis | Ziel: 10.000 | Doppel-Session |
 | 14.07. | 3 | — | Ziel: 2.200 | 2h Padel + Core | Ziel: 12.000 | High-Activity Tag |
 | 15.07. | 4 | 67.45 kg | 1.945 | Klimmzüge + Sit-ups (Home) | — | Uptick +0.05 (Wasser n. Padel), Bauch 87 cm |
-| 16.07. | 5 | **67.25 kg** | Ziel: 1.950 | Gym Ganzkörper + Core | — | 🎯 Whoosh -0.20 kg, KF 18.5 % (Tief), Bauch messen |
+| 16.07. | 5 | **67.25 kg** | Ziel: 1.950 | Gym Ganzkörper + Core | — | 🎯 Whoosh -0.20 kg, KF 18.5 % (Tief), Bauch 87→86 cm |
 | 17.07. | 6 | — | — | — | — | — |
 | 18.07. | 7 | — | — | — | — | — |
 | 19.07. | **8** | — | — | — | — | **CHECKPOINT 1** |
