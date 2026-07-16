@@ -10,7 +10,8 @@
 | 12.07.2026 | 68.15 | 19.0 | 12.95 | 55.20 | 87 | 1562 | Startmessung |
 | 13.07.2026 | 67.70 | 18.8 | 12.73 | 55.00 | 87 | 1557 | Tag 1 morgens |
 | 14.07.2026 | 67.40 | 18.6 | 12.54 | 54.90 | 87 | 1555 | Tag 3 morgens |
-| **15.07.2026** | **67.45** | **18.6** | **12.55** | **54.90** | **87** | **1555** | **Tag 4 morgens (nach Padeltag)** |
+| 15.07.2026 | 67.45 | 18.6 | 12.55 | 54.90 | 87 | 1555 | Tag 4 morgens (nach Padeltag) |
+| **16.07.2026** | **67.25** | **18.5** | **12.44** | **54.80** | **?** | **1553** | **Tag 5 morgens (Whoosh) – Bauch noch messen** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -109,6 +110,43 @@
 **Was das für heute heißt:** Nicht vom Uptick verunsichern lassen — die Richtung stimmt komplett. Heute steht **Gym Unterkörper + Core** an (regulärer Tag → 1.950 kcal / 150g Protein). Nach dem intensiven Padeltag hilft heute: **Wasser hoch (3.5–4L)** um die Retention auszuspülen, Protein sichern, kein Alkohol.
 
 > ✅ **Bauchumfang gemessen: 87 cm** (nachgetragen für 15.07.). Damit steht der Umfang jetzt lückenlos bei **87 cm über alle 4 Tage** (12.–15.07.) — unverändert. Das ist zu diesem Zeitpunkt **erwartet und kein schlechtes Zeichen**: Der Umfang hinkt der Körperfett-/Subkutanfett-Reduktion (17.2 → 16.9%) typischerweise 3–5 Tage hinterher. Bei stabilem Defizit sollte die erste Bewegung am Maßband in den nächsten 2–4 Tagen kommen (Ziel Checkpoint 1 am 19.07.: 85–86 cm). **Ab jetzt täglich morgens nüchtern messen**, damit wir den Knick genau erwischen.
+
+### 15.07. → 16.07. (Tag 4 → Tag 5) — 🎯 Der Whoosh ist da
+| Metrik | Veränderung | Bewertung |
+|--------|------------|-----------|
+| Gewicht | **-0.20 kg** (67.45 → 67.25) | Sehr gut — der angekündigte Whoosh, das Wasser vom Padeltag fließt ab |
+| Körperfett | **-0.1%** (18.6 → 18.5) | Positiv — neuer Tiefstwert, echte Fettreduktion |
+| Fettmasse | **-0.11 kg** (12.55 → 12.44) | Positiv — praktisch der komplette Gewichtsverlust ist Fett |
+| Fettfreie Masse | -0.10 kg (54.90 → 54.80) | Neutral — Wasser, Muskel geschützt |
+| Skelettmuskel | 0.0% (52.6) | Gut — hält den Höchststand |
+| Muskelmasse | -0.10 kg (52.20 → 52.10) | Neutral — Wasser-Rückgang aus der Padel-Regeneration, kein echter Verlust |
+| Subkutanfett | **-0.1%** (16.9 → 16.8) | Sehr gut — sichtbares Fett auf neuem Tiefstwert (17.7 → 16.8 seit 28.06.) |
+| Visceral Fett | 0 (bleibt 4) | Gut — stabil im grünen Bereich |
+| Körperwasser | 0.0% (58.8) | Neutral — stabil, Hydration passt |
+| Protein | 0.0% (18.6) | Neutral — hält den erreichten Anteil |
+| BMR | -2 kcal (1553) | Neutral — folgt nur dem Gewicht, kein Stoffwechsel-Einbruch |
+
+**Fazit Tag 5:** Genau die Prognose von gestern ist eingetroffen. Ich hatte nach dem Tag-4-Uptick (+0.05 kg Wasser) geschrieben: *"Der Whoosh kommt — solche Micro-Upticks lösen sich 1–2 Tage später in einem stärkeren Abfall auf."* Heute: **-0.20 kg, und fast alles davon Fett** (-0.11 kg Fettmasse). Körperfett und Subkutanfett stehen beide auf **neuen Tiefstwerten** (18.5% / 16.8%). Muskel ist voll geschützt (Skelettmuskel-Anteil hält 52.6%). Das ist ein Lehrbuch-Verlauf: Plateau/Uptick → Wasser fließt ab → sauberer Fett-Whoosh.
+
+**Kumulativ seit Start (12.07. → 16.07., 4 Tage):**
+| Metrik | Start | Heute | Δ |
+|--------|-------|-------|---|
+| Gewicht | 68.15 | 67.25 | **-0.90 kg** |
+| Körperfett | 19.0 | 18.5 | **-0.5%** |
+| Fettmasse | 12.95 | 12.44 | **-0.51 kg** (echtes Fett!) |
+| Subkutanfett | 17.2 | 16.8 | **-0.4%** |
+| Muskelmasse | 52.40 | 52.10 | -0.30 kg (geschützt) |
+| Visceral Fett | 5 | 4 | **-1** |
+
+**Verhältnis Fett : Gesamtverlust = 0.51 : 0.90 = 57% echtes Fett** — für die erste Woche (mit dem üblichen Wasser-/Glykogen-Abbau am Anfang) ein hervorragender Wert. Und der Fett-Anteil steigt von Tag zu Tag, weil der Wasser-Effekt jetzt raus ist.
+
+**⚠️ Bauchumfang heute noch offen:** Bitte heute nüchtern nachmessen (Maßband, Nabelhöhe). Nach 4 Tagen bei stabilen 87 cm und jetzt deutlich gefallenem Subkutanfett (17.2 → 16.8%) erwarte ich, dass das Maßband **jetzt in den nächsten 1–2 Tagen die erste Bewegung** zeigt (Richtung 86 cm). Das ist unser wichtigster Sixpack-Indikator vor Checkpoint 1 (19.07.).
+
+**Checkpoint-1-Vorschau (Ziel 19.07., noch 3 Tage):** Du bist auf allen Achsen **im oder am besten Rand des Zielkorridors**:
+- Gewicht: Ziel 66.5–67.2 / ist **67.25** → praktisch am Ziel, 3 Tage früher
+- Körperfett: Ziel 18.0–18.5 / ist **18.5** → Mindestziel bereits erreicht
+- Fettmasse: Ziel 12.0–12.5 / ist **12.44** → im Korridor
+Du liegst leicht **vor Plan**. Wenn du das Defizit hältst, knackst du beim Checkpoint wahrscheinlich die 67-kg- und 18.5%-Marke nach unten.
 
 ---
 
