@@ -12,7 +12,7 @@
 | 14.07.2026 | 67.40 | 18.6 | 12.54 | 54.90 | 87 | 1555 | Tag 3 morgens |
 | 15.07.2026 | 67.45 | 18.6 | 12.55 | 54.90 | 87 | 1555 | Tag 4 morgens (nach Padeltag) |
 | 16.07.2026 | 67.25 | 18.5 | 12.44 | 54.80 | 86 | 1553 | Tag 5 morgens (Whoosh) – Bauch -1 cm (87→86) |
-| **17.07.2026** | **67.25** | **18.5** | **12.44** | **54.80** | **—** | **1553** | **Tag 6 morgens – Plateau, alle Werte flat ggü. 16.07 (Bauch noch messen)** |
+| **17.07.2026** | **67.25** | **18.5** | **12.44** | **54.80** | **86** | **1553** | **Tag 6 morgens – Plateau, alle Werte flat ggü. 16.07 (Bauch 86, stabil)** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -166,7 +166,7 @@ Du liegst leicht **vor Plan** — auf allen vier Achsen. Wenn du das Defizit hä
 | Körperwasser | 0.0% (58.8) | Neutral — Hydration passt |
 | Protein | 0.0% (18.6) | Neutral — hält den Anteil |
 | BMR | 0 (1553) | Neutral — stabil |
-| Bauchumfang | noch nicht gemessen | ⚠️ Bitte heute nachmessen — wichtigster Sixpack-Indikator |
+| Bauchumfang | 0 cm (86, stabil) | Neutral — hält den erreichten Knick von 16.07., kein Rückschritt |
 
 **Fazit Tag 6:** Ein **komplett flacher Tag** — jeder einzelne Wert steht exakt auf dem Stand von gestern (Deltas alle 0.00). Das ist **kein Stillstand im schlechten Sinne**, sondern die normale Konsolidierung nach einem Whoosh: Gestern ist das Padel-Wasser abgeflossen (-0.20 kg, fast reines Fett), heute pausiert die Waage, während der Körper das neue Niveau stabilisiert. Wichtig ist, was NICHT passiert: **kein Rückschritt auf irgendeiner Achse.** Körperfett (18.5%), Subkutanfett (16.8%) und Skelettmuskel-Anteil (52.6%) halten alle ihre Bestwerte. Solche Flat-Days wechseln sich mit Whoosh-Days ab — die Trendlinie über die Woche zeigt klar nach unten, auch wenn ein einzelner Tag stillsteht.
 
@@ -184,9 +184,9 @@ Du liegst leicht **vor Plan** — auf allen vier Achsen. Wenn du das Defizit hä
 - Gewicht: Ziel 66.5–67.2 / ist **67.25** → praktisch am oberen Rand
 - Körperfett: Ziel 18.0–18.5 / ist **18.5** → Mindestziel erreicht
 - Fettmasse: Ziel 12.0–12.5 / ist **12.44** → im Korridor
-- Bauchumfang: Ziel 85–86 / zuletzt **86** (16.07.) → Mindestziel erreicht, heute bitte nachmessen
+- Bauchumfang: Ziel 85–86 / ist **86** (stabil zu 16.07.) → Mindestziel erreicht, Optimalziel 85 noch offen
 
-**Was das für heute heißt:** Nicht am Plateau festbeißen — es ist eingeplant. Der nächste Abwärtsschritt kommt, wenn du das Defizit hältst. Konkret heute: **Defizit halten, 150g Protein, 3.5–4L Wasser, Salz niedrig** (spült Restwasser aus und macht den nächsten Whoosh sichtbar). Und: **Bauchumfang morgens nüchtern messen** — er ist gestern auf 86 cm gesprungen, wir wollen sehen ob er hält oder Richtung 85 (Optimalziel) weiterzieht.
+**Was das für heute heißt:** Nicht am Plateau festbeißen — es ist eingeplant. Der nächste Abwärtsschritt kommt, wenn du das Defizit hältst. Konkret heute: **Defizit halten, 150g Protein, 3.5–4L Wasser, Salz niedrig** (spült Restwasser aus und macht den nächsten Whoosh sichtbar — heute wegen der 512 g Garnelen + Bacon besonders relevant). **Bauchumfang bleibt bei 86 cm** (Knick von gestern hält) — Optimalziel 85 cm ist bis Checkpoint 1 (19.07.) in Reichweite, wenn der nächste Whoosh kommt.
 
 ---
 
