@@ -1,5 +1,7 @@
 # Fortschrittsübersicht – Sixpack bis 28.07.2026
 
+> 📊 **Interaktives Dashboard:** [[dashboard.html]] — Verlaufsgrafiken (Gewicht, Körperfett, Fettmasse, Bauchumfang, Muskelschutz). Aktualisiert sich automatisch aus `[[../data/koerperwerte.csv]]`; im Browser öffnen.
+
 ## Zeitstrahl
 ```
 12.07. ━━━━━━━━━━━━━━━━━━━━━━━━ 28.07.
