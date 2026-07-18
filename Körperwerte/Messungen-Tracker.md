@@ -12,7 +12,8 @@
 | 14.07.2026 | 67.40 | 18.6 | 12.54 | 54.90 | 87 | 1555 | Tag 3 morgens |
 | 15.07.2026 | 67.45 | 18.6 | 12.55 | 54.90 | 87 | 1555 | Tag 4 morgens (nach Padeltag) |
 | 16.07.2026 | 67.25 | 18.5 | 12.44 | 54.80 | 86 | 1553 | Tag 5 morgens (Whoosh) – Bauch -1 cm (87→86) |
-| **17.07.2026** | **67.25** | **18.5** | **12.44** | **54.80** | **86** | **1553** | **Tag 6 morgens – Plateau, alle Werte flat ggü. 16.07 (Bauch 86, stabil)** |
+| 17.07.2026 | 67.25 | 18.5 | 12.44 | 54.80 | 86 | 1553 | Tag 6 morgens – Plateau, alle Werte flat ggü. 16.07 (Bauch 86, stabil) |
+| **18.07.2026** | **67.00** | **18.3** | **12.26** | **54.70** | **—** | **1552** | **Tag 7 morgens – 2. Whoosh: -0.25 kg (fast reines Fett), KF & Subkutan neue Tiefstwerte** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -188,17 +189,57 @@ Du liegst leicht **vor Plan** — auf allen vier Achsen. Wenn du das Defizit hä
 
 **Was das für heute heißt:** Nicht am Plateau festbeißen — es ist eingeplant. Der nächste Abwärtsschritt kommt, wenn du das Defizit hältst. Konkret heute: **Defizit halten, 150g Protein, 3.5–4L Wasser, Salz niedrig** (spült Restwasser aus und macht den nächsten Whoosh sichtbar — heute wegen der 512 g Garnelen + Bacon besonders relevant). **Bauchumfang bleibt bei 86 cm** (Knick von gestern hält) — Optimalziel 85 cm ist bis Checkpoint 1 (19.07.) in Reichweite, wenn der nächste Whoosh kommt.
 
+### 17.07. → 18.07. (Tag 6 → Tag 7) — 🎯 Der 2. Whoosh
+| Metrik | Veränderung | Bewertung |
+|--------|------------|-----------|
+| Gewicht | **-0.25 kg** (67.25 → 67.00) | Sehr gut — 2. Whoosh, das Plateau von gestern löst sich nach unten auf, 67-kg-Marke geknackt |
+| Körperfett | **-0.2%** (18.5 → 18.3) | Sehr gut — neuer Tiefstwert, unter die 18.5-Checkpoint-Marke |
+| Fettmasse | **-0.18 kg** (12.44 → 12.26) | Sehr gut — praktisch der komplette Gewichtsverlust ist Fett (72%) |
+| Fettfreie Masse | -0.10 kg (54.80 → 54.70) | Neutral — Wasser, Muskel geschützt |
+| Skelettmuskel | **+0.1%** (52.6 → 52.7) | Gut — relativer Anteil auf neuem Höchststand |
+| Muskelmasse | -0.10 kg (52.10 → 52.00) | Neutral — Wasserschwankung, kein echter Verlust (Skelettmuskel-% steigt ja) |
+| Subkutanfett | **-0.2%** (16.8 → 16.6) | Sehr gut — sichtbares Fett auf neuem Tiefstwert (17.7 → 16.6 seit 28.06.) |
+| Visceral Fett | 0 (bleibt 4) | Gut — stabil im grünen Bereich |
+| Körperwasser | **+0.1%** (58.8 → 58.9) | Gut — Hydration auf neuem Höchststand |
+| Protein | **+0.1%** (18.6 → 18.7) | Gut — Proteinanteil auf neuem Höchststand |
+| BMR | -1 kcal (1552) | Neutral — folgt nur dem Gewicht, kein Stoffwechsel-Einbruch |
+| BMI | -0.1 (21.4) | Neutral — folgt dem Gewicht |
+| Bauchumfang | noch nicht gemessen | ⚠️ Bitte nachmessen — wichtigster Sixpack-Indikator, v.a. am Vorabend von Checkpoint 1 |
+
+**Fazit Tag 7:** Genau das Muster, das ich sehen will — **Flat-Day → Whoosh-Day im Wechsel.** Gestern flach, heute der Abfall: **-0.25 kg, davon -0.18 kg reines Fett (72%).** Das ist der beste Fett-Anteil bisher, weil der Wasser-/Glykogen-Effekt aus Woche 1 komplett raus ist. Körperfett (18.3%) und Subkutanfett (16.6%) stehen beide auf **neuen Tiefstwerten**, und gleich drei „Aufwärts“-Marker sind auf Höchststand: Skelettmuskel-Anteil (52.7%), Körperwasser (58.9%) und Protein (18.7%). Muskel ist voll geschützt — der absolute Muskelmasse-Dip (-0.10 kg) ist Wasser, denn der relative Anteil steigt. Du hast damit die **67-kg-Marke geknackt** und liegst mit KF 18.3% bereits **unter** dem Checkpoint-1-Mindestziel.
+
+**Kumulativ seit Start (12.07. → 18.07., 6 Tage):**
+| Metrik | Start | Heute | Δ |
+|--------|-------|-------|---|
+| Gewicht | 68.15 | 67.00 | **-1.15 kg** |
+| Körperfett | 19.0 | 18.3 | **-0.7%** |
+| Fettmasse | 12.95 | 12.26 | **-0.69 kg** (echtes Fett!) |
+| Subkutanfett | 17.2 | 16.6 | **-0.6%** |
+| Muskelmasse | 52.40 | 52.00 | -0.40 kg (geschützt, Skelettmuskel-% ↑ von 52.3 auf 52.7) |
+| Visceral Fett | 5 | 4 | **-1** |
+
+**Verhältnis Fett : Gesamtverlust = 0.69 : 1.15 = 60% echtes Fett** über die gesamte Woche — für die erste Woche (mit dem üblichen anfänglichen Wasserabbau) ein sehr guter Wert, und der Tagesanteil steigt (heute 72%).
+
+**🎯 Checkpoint 1 (morgen, 19.07.) — du bist bereits im Ziel, einen Tag früher:**
+- Gewicht: Ziel 66.5–67.2 / ist **67.00** → **im Korridor** ✅
+- Körperfett: Ziel 18.0–18.5 / ist **18.3** → **im Korridor**, unter Mindestziel ✅
+- Fettmasse: Ziel 12.0–12.5 / ist **12.26** → **im Korridor** ✅
+- Bauchumfang: Ziel 85–86 / ist **? (zuletzt 86)** → Mindestziel erreicht, Optimalziel 85 offen — **bitte heute nachmessen**
+
+**Was das für heute heißt:** Starker Wochenabschluss — halte einfach die Linie. Konkret: **Defizit halten, 150g Protein, 3.5–4L Wasser, Salz niedrig** (hält den Whoosh-Fluss am Laufen). Und bitte **Bauchumfang morgens nüchtern messen** — das ist der einzige fehlende Wert für den offiziellen Checkpoint 1 morgen, und unser wichtigster Sixpack-Indikator. Wenn der nächste Whoosh kommt, ist die 85-cm-Optimalmarke greifbar.
+
 ---
 
 ## Wöchentliche Checkpoints
 
 ### Checkpoint 1 – 19.07.2026 (Woche 1)
-| Metrik | Startwert | Ziel | Ist | Status |
-|--------|-----------|------|-----|--------|
-| Gewicht | 68.15 kg | 66.5–67.2 kg | — | — |
-| Körperfett | 19.0% | 18.0–18.5% | — | — |
-| Bauchumfang | 87 cm | 85–86 cm | — | — |
-| Fettmasse | 12.95 kg | 12.0–12.5 kg | — | — |
+> Vorschau-Stand 18.07. (Tag 7, einen Tag früher) — bereits auf/im Ziel:
+| Metrik | Startwert | Ziel | Ist (18.07.) | Status |
+|--------|-----------|------|--------------|--------|
+| Gewicht | 68.15 kg | 66.5–67.2 kg | 67.00 kg | ✅ im Korridor |
+| Körperfett | 19.0% | 18.0–18.5% | 18.3% | ✅ im Korridor |
+| Bauchumfang | 87 cm | 85–86 cm | (zuletzt 86, heute offen) | ⏳ nachmessen |
+| Fettmasse | 12.95 kg | 12.0–12.5 kg | 12.26 kg | ✅ im Korridor |
 
 ### Checkpoint 2 – 28.07.2026 (Deadline)
 | Metrik | Startwert | Realistisches Ziel | Optimistisches Ziel | Ist |
