@@ -14,7 +14,7 @@
 | 16.07.2026 | 67.25 | 18.5 | 12.44 | 54.80 | 86 | 1553 | Tag 5 morgens (Whoosh) – Bauch -1 cm (87→86) |
 | 17.07.2026 | 67.25 | 18.5 | 12.44 | 54.80 | 86 | 1553 | Tag 6 morgens – Plateau, alle Werte flat ggü. 16.07 (Bauch 86, stabil) |
 | 18.07.2026 | 67.00 | 18.3 | 12.26 | 54.70 | 86 | 1552 | Tag 7 morgens – 2. Whoosh: -0.25 kg (fast reines Fett), KF & Subkutan neue Tiefstwerte; Bauch 86 (stabil) |
-| **19.07.2026** | **67.45** | **18.6** | **12.55** | **54.90** | **—** | **1555** | **Tag 8 / Checkpoint 1 – Wasser-Uptick +0.45 kg nach Padel/Core; Werte exakt = 15.07 (Post-Padel-Uptick → damals Whoosh). Bauch noch messen** |
+| **19.07.2026** | **67.45** | **18.6** | **12.55** | **54.90** | **86** | **1555** | **Tag 8 / Checkpoint 1 – Wasser-Uptick +0.45 kg nach Padel/Core; Werte exakt = 15.07 (Post-Padel-Uptick → damals Whoosh). Bauch 86 (stabil) → bestätigt reines Wasser** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -243,7 +243,7 @@ Du liegst leicht **vor Plan** — auf allen vier Achsen. Wenn du das Defizit hä
 | Körperwasser | -0.1% (58.9 → 58.8) | Neutral |
 | Protein | -0.1% (18.7 → 18.6) | Neutral — Rundung |
 | BMR | +3 kcal (1555) | Folgt nur dem Gewicht |
-| Bauchumfang | noch offen | Bitte nüchtern messen — der ehrliche Sixpack-Indikator |
+| Bauchumfang | **0 cm (86, stabil)** | **🎯 Der Beweis: hält den Knick trotz +0.45 kg auf der Waage → kein echtes Fett** |
 
 **Warum das zu 100 % Wasser ist — die Energiebilanz macht Fett unmöglich:**
 Um **0.29 kg echtes Körperfett** einzulagern, bräuchtest du einen Überschuss von **~2.600 kcal**. Gestern hast du **1.667 kcal** gegessen (Grundumsatz allein 1.552) **plus ~60 min Padel + Core**. Dein Defizit lag bei **~700–900 kcal**. Fett *anzusetzen* war physikalisch ausgeschlossen. Was die Waage zeigt, ist Gewicht — und Gewicht ist zu >99 % Wasser-getrieben auf Tagesbasis.
@@ -266,7 +266,7 @@ Um **0.29 kg echtes Körperfett** einzulagern, bräuchtest du einen Überschuss 
 
 Eine einzelne Tages-Messung ist Rauschen. Die **Linie über die Woche zeigt sauber nach unten** — und die entscheidet, nicht der Wert von heute Morgen.
 
-**Was das für heute heißt:** Nicht vom Uptick verunsichern lassen — er ist eingeplant und war vorhersehbar. Konkret: **Defizit halten, 150 g Protein, 3.5–4 L Wasser** (klingt paradox, aber viel trinken spült Retention aus), **Salz niedrig**. Dann fließt das Padel-Wasser in 1–2 Tagen ab und der nächste Whoosh macht den echten Fettverlust wieder sichtbar. **Bitte Bauchumfang nüchtern nachmessen** — solange der bei 86 steht (oder fällt), ist alles im grünen Bereich, egal was die Waage kurzfristig macht.
+**Was das für heute heißt:** Nicht vom Uptick verunsichern lassen — er ist eingeplant und war vorhersehbar. Konkret: **Defizit halten, 150 g Protein, 3.5–4 L Wasser** (klingt paradox, aber viel trinken spült Retention aus), **Salz niedrig**. Dann fließt das Padel-Wasser in 1–2 Tagen ab und der nächste Whoosh macht den echten Fettverlust wieder sichtbar. **Bauchumfang bestätigt bei 86 cm (stabil)** — der ehrlichste Indikator hält den Knick, während die Waage +0.45 kg zeigt. Das ist der endgültige Beweis: Wäre der Uptick echtes Fett, wäre der Umfang mitgestiegen. Ist er nicht. Alles im grünen Bereich.
 
 ---
 
@@ -279,7 +279,7 @@ Eine einzelne Tages-Messung ist Rauschen. Die **Linie über die Woche zeigt saub
 |--------|-----------|------|----------------|------------------|--------|
 | Gewicht | 68.15 kg | 66.5–67.2 kg | 67.00 kg ✅ | 67.45 kg (Wasser) | ✅ auf Trend im Korridor |
 | Körperfett | 19.0% | 18.0–18.5% | 18.3% ✅ | 18.6% (Schätzung) | ✅ auf Trend im Korridor |
-| Bauchumfang | 87 cm | 85–86 cm | 86 cm ✅ | noch messen | ✅ Mindestziel (Trend) |
+| Bauchumfang | 87 cm | 85–86 cm | 86 cm ✅ | 86 cm ✅ | ✅ Mindestziel erreicht (stabil) |
 | Fettmasse | 12.95 kg | 12.0–12.5 kg | 12.26 kg ✅ | 12.55 kg (Wasser) | ✅ auf Trend im Korridor |
 
 ### Checkpoint 2 – 28.07.2026 (Deadline)
