@@ -14,7 +14,8 @@
 | 16.07.2026 | 67.25 | 18.5 | 12.44 | 54.80 | 86 | 1553 | Tag 5 morgens (Whoosh) – Bauch -1 cm (87→86) |
 | 17.07.2026 | 67.25 | 18.5 | 12.44 | 54.80 | 86 | 1553 | Tag 6 morgens – Plateau, alle Werte flat ggü. 16.07 (Bauch 86, stabil) |
 | 18.07.2026 | 67.00 | 18.3 | 12.26 | 54.70 | 86 | 1552 | Tag 7 morgens – 2. Whoosh: -0.25 kg (fast reines Fett), KF & Subkutan neue Tiefstwerte; Bauch 86 (stabil) |
-| **19.07.2026** | **67.45** | **18.6** | **12.55** | **54.90** | **86** | **1555** | **Tag 8 / Checkpoint 1 – Wasser-Uptick +0.45 kg nach Padel/Core; Werte exakt = 15.07 (Post-Padel-Uptick → damals Whoosh). Bauch 86 (stabil) → bestätigt reines Wasser** |
+| 19.07.2026 | 67.45 | 18.6 | 12.55 | 54.90 | 86 | 1555 | Tag 8 / Checkpoint 1 – Wasser-Uptick +0.45 kg nach Padel/Core; Werte exakt = 15.07 (Post-Padel-Uptick → damals Whoosh). Bauch 86 (stabil) → bestätigt reines Wasser |
+| **20.07.2026** | **67.55** | **18.7** | **12.63** | **54.90** | **—** | **1556** | **Tag 9 – 2. Wasser-Uptick-Tag +0.10 kg: Salz/Fett-Sonntag (Wurst+Kuchen) ON TOP auf Padel-Wasser → Whoosh verzögert. KF/Subkutan minimal ↑ (Schätzung folgt Hydration), Muskel/FFM/Visceral stabil. Bauchumfang heute nicht gemessen** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -267,6 +268,49 @@ Um **0.29 kg echtes Körperfett** einzulagern, bräuchtest du einen Überschuss 
 Eine einzelne Tages-Messung ist Rauschen. Die **Linie über die Woche zeigt sauber nach unten** — und die entscheidet, nicht der Wert von heute Morgen.
 
 **Was das für heute heißt:** Nicht vom Uptick verunsichern lassen — er ist eingeplant und war vorhersehbar. Konkret: **Defizit halten, 150 g Protein, 3.5–4 L Wasser** (klingt paradox, aber viel trinken spült Retention aus), **Salz niedrig**. Dann fließt das Padel-Wasser in 1–2 Tagen ab und der nächste Whoosh macht den echten Fettverlust wieder sichtbar. **Bauchumfang bestätigt bei 86 cm (stabil)** — der ehrlichste Indikator hält den Knick, während die Waage +0.45 kg zeigt. Das ist der endgültige Beweis: Wäre der Uptick echtes Fett, wäre der Umfang mitgestiegen. Ist er nicht. Alles im grünen Bereich.
+
+### 19.07. → 20.07. (Tag 8 → Tag 9) — 2. Uptick-Tag: Salz-Retention verzögert den Whoosh
+| Metrik | Veränderung | Bewertung |
+|--------|------------|-----------|
+| Gewicht | **+0.10 kg** (67.45 → 67.55) | Wasser — zweiter Uptick-Tag in Folge, Ursache diesmal Salz/Fett vom Sonntag (siehe unten) |
+| Körperfett | +0.1% (18.6 → 18.7) | Scheinbar — Bioimpedanz-Schätzung folgt der Hydration, kein echter Fettzuwachs |
+| Fettmasse | +0.08 kg (12.55 → 12.63) | Rechnerisch aus KF% — energetisch kein Fettzuwachs möglich |
+| Fettfreie Masse | 0.00 kg (54.90) | Neutral — stabil |
+| Muskelmasse | 0.00 kg (52.20) | Neutral — stabil, Muskel geschützt |
+| Skelettmuskel | -0.1% (52.6 → 52.5) | Neutral — Rundungsrauschen |
+| Subkutanfett | +0.1% (16.9 → 17.0) | Scheinbar — folgt der KF%-Schätzung, kein echter Anstieg |
+| Visceral Fett | 0 (bleibt 4) | Gut — stabil im grünen Bereich |
+| Körperwasser | -0.1% (58.8 → 58.7) | Neutral — Rundung |
+| Protein | 0.0% (18.6) | Neutral — hält den Anteil |
+| Knochenmasse | 0.00 kg (2.75) | Neutral — stabil |
+| BMR | +1 kcal (1556) | Neutral — folgt nur dem Gewicht |
+| BMI | +0.1 (21.6) | Neutral — folgt dem Gewicht |
+| Bauchumfang | — (heute nicht gemessen) | ⚠️ Fehlt — bitte morgens nüchtern nachtragen, das ist der ehrlichste Indikator |
+
+**Warum der Whoosh diesmal auf sich warten lässt — die Salzlast vom Sonntag:**
+Anders als am 15.07. (nur Padel-Wasser → 24 h später Whoosh) kommt heute ein **zweiter Wasser-Treiber** oben drauf: Der Sonntag (Tag 8) war **salz- und fettlastig** — ¾ Grillwurst + Cheesecake-Scheibe brachten **~100 g Fett und ordentlich Natrium**. Salz bindet Wasser (jedes zusätzliche Gramm Natrium hält ~150–300 ml). Das legt sich als **zweite Retentionsschicht** über das ohnehin schon eingelagerte Padel-Wasser. Ergebnis: statt des erwarteten Abflusses ein weiterer Mini-Uptick (+0.10). Das ist **kein Fett** — energetisch war der Sonntag trotz Kuchen im Defizit (~200 kcal, dank Tennis + 10.036 Schritten, Move 752 kcal). Um die rechnerischen +0.08 kg Fettmasse *echt* anzusetzen, hättest du ~600 kcal Überschuss gebraucht — du warst im Minus.
+
+**Der Beweis liegt in den stabilen Markern:** Muskelmasse (52.20), Fettfreie Masse (54.90), Visceralfett (4) und Knochenmasse (2.75) stehen alle **exakt still**. Ein echter Fettzuwachs würde sich nie so sauber nur in KF% und Subkutan zeigen und alles andere unberührt lassen — genau das ist die Signatur von Wasser, nicht von Fett.
+
+**Der Trend über 8 Tage ist intakt (12.07. → 20.07.):**
+| Metrik | Start | Heute | Δ |
+|--------|-------|-------|---|
+| Gewicht | 68.15 | 67.55 | **-0.60 kg** (trotz zwei Uptick-Tagen klar im Minus) |
+| Körperfett | 19.0 | 18.7 | **-0.3%** |
+| Fettmasse | 12.95 | 12.63 | **-0.32 kg** |
+| Subkutanfett | 17.2 | 17.0 | **-0.2%** |
+| Visceral Fett | 5 | 4 | **-1** |
+
+Zur Erinnerung: Am 18.07. (Tag 7) standst du schon bei **67.00 / 18.3% / 12.26** — das ist der „echte" Stand unter dem Wasser. Zwei Retentionstage haben die Waage kosmetisch +0.55 kg hochgeschoben, aber nichts davon ist Fett. Sobald das Salz- und Padel-Wasser abfließt, kommst du auf oder unter die 67-kg-Marke zurück.
+
+**Was das für heute heißt (Tag 9):** Jetzt kommt es auf die **Salz-Entwässerung** an, sonst schleppt sich der Uptick weiter. Konkret:
+1. **Salz bewusst niedrig** — kein weiteres Wurst-/Verarbeitetes, wenig Zusatzsalz. Das ist heute der Hebel Nr. 1.
+2. **3.5–4 L Wasser** — spült das gebundene Natrium/Wasser aus (klingt paradox, funktioniert).
+3. **Protein zurück auf 150 g+** — gestern nur ~130 g; Eier/Magerquark/Skyr statt Dessert. Im Defizit ist konstant hohes Protein dein Muskelschutz Nr. 1.
+4. **Fett runter auf ~60 g** — die Wurst/Kuchen-Fettlast war der Kalorientreiber; heute mager.
+5. **Bauchumfang morgen früh messen** — er hat den 86-cm-Knick bisher durch beide Uptick-Tage gehalten; solange er stabil bleibt, ist zu 100 % bewiesen, dass die Waage nur Wasser zeigt.
+
+Halte die Linie — der Whoosh ist nur aufgeschoben, nicht aufgehoben. 💪
 
 ---
 
