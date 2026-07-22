@@ -16,7 +16,8 @@
 | 18.07.2026 | 67.00 | 18.3 | 12.26 | 54.70 | 86 | 1552 | Tag 7 morgens – 2. Whoosh: -0.25 kg (fast reines Fett), KF & Subkutan neue Tiefstwerte; Bauch 86 (stabil) |
 | 19.07.2026 | 67.45 | 18.6 | 12.55 | 54.90 | 86 | 1555 | Tag 8 / Checkpoint 1 – Wasser-Uptick +0.45 kg nach Padel/Core; Werte exakt = 15.07 (Post-Padel-Uptick → damals Whoosh). Bauch 86 (stabil) → bestätigt reines Wasser |
 | 20.07.2026 | 67.55 | 18.7 | 12.63 | 54.90 | — | 1556 | Tag 9 – 2. Wasser-Uptick-Tag +0.10 kg: Salz/Fett-Sonntag (Wurst+Kuchen) ON TOP auf Padel-Wasser → Whoosh verzögert. KF/Subkutan minimal ↑ (Schätzung folgt Hydration), Muskel/FFM/Visceral stabil. Bauchumfang heute nicht gemessen |
-| **21.07.2026** | **67.40** | **18.6** | **12.54** | **54.90** | **—** | **1555** | **Tag 10 – 🎯 Aufgeschobener Whoosh: -0.15 kg. Padel-/Salz-Wasser fließt ab, Werte exakt = 14.07 (zurück auf Tag-3-Niveau). KF & Subkutan wieder auf Tiefstwert-Nähe, Muskel/FFM/Visceral/Knochen stabil → reines Wasser raus. Bauchumfang heute nicht gemessen** |
+| 21.07.2026 | 67.40 | 18.6 | 12.54 | 54.90 | — | 1555 | Tag 10 – 🎯 Aufgeschobener Whoosh: -0.15 kg. Padel-/Salz-Wasser fließt ab, Werte exakt = 14.07 (zurück auf Tag-3-Niveau). KF & Subkutan wieder auf Tiefstwert-Nähe, Muskel/FFM/Visceral/Knochen stabil → reines Wasser raus. Bauchumfang heute nicht gemessen |
+| **22.07.2026** | **67.00** | **18.3** | **12.26** | **54.70** | **—** | **1552** | **Tag 11 – 🎯🎯 Whoosh vollständig durchgelaufen: -0.40 kg. Restwasser komplett raus, Werte Ziffer für Ziffer = 18.07-Tiefstwert (67.00 / 18.3% / 12.26). KF & Subkutan auf Allzeit-Tief, Skelettmuskel 52.7 (Höchststand), Muskel/FFM/Visceral/Knochen stabil → reiner Wasserabfluss. 67-kg-Marke wieder erreicht. Bauchumfang nicht gemessen** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -348,6 +349,47 @@ Halte die Linie — der Whoosh ist nur aufgeschoben, nicht aufgehoben. 💪
 4. **Bauchumfang morgen früh messen** — er hat den 86-cm-Knick durch beide Uptick-Tage gehalten; beim Whoosh ist jetzt der 85-cm-Optimalwert in Reichweite. Unser ehrlichster Sixpack-Indikator für die letzte Woche.
 
 Sauber zurück auf Kurs. Jetzt die Linie halten und den Whoosh laufen lassen. 💪
+
+### 21.07. → 22.07. (Tag 10 → Tag 11) — 🎯🎯 Whoosh durchgelaufen, zurück am echten Tief
+| Metrik | Veränderung | Bewertung |
+|--------|------------|-----------|
+| Gewicht | **-0.40 kg** (67.40 → 67.00) | Sehr gut — der Whoosh läuft jetzt voll durch, das restliche Padel-/Salz-Wasser ist raus, 67-kg-Marke wieder erreicht |
+| Körperfett | **-0.3%** (18.6 → 18.3) | Sehr gut — zurück auf dem Allzeit-Tief (= 18.07.) |
+| Fettmasse | **-0.28 kg** (12.54 → 12.26) | Sehr gut — zurück auf dem Tiefstwert |
+| Fettfreie Masse | -0.20 kg (54.90 → 54.70) | Neutral — Wasser, Muskel geschützt |
+| Skelettmuskel | **+0.1%** (52.6 → 52.7) | Gut — relativer Anteil zurück auf Höchststand |
+| Muskelmasse | -0.10 kg (52.10 → 52.00) | Neutral — Wasser-Rückgang, kein echter Verlust (Skelettmuskel-% steigt) |
+| Subkutanfett | **-0.3%** (16.9 → 16.6) | Sehr gut — sichtbares Fett zurück auf Allzeit-Tief |
+| Visceral Fett | 0 (bleibt 4) | Gut — stabil im grünen Bereich |
+| Körperwasser | +0.1% (58.8 → 58.9) | Neutral — Hydration auf Höchststand normalisiert |
+| Protein | +0.1% (18.6 → 18.7) | Gut — Proteinanteil zurück auf Höchststand |
+| Knochenmasse | -0.01 kg (2.74) | Neutral — Rundung, stabil |
+| BMR | -3 kcal (1552) | Neutral — folgt nur dem Gewicht |
+| BMI | -0.1 (21.4) | Neutral — folgt dem Gewicht |
+| Bauchumfang | — (heute nicht gemessen) | ⚠️ Fehlt — bitte morgens nüchtern nachtragen, wichtigster Sixpack-Indikator im Endspurt |
+
+**Fazit Tag 11:** Prognose punktgenau eingetroffen. Ich hatte gestern geschrieben: *"Salz konsequent niedrig, Wasser hoch — dann fließt das letzte gebundene Wasser raus."* Genau das ist passiert: **-0.40 kg über Nacht, und deine Werte stehen jetzt Ziffer für Ziffer wieder auf dem 18.07.-Tiefstwert** (67.00 / 18.3% / 12.26 / 54.70 / 16.6% / 52.7% / 52.00). Das ist die saubere Auflösung der zweitägigen Wasser-Retention (Padel + Salz-Sonntag) — es kam als Wasser rauf (+0.55 kg) und ist als Wasser wieder runter. Körperfett und Subkutanfett stehen beide auf ihrem **Allzeit-Tief**, Skelettmuskel-Anteil (52.7%), Körperwasser (58.9%) und Protein (18.7%) alle auf **Höchststand**, Muskel/FFM/Visceral/Knochen stabil → reiner Wasserabfluss, kein Muskelverlust.
+
+**Einordnung — ehrlich:** Wir stehen wieder exakt auf dem echten Tief vom 18.07. Das heißt: Die **letzten 4 Tage (19.–22.07.) waren netto ein Wasser-Rundlauf** — kein neuer Fettverlust *auf dem Papier*, aber auch **kein Rückschritt**, und das Defizit lief die ganze Zeit sauber weiter (gestern ~650 kcal Minus, 174 g Protein). Das eingesparte Fett ist real da; es war nur unter dem Retentionswasser versteckt. Ab jetzt zählt jedes Gramm als **neues Terrain** unter 67.00 kg / 18.3%.
+
+**Kumulativ seit Start (12.07. → 22.07., 10 Tage):**
+| Metrik | Start | Heute | Δ |
+|--------|-------|-------|---|
+| Gewicht | 68.15 | 67.00 | **-1.15 kg** |
+| Körperfett | 19.0 | 18.3 | **-0.7%** |
+| Fettmasse | 12.95 | 12.26 | **-0.69 kg** (echtes Fett!) |
+| Subkutanfett | 17.2 | 16.6 | **-0.6%** |
+| Muskelmasse | 52.40 | 52.00 | -0.40 kg (geschützt, Skelettmuskel-% ↑ von 52.3 auf 52.7) |
+| Visceral Fett | 5 | 4 | **-1** |
+
+**Endspurt zur Deadline (28.07., noch 6 Tage):** Für Checkpoint 2 (Realziel: 65.5–66.5 kg / 17.0–17.5% KF / 83–85 cm) brauchst du noch ~-0.5 bis -1.0 kg und ~-0.8 bis -1.3% KF. Weil das Wasser jetzt **komplett raus** ist, wird jeder weitere Whoosh ab hier **echter Netto-Fortschritt** — kein Rundlauf mehr. Das ist die beste Ausgangslage für die Schlusswoche. Konkret ab heute:
+1. **Salz weiter niedrig halten** — kein verarbeitetes Fleisch/Fertiges, damit kein neues Wasser die Sicht verdeckt. Ab 25.07. dann die geplante scharfe Sodium-Reduktion fürs optische Peaking.
+2. **3.5–4 L Wasser** — hält den Abfluss am Laufen.
+3. **Protein 150 g+** — im Endspurt der Muskelschutz Nr. 1 (gestern mit 174 g vorbildlich).
+4. **Defizit halten** — bei ~650 kcal/Tag sind bis 28.07. rechnerisch noch ~-0.5 kg reines Fett drin.
+5. **Bauchumfang morgen früh messen** — der letzte Wert ist vom 18.07. (86 cm). Beim jetzt sauberen Stand ist die 85-cm-Optimalmarke greifbar; wir brauchen den frischen Datenpunkt, um den Sixpack-Fortschritt für die letzte Woche zu tracken.
+
+Wasser raus, echtes Tief erreicht, Muskel bombenfest — perfekte Startrampe in die Schlusswoche. Jetzt Netto-Fett holen. 💪
 
 ---
 
