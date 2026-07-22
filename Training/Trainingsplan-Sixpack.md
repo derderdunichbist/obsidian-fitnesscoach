@@ -120,6 +120,7 @@ Facepull:            3 × 15
 | Datum | Einheit | Highlights | Energie (1–10) | Kcal verbrannt |
 |-------|---------|-----------|----------------|----------------|
 | 12.07.2026 | Tennis 71 min | Move Goal 200% | — | 477 kcal |
+| 22.07.2026 | Stair-Stepper 14 min + Tennis ~74 min (verdoppelt) + Kraft ~30 min | Move 246%; 2 Einheiten nachgetragen (vergessen zu tracken) | — | ~786 aktive kcal |
 
 ---
 
