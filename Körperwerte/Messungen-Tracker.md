@@ -17,7 +17,7 @@
 | 19.07.2026 | 67.45 | 18.6 | 12.55 | 54.90 | 86 | 1555 | Tag 8 / Checkpoint 1 – Wasser-Uptick +0.45 kg nach Padel/Core; Werte exakt = 15.07 (Post-Padel-Uptick → damals Whoosh). Bauch 86 (stabil) → bestätigt reines Wasser |
 | 20.07.2026 | 67.55 | 18.7 | 12.63 | 54.90 | — | 1556 | Tag 9 – 2. Wasser-Uptick-Tag +0.10 kg: Salz/Fett-Sonntag (Wurst+Kuchen) ON TOP auf Padel-Wasser → Whoosh verzögert. KF/Subkutan minimal ↑ (Schätzung folgt Hydration), Muskel/FFM/Visceral stabil. Bauchumfang heute nicht gemessen |
 | 21.07.2026 | 67.40 | 18.6 | 12.54 | 54.90 | — | 1555 | Tag 10 – 🎯 Aufgeschobener Whoosh: -0.15 kg. Padel-/Salz-Wasser fließt ab, Werte exakt = 14.07 (zurück auf Tag-3-Niveau). KF & Subkutan wieder auf Tiefstwert-Nähe, Muskel/FFM/Visceral/Knochen stabil → reines Wasser raus. Bauchumfang heute nicht gemessen |
-| **22.07.2026** | **67.00** | **18.3** | **12.26** | **54.70** | **—** | **1552** | **Tag 11 – 🎯🎯 Whoosh vollständig durchgelaufen: -0.40 kg. Restwasser komplett raus, Werte Ziffer für Ziffer = 18.07-Tiefstwert (67.00 / 18.3% / 12.26). KF & Subkutan auf Allzeit-Tief, Skelettmuskel 52.7 (Höchststand), Muskel/FFM/Visceral/Knochen stabil → reiner Wasserabfluss. 67-kg-Marke wieder erreicht. Bauchumfang nicht gemessen** |
+| **22.07.2026** | **67.00** | **18.3** | **12.26** | **54.70** | **86** | **1552** | **Tag 11 – 🎯🎯 Whoosh vollständig durchgelaufen: -0.40 kg. Restwasser komplett raus, Werte Ziffer für Ziffer = 18.07-Tiefstwert (67.00 / 18.3% / 12.26). KF & Subkutan auf Allzeit-Tief, Skelettmuskel 52.7 (Höchststand), Muskel/FFM/Visceral/Knochen stabil → reiner Wasserabfluss. 67-kg-Marke wieder erreicht. Bauchumfang 86 cm (hält den Knick)** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -366,7 +366,7 @@ Sauber zurück auf Kurs. Jetzt die Linie halten und den Whoosh laufen lassen. �
 | Knochenmasse | -0.01 kg (2.74) | Neutral — Rundung, stabil |
 | BMR | -3 kcal (1552) | Neutral — folgt nur dem Gewicht |
 | BMI | -0.1 (21.4) | Neutral — folgt dem Gewicht |
-| Bauchumfang | — (heute nicht gemessen) | ⚠️ Fehlt — bitte morgens nüchtern nachtragen, wichtigster Sixpack-Indikator im Endspurt |
+| Bauchumfang | **0 cm (86, stabil)** | **🎯 Der Beweis: hält den 86-cm-Knick vom 16.07. durch beide Uptick-Tage → bestätigt, dass die Waage die ganze Zeit nur Wasser zeigte** |
 
 **Fazit Tag 11:** Prognose punktgenau eingetroffen. Ich hatte gestern geschrieben: *"Salz konsequent niedrig, Wasser hoch — dann fließt das letzte gebundene Wasser raus."* Genau das ist passiert: **-0.40 kg über Nacht, und deine Werte stehen jetzt Ziffer für Ziffer wieder auf dem 18.07.-Tiefstwert** (67.00 / 18.3% / 12.26 / 54.70 / 16.6% / 52.7% / 52.00). Das ist die saubere Auflösung der zweitägigen Wasser-Retention (Padel + Salz-Sonntag) — es kam als Wasser rauf (+0.55 kg) und ist als Wasser wieder runter. Körperfett und Subkutanfett stehen beide auf ihrem **Allzeit-Tief**, Skelettmuskel-Anteil (52.7%), Körperwasser (58.9%) und Protein (18.7%) alle auf **Höchststand**, Muskel/FFM/Visceral/Knochen stabil → reiner Wasserabfluss, kein Muskelverlust.
 
@@ -387,7 +387,7 @@ Sauber zurück auf Kurs. Jetzt die Linie halten und den Whoosh laufen lassen. �
 2. **3.5–4 L Wasser** — hält den Abfluss am Laufen.
 3. **Protein 150 g+** — im Endspurt der Muskelschutz Nr. 1 (gestern mit 174 g vorbildlich).
 4. **Defizit halten** — bei ~650 kcal/Tag sind bis 28.07. rechnerisch noch ~-0.5 kg reines Fett drin.
-5. **Bauchumfang morgen früh messen** — der letzte Wert ist vom 18.07. (86 cm). Beim jetzt sauberen Stand ist die 85-cm-Optimalmarke greifbar; wir brauchen den frischen Datenpunkt, um den Sixpack-Fortschritt für die letzte Woche zu tracken.
+5. **Bauchumfang 86 cm** (gemessen) — hält den Knick vom 16.07. stabil, kein Rückschritt trotz der zwei Uptick-Tage. Für das CP2-Ziel (Real 83–85 cm) muss er in der Schlusswoche noch **1–3 cm runter**; genau da soll die Sodium-Reduktion ab 25.07. + der weitere Fettabbau ansetzen.
 
 Wasser raus, echtes Tief erreicht, Muskel bombenfest — perfekte Startrampe in die Schlusswoche. Jetzt Netto-Fett holen. 💪
 

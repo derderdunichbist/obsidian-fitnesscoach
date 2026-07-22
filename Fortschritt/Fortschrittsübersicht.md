@@ -56,7 +56,7 @@ START                              ZIEL
 | 19.07. | **8** | — | — | — | — | **CHECKPOINT 1** |
 | 20.07. | 9 | — | — | — | — | — |
 | 21.07. | 10 | — | — | — | — | — |
-| 22.07. | 11 | **67.00 kg** | — | — | — | 🎯 Whoosh durch: -0.40 kg, zurück am Tief (18.3 % KF, 12.26 kg Fett). Wasser komplett raus |
+| 22.07. | 11 | **67.00 kg** | — | — | — | 🎯 Whoosh durch: -0.40 kg, zurück am Tief (18.3 % KF, 12.26 kg Fett). Wasser raus, Bauch 86 cm (Knick hält) |
 | 23.07. | 12 | — | — | — | — | — |
 | 24.07. | 13 | — | — | — | — | — |
 | 25.07. | 14 | — | — | — | — | **Sodium-Reduktion Start** |
