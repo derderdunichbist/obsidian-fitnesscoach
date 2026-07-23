@@ -16,7 +16,7 @@ START                              ZIEL
 |---------|--------|-----------|
 | Körperfett | 🟢 17.9% | Allzeit-Tief, erstmals unter 18%; noch -0.4 bis -0.9% bis CP2-Realziel |
 | Gewicht | 🟢 66.35 kg | Neues Allzeit-Tief, bereits im CP2-Realkorridor (65.5–66.5) |
-| Bauchumfang | 🟡 86 cm (21.07.) | Ziel 83–85 cm; heute nicht gemessen – nachtragen |
+| Bauchumfang | 🟢 85.5 cm | Neuer Tiefstwert, 86er-Knick durchbrochen; nur noch -0.5 cm bis Ziel (83–85) |
 | Ernährungsplan | 🟢 | Läuft konsequent, Defizit sauber gehalten |
 | Trainingsplan | 🟢 | Regelmäßig, Muskel voll geschützt (Skelettmuskel-% ↑ auf 53.1) |
 | Konsequenz | 🟢 | 11 Tage durchgezogen, -1.80 kg / -1.1% KF |
@@ -37,7 +37,7 @@ START                              ZIEL
 |--------|-----------|------------|------------|--------------|--------|
 | Gewicht | 68.15 kg | 66.0 kg | 65.0 kg | **66.35 kg** | 🟢 nahe Mindestziel (-0.35) |
 | Körperfett | 19.0% | 17.5% | 16.0% | **17.9%** | 🟡 noch -0.4% bis Mindestziel |
-| Bauchumfang | 87 cm | 85 cm | 83 cm | 86 (21.07.) | 🟡 noch -1 cm bis Mindestziel |
+| Bauchumfang | 87 cm | 85 cm | 83 cm | **85.5 cm** | 🟢 nur noch -0.5 cm bis Mindestziel |
 | Sixpack sichtbar? | Nein | Kontur | Klare Linien | erste Kontur nah | 🟡 bei ~17% Kontur erwartet |
 
 ---
@@ -57,7 +57,7 @@ START                              ZIEL
 | 20.07. | 9 | — | — | — | — | — |
 | 21.07. | 10 | — | — | — | — | — |
 | 22.07. | 11 | **67.00 kg** | — | — | — | 🎯 Whoosh durch: -0.40 kg, zurück am Tief (18.3 % KF, 12.26 kg Fett). Wasser raus, Bauch 86 cm (Knick hält) |
-| 23.07. | 12 | **66.35 kg** | — | — | — | 🚀 Netto-Durchbruch: -0.65 kg, neues Allzeit-Tief. Erstmals <67 kg & <18% KF (17.9%), Fettmasse 11.88 kg (<12). Im CP2-Realkorridor. Bauch nicht gemessen |
+| 23.07. | 12 | **66.35 kg** | — | — | — | 🚀 Netto-Durchbruch: -0.65 kg, neues Allzeit-Tief. Erstmals <67 kg & <18% KF (17.9%), Fettmasse 11.88 kg (<12). Im CP2-Korridor. 🎯 Bauch 85.5 cm (Knick durchbrochen) |
 | 24.07. | 13 | — | — | — | — | — |
 | 25.07. | 14 | — | — | — | — | **Sodium-Reduktion Start** |
 | 26.07. | 15 | — | — | — | — | — |

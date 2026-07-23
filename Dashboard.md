@@ -12,7 +12,7 @@
 | Gewicht | 66.35 kg | 65–67 kg | ↓ -1.80 kg seit Start (12.07.) · Allzeit-Tief, im CP2-Korridor |
 | Körperfett | 17.9% | 16–17% | ↓ -1.1% seit Start · erstmals <18%, Allzeit-Tief |
 | Fettmasse | 11.88 kg | — | ↓ -1.07 kg seit Start · erstmals <12 kg |
-| Bauchumfang | 86 cm (21.07.) | <85 cm | ↓ -1 cm (87→86); heute nicht gemessen |
+| Bauchumfang | 85.5 cm | <85 cm | ↓ -1.5 cm (87→85.5) 🎯 86er-Knick durchbrochen, neuer Tiefstwert |
 | Muskelmasse | 51.70 kg | halten | geschützt · Skelettmuskel-% ↑ 52.3→53.1 (Höchststand) |
 | Visceral Fett | 4 | ≤4 | ↓ -1 seit Start ✓ |
 
