@@ -17,7 +17,8 @@
 | 19.07.2026 | 67.45 | 18.6 | 12.55 | 54.90 | 86 | 1555 | Tag 8 / Checkpoint 1 – Wasser-Uptick +0.45 kg nach Padel/Core; Werte exakt = 15.07 (Post-Padel-Uptick → damals Whoosh). Bauch 86 (stabil) → bestätigt reines Wasser |
 | 20.07.2026 | 67.55 | 18.7 | 12.63 | 54.90 | — | 1556 | Tag 9 – 2. Wasser-Uptick-Tag +0.10 kg: Salz/Fett-Sonntag (Wurst+Kuchen) ON TOP auf Padel-Wasser → Whoosh verzögert. KF/Subkutan minimal ↑ (Schätzung folgt Hydration), Muskel/FFM/Visceral stabil. Bauchumfang heute nicht gemessen |
 | 21.07.2026 | 67.40 | 18.6 | 12.54 | 54.90 | — | 1555 | Tag 10 – 🎯 Aufgeschobener Whoosh: -0.15 kg. Padel-/Salz-Wasser fließt ab, Werte exakt = 14.07 (zurück auf Tag-3-Niveau). KF & Subkutan wieder auf Tiefstwert-Nähe, Muskel/FFM/Visceral/Knochen stabil → reines Wasser raus. Bauchumfang heute nicht gemessen |
-| **22.07.2026** | **67.00** | **18.3** | **12.26** | **54.70** | **86** | **1552** | **Tag 11 – 🎯🎯 Whoosh vollständig durchgelaufen: -0.40 kg. Restwasser komplett raus, Werte Ziffer für Ziffer = 18.07-Tiefstwert (67.00 / 18.3% / 12.26). KF & Subkutan auf Allzeit-Tief, Skelettmuskel 52.7 (Höchststand), Muskel/FFM/Visceral/Knochen stabil → reiner Wasserabfluss. 67-kg-Marke wieder erreicht. Bauchumfang 86 cm (hält den Knick)** |
+| 22.07.2026 | 67.00 | 18.3 | 12.26 | 54.70 | 86 | 1552 | Tag 11 – 🎯🎯 Whoosh vollständig durchgelaufen: -0.40 kg. Restwasser komplett raus, Werte Ziffer für Ziffer = 18.07-Tiefstwert (67.00 / 18.3% / 12.26). KF & Subkutan auf Allzeit-Tief, Skelettmuskel 52.7 (Höchststand), Muskel/FFM/Visceral/Knochen stabil → reiner Wasserabfluss. 67-kg-Marke wieder erreicht. Bauchumfang 86 cm (hält den Knick) |
+| **23.07.2026** | **66.35** | **17.9** | **11.88** | **54.50** | **—** | **1546** | **Tag 12 – 🚀 NEUES ALLZEIT-TIEF & Netto-Durchbruch: -0.65 kg. Erstmals unter 67 kg → direkt in den CP2-Realkorridor (65.5–66.5). KF erstmals unter 18% (17.9), Fettmasse erstmals unter 12 kg (11.88), Subkutan 16.3% → alle drei neuer Allzeit-Tief. Skelettmuskel 53.1% / Körperwasser 59.3% / Protein 18.7% alle Höchststand. -0.38 kg davon Fett (58%). Bauchumfang heute nicht gemessen – bitte nachtragen** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -391,6 +392,45 @@ Sauber zurück auf Kurs. Jetzt die Linie halten und den Whoosh laufen lassen. �
 
 Wasser raus, echtes Tief erreicht, Muskel bombenfest — perfekte Startrampe in die Schlusswoche. Jetzt Netto-Fett holen. 💪
 
+### 22.07. → 23.07. (Tag 11 → Tag 12) — 🚀 Netto-Durchbruch: neues Allzeit-Tief unter dem Plateau
+| Metrik | Veränderung | Bewertung |
+|--------|------------|-----------|
+| Gewicht | **-0.65 kg** (67.00 → 66.35) | Sehr gut — der erste echte Netto-Schritt UNTER das 18./22.07-Doppeltief, erstmals unter 67 kg |
+| Körperfett | **-0.4%** (18.3 → 17.9) | Sehr gut — **erstmals unter 18%**, neuer Allzeit-Tiefstwert |
+| Fettmasse | **-0.38 kg** (12.26 → 11.88) | Sehr gut — **erstmals unter 12 kg**, 58% des Gewichtsverlusts ist echtes Fett |
+| Fettfreie Masse | -0.20 kg (54.70 → 54.50) | Neutral — Wasser, Muskel geschützt (Skelettmuskel-% steigt) |
+| Skelettmuskel | **+0.4%** (52.7 → 53.1) | Sehr gut — relativer Anteil auf neuem Höchststand, klarer Sprung |
+| Muskelmasse | -0.30 kg (52.00 → 51.70) | Neutral — Wasser-Rückgang, kein echter Verlust (Skelettmuskel-% steigt ja deutlich) |
+| Subkutanfett | **-0.3%** (16.6 → 16.3) | Sehr gut — sichtbares Fett auf neuem Allzeit-Tief (17.7 → 16.3 seit 28.06.) |
+| Visceral Fett | 0 (bleibt 4) | Gut — stabil im grünen Bereich |
+| Körperwasser | **+0.4%** (58.9 → 59.3) | Gut — Hydration auf neuem Höchststand (bestätigt: Muskelmasse-Dip ist Wasser-Rechnung, kein Verlust) |
+| Protein | 0.0% (18.7) | Neutral — hält den Höchststand |
+| Knochenmasse | -0.01 kg (2.73) | Neutral — Rundung, stabil |
+| BMR | -6 kcal (1546) | Neutral — folgt nur dem Gewicht, kein Stoffwechsel-Einbruch |
+| BMI | -0.2 (21.2) | Neutral — folgt dem Gewicht |
+| Bauchumfang | — (heute nicht gemessen) | ⚠️ Fehlt — bitte morgens nüchtern nachtragen; ist jetzt der entscheidende CP2-Indikator |
+
+**Fazit Tag 12:** Der Durchbruch, auf den wir seit dem Wasser-Rundlauf gewartet haben. Gestern standst du wieder auf dem *echten* Tief (67.00 / 18.3%), und ich hatte geschrieben: *"Ab hier ist jeder weitere Gramm neues Netto-Terrain."* Genau das ist heute passiert — und zwar kräftig: **-0.65 kg, davon -0.38 kg reines Fett (58%).** Und der Rest ist nachweislich Wasser, kein Muskel: Körperwasser steigt auf Höchststand (59.3%), Skelettmuskel-Anteil springt auf neuen Höchststand (53.1%) — beides das Gegenteil von Muskelabbau. Gleich **drei Fettmarker auf Allzeit-Tief** (KF 17.9% erstmals unter 18, Fettmasse 11.88 erstmals unter 12 kg, Subkutan 16.3%). Das ist ein sauberer Netto-Fettschritt in völlig neues Terrain.
+
+**Kumulativ seit Start (12.07. → 23.07., 11 Tage):**
+| Metrik | Start | Heute | Δ |
+|--------|-------|-------|---|
+| Gewicht | 68.15 | 66.35 | **-1.80 kg** |
+| Körperfett | 19.0 | 17.9 | **-1.1%** |
+| Fettmasse | 12.95 | 11.88 | **-1.07 kg** (echtes Fett!) |
+| Subkutanfett | 17.2 | 16.3 | **-0.9%** |
+| Muskelmasse | 52.40 | 51.70 | -0.70 kg (geschützt, Skelettmuskel-% ↑ von 52.3 auf 53.1) |
+| Visceral Fett | 5 | 4 | **-1** |
+
+**Verhältnis Fett : Gesamtverlust = 1.07 : 1.80 = 59% echtes Fett** über 11 Tage — bei einer Diät, die mit dem üblichen Wasser-/Glykogen-Abbau startet, ein sehr solider Wert. Und der absolute Muskelmasse-Rückgang (-0.70 kg) ist überwiegend Wasser, denn der Skelettmuskel-**Anteil** steigt die ganze Zeit (52.3 → 53.1%).
+
+**🎯 Checkpoint 2 (28.07., noch 5 Tage) — du bist beim Gewicht bereits im Realkorridor:**
+- Gewicht: Realziel 65.5–66.5 / ist **66.35** → **im Korridor** ✅ (5 Tage früher)
+- Körperfett: Realziel 17.0–17.5 / ist **17.9** → noch **-0.4 bis -0.9%** nötig
+- Bauchumfang: Realziel 83–85 / zuletzt **86** → noch **1–3 cm** nötig (heute nicht gemessen)
+
+**Was das für heute heißt:** Genau so weiterlaufen lassen. **Aber Warnung:** Gestern war das Defizit mit ~1.100 kcal sehr tief — heute **nicht** ein zweites Mal so weit runter, sonst riskierst du Muskel und einen Stoffwechsel-Bremseffekt in der Schlusswoche. Konkret: **Defizit auf ~650 kcal normalisieren** (etwas mehr Carbs für Regeneration/Fülle), **Protein 150 g+**, **3.5–4 L Wasser**, **Salz weiter niedrig**. Und heute unbedingt **Bauchumfang morgens nüchtern messen** — beim Gewicht bist du im Ziel, jetzt entscheidet der Umfang über den sichtbaren Sixpack. Ab 25.07. kommt die geplante scharfe Sodium-Reduktion fürs optische Peaking oben drauf.
+
 ---
 
 ## Wöchentliche Checkpoints
@@ -405,12 +445,12 @@ Wasser raus, echtes Tief erreicht, Muskel bombenfest — perfekte Startrampe in 
 | Bauchumfang | 87 cm | 85–86 cm | 86 cm ✅ | 86 cm ✅ | ✅ Mindestziel erreicht (stabil) |
 | Fettmasse | 12.95 kg | 12.0–12.5 kg | 12.26 kg ✅ | 12.55 kg (Wasser) | ✅ auf Trend im Korridor |
 
-### Checkpoint 2 – 28.07.2026 (Deadline)
-| Metrik | Startwert | Realistisches Ziel | Optimistisches Ziel | Ist |
-|--------|-----------|-------------------|---------------------|-----|
-| Gewicht | 68.15 kg | 65.5–66.5 kg | 64.5–65.5 kg | — |
-| Körperfett | 19.0% | 17.0–17.5% | 16.0–16.5% | — |
-| Bauchumfang | 87 cm | 83–85 cm | 82–84 cm | — |
+### Checkpoint 2 – 28.07.2026 (Deadline, noch 5 Tage)
+| Metrik | Startwert | Realistisches Ziel | Optimistisches Ziel | Ist (23.07.) | Status |
+|--------|-----------|-------------------|---------------------|--------------|--------|
+| Gewicht | 68.15 kg | 65.5–66.5 kg | 64.5–65.5 kg | **66.35 kg** | ✅ im Realkorridor (5 Tage früher) |
+| Körperfett | 19.0% | 17.0–17.5% | 16.0–16.5% | **17.9%** | 🔸 noch -0.4 bis -0.9% |
+| Bauchumfang | 87 cm | 83–85 cm | 82–84 cm | 86 (21.07. gem.) | 🔸 noch 1–3 cm (heute nicht gemessen) |
 
 ---
 
