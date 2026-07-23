@@ -11,34 +11,34 @@ START                              ZIEL
   Gew: 68.15 kg                Ziel: 65-67 kg
 ```
 
-## Status-Ampel (Stand: 12.07.2026)
+## Status-Ampel (Stand: 23.07.2026 – Tag 12)
 | Bereich | Status | Kommentar |
 |---------|--------|-----------|
-| Körperfett | 🟡 19.0% | Ziel: 16–17% in 2 Wochen |
-| Gewicht | 🟡 68.15 kg | Ziel: 65–67 kg |
-| Bauchumfang | 🟡 87 cm | Ziel: unter 85 cm |
-| Ernährungsplan | ⬜ | Noch nicht gestartet |
-| Trainingsplan | 🟢 | Heute Tennis gespielt! |
-| Konsequenz | ⬜ | Wird ab morgen bewertet |
+| Körperfett | 🟢 17.9% | Allzeit-Tief, erstmals unter 18%; noch -0.4 bis -0.9% bis CP2-Realziel |
+| Gewicht | 🟢 66.35 kg | Neues Allzeit-Tief, bereits im CP2-Realkorridor (65.5–66.5) |
+| Bauchumfang | 🟡 86 cm (21.07.) | Ziel 83–85 cm; heute nicht gemessen – nachtragen |
+| Ernährungsplan | 🟢 | Läuft konsequent, Defizit sauber gehalten |
+| Trainingsplan | 🟢 | Regelmäßig, Muskel voll geschützt (Skelettmuskel-% ↑ auf 53.1) |
+| Konsequenz | 🟢 | 11 Tage durchgezogen, -1.80 kg / -1.1% KF |
 
 ---
 
 ## Wöchentliche Checkpoints
 
-### Checkpoint 1 – 19.07.2026 (Halbzeit, 7 Tage)
-| Metrik | Startwert | Mindestziel | Optimalziel | Ist | Status |
-|--------|-----------|------------|------------|-----|--------|
-| Gewicht | 68.15 kg | 66.8 kg | 66.0 kg | — | — |
-| Körperfett | 19.0% | 18.5% | 18.0% | — | — |
-| Bauchumfang | 87 cm | 86 cm | 85 cm | — | — |
+### Checkpoint 1 – 19.07.2026 (Halbzeit, 7 Tage) ✅ erreicht (auf Trendbasis)
+| Metrik | Startwert | Mindestziel | Optimalziel | Ist (Trend 18.07.) | Status |
+|--------|-----------|------------|------------|--------------------|--------|
+| Gewicht | 68.15 kg | 66.8 kg | 66.0 kg | 67.00 kg | ✅ im Ziel |
+| Körperfett | 19.0% | 18.5% | 18.0% | 18.3% | ✅ Mindestziel übertroffen |
+| Bauchumfang | 87 cm | 86 cm | 85 cm | 86 cm | ✅ Mindestziel erreicht |
 
-### Checkpoint 2 – 28.07.2026 (Zieldatum!)
-| Metrik | Startwert | Mindestziel | Optimalziel | Ist |
-|--------|-----------|------------|------------|-----|
-| Gewicht | 68.15 kg | 66.0 kg | 65.0 kg | — |
-| Körperfett | 19.0% | 17.5% | 16.0% | — |
-| Bauchumfang | 87 cm | 85 cm | 83 cm | — |
-| Sixpack sichtbar? | Nein | Kontur | Klare Linien | — |
+### Checkpoint 2 – 28.07.2026 (Zieldatum!, noch 5 Tage)
+| Metrik | Startwert | Mindestziel | Optimalziel | Ist (23.07.) | Status |
+|--------|-----------|------------|------------|--------------|--------|
+| Gewicht | 68.15 kg | 66.0 kg | 65.0 kg | **66.35 kg** | 🟢 nahe Mindestziel (-0.35) |
+| Körperfett | 19.0% | 17.5% | 16.0% | **17.9%** | 🟡 noch -0.4% bis Mindestziel |
+| Bauchumfang | 87 cm | 85 cm | 83 cm | 86 (21.07.) | 🟡 noch -1 cm bis Mindestziel |
+| Sixpack sichtbar? | Nein | Kontur | Klare Linien | erste Kontur nah | 🟡 bei ~17% Kontur erwartet |
 
 ---
 
@@ -57,7 +57,7 @@ START                              ZIEL
 | 20.07. | 9 | — | — | — | — | — |
 | 21.07. | 10 | — | — | — | — | — |
 | 22.07. | 11 | **67.00 kg** | — | — | — | 🎯 Whoosh durch: -0.40 kg, zurück am Tief (18.3 % KF, 12.26 kg Fett). Wasser raus, Bauch 86 cm (Knick hält) |
-| 23.07. | 12 | — | — | — | — | — |
+| 23.07. | 12 | **66.35 kg** | — | — | — | 🚀 Netto-Durchbruch: -0.65 kg, neues Allzeit-Tief. Erstmals <67 kg & <18% KF (17.9%), Fettmasse 11.88 kg (<12). Im CP2-Realkorridor. Bauch nicht gemessen |
 | 24.07. | 13 | — | — | — | — | — |
 | 25.07. | 14 | — | — | — | — | **Sodium-Reduktion Start** |
 | 26.07. | 15 | — | — | — | — | — |
@@ -77,20 +77,24 @@ START                              ZIEL
 
 ---
 
-## KF-Verlaufsgrafik
+## KF-Verlaufsgrafik (Ist-Verlauf bis 23.07.)
 ```
 KF %
-19.5 |● (28.06.)
-19.0 |    ● (12.07.) START
-18.5 |
-18.0 |              ⬤ ZIEL Checkpoint 1 (19.07.)
-17.5 |
+19.5 |●                                    (28.06. Vergleich)
+19.0 |      ●                              (12.07. START)
+18.5 |        ●●●   ●                       (13.–17.07.)
+18.0 |           ●     ●   ●                (18.–21.07. Whoosh/Wasser)
+17.9 |                      ● ← HEUTE       (23.07. Allzeit-Tief)
+17.5 |·····················◇···· Ziel CP2 Mindest (17.5)
 17.0 |
 16.5 |
-16.0 |                              ⬤ ZIEL Optimal (28.07.)
-     |_______________________________________
-      28.06   12.07   19.07          28.07
+16.0 |······················◇··· Ziel CP2 Optimal (16.0, 28.07.)
+     |_________________________________________
+      28.06  12.07   16.07  19.07  23.07  28.07
+Legende: ● Ist-Messung · ◇ Zielmarke
+Trend: 19.0 → 17.9 % in 11 Tagen (-1.1%), noch 5 Tage bis Deadline
 ```
+> 📊 Präziser, interaktiver Verlauf mit allen Metriken: [[dashboard.html]]
 
 ---
 
