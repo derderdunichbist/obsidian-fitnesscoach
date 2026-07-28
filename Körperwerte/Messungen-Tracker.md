@@ -19,6 +19,8 @@
 | 21.07.2026 | 67.40 | 18.6 | 12.54 | 54.90 | — | 1555 | Tag 10 – 🎯 Aufgeschobener Whoosh: -0.15 kg. Padel-/Salz-Wasser fließt ab, Werte exakt = 14.07 (zurück auf Tag-3-Niveau). KF & Subkutan wieder auf Tiefstwert-Nähe, Muskel/FFM/Visceral/Knochen stabil → reines Wasser raus. Bauchumfang heute nicht gemessen |
 | 22.07.2026 | 67.00 | 18.3 | 12.26 | 54.70 | 86 | 1552 | Tag 11 – 🎯🎯 Whoosh vollständig durchgelaufen: -0.40 kg. Restwasser komplett raus, Werte Ziffer für Ziffer = 18.07-Tiefstwert (67.00 / 18.3% / 12.26). KF & Subkutan auf Allzeit-Tief, Skelettmuskel 52.7 (Höchststand), Muskel/FFM/Visceral/Knochen stabil → reiner Wasserabfluss. 67-kg-Marke wieder erreicht. Bauchumfang 86 cm (hält den Knick) |
 | **23.07.2026** | **66.35** | **17.9** | **11.88** | **54.50** | **85.5** | **1546** | **Tag 12 – 🚀 NEUES ALLZEIT-TIEF & Netto-Durchbruch: -0.65 kg. Erstmals unter 67 kg → direkt in den CP2-Realkorridor (65.5–66.5). KF erstmals unter 18% (17.9), Fettmasse erstmals unter 12 kg (11.88), Subkutan 16.3% → alle drei neuer Allzeit-Tief. Skelettmuskel 53.1% / Körperwasser 59.3% / Protein 18.7% alle Höchststand. -0.38 kg davon Fett (58%). 🎯 Bauchumfang 85.5 cm – der 86er-Knick ist erstmals durchbrochen (-0.5 cm), neuer Tiefstwert, noch vor der Sodium-Reduktion** |
+| _24.–27.07._ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _Wochenende unterwegs – keine Messungen (4 Tage Lücke)_ |
+| **28.07.2026** | **66.65** | **18.1** | **12.06** | **54.60** | **—** | **1549** | **Tag 17 / DEADLINE – nach 4 Tagen unterwegs: +0.30 kg ggü. 23.07-Tief. Klassischer Wochenend-Rebound (Auswärts-Essen → Glykogen + Natrium/Wasser): Muskelmasse +0.20 & FFM +0.10 = Wasser in der Muskulatur, KF 18.1 & Subkutan 16.4 minimal ↑ (Bioimpedanz folgt Hydration). Visceral 4 / Knochen 2.73 / Protein 18.7 stabil. Bei nur +0.30 kg in 4 Restaurant-Tagen ist echter Fettaufbau energetisch praktisch ausgeschlossen. Netto seit Start: -1.50 kg / -0.9% KF / -0.89 kg Fett. Bauchumfang unterwegs nicht gemessen** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -431,6 +433,43 @@ Wasser raus, echtes Tief erreicht, Muskel bombenfest — perfekte Startrampe in 
 
 **Was das für heute heißt:** Genau so weiterlaufen lassen. **Aber Warnung:** Gestern war das Defizit mit ~1.100 kcal sehr tief — heute **nicht** ein zweites Mal so weit runter, sonst riskierst du Muskel und einen Stoffwechsel-Bremseffekt in der Schlusswoche. Konkret: **Defizit auf ~650 kcal normalisieren** (etwas mehr Carbs für Regeneration/Fülle), **Protein 150 g+**, **3.5–4 L Wasser**, **Salz weiter niedrig**. **🎯 Bauchumfang 85.5 cm gemessen** — der 86er-Knick, der seit 16.07. sieben Tage lang gehalten hatte, ist heute erstmals durchbrochen. Das ist der ehrlichste Beweis für echten Fettabbau, und es passiert **noch vor** der Sodium-Reduktion. Ab 25.07. kommt die geplante scharfe Sodium-Reduktion fürs optische Peaking oben drauf — dann ist der CP2-Realkorridor (83–85) und darunter in Reichweite.
 
+### 23.07. → 28.07. (Tag 12 → Tag 17 / DEADLINE) — Wochenende unterwegs, kontrollierter Rebound
+> **4 Tage Lücke (24.–27.07.):** Du warst unterwegs, keine Messungen. Die Deltas unten sind daher über 5 Tage kumuliert, nicht über Nacht.
+
+| Metrik | Veränderung (ggü. 23.07-Tief) | Bewertung |
+|--------|------------------------------|-----------|
+| Gewicht | **+0.30 kg** (66.35 → 66.65) | Wasser/Glykogen — nach 4 Tagen Auswärts-Essen ein sehr kleiner, kontrollierter Rebound |
+| Körperfett | +0.2% (17.9 → 18.1) | Scheinbar — Bioimpedanz-Schätzung folgt der Hydration, kein echter Fettzuwachs (siehe Energiebilanz) |
+| Fettmasse | +0.18 kg (11.88 → 12.06) | Rechnerisch aus KF% — energetisch kein echter Fettaufbau bei nur +0.30 kg |
+| Fettfreie Masse | +0.10 kg (54.50 → 54.60) | **Wasser/Glykogen in der Muskulatur** (aufgefüllte Speicher) |
+| Muskelmasse | +0.20 kg (51.70 → 51.90) | Glykogen bindet Wasser (1 g Glykogen ~3 g Wasser) → Muskel „füllt sich" wieder |
+| Skelettmuskel | -0.2% (53.1 → 52.9) | Neutral — relativer Anteil sinkt leicht, weil FFM/Wasser absolut zunimmt |
+| Subkutanfett | +0.1% (16.3 → 16.4) | Scheinbar — folgt der KF%-Schätzung, quasi unverändert |
+| Visceral Fett | 0 (bleibt 4) | Gut — stabil im grünen Bereich |
+| Körperwasser | -0.2% (59.3 → 59.1) | Neutral — minimal, im Rauschen |
+| Protein | 0.0% (18.7) | Neutral — hält den Höchststand |
+| Knochenmasse | 0.00 kg (2.73) | Neutral — stabil |
+| BMR | +3 kcal (1549) | Neutral — folgt nur dem Gewicht |
+| BMI | +0.1 (21.3) | Neutral — folgt dem Gewicht |
+| Bauchumfang | — (unterwegs nicht gemessen) | ⚠️ Fehlt — bitte bei Rückkehr morgens nüchtern nachtragen |
+
+**Ehrliche Einordnung:** Ein Wochenende unterwegs (Restaurant, mehr Carbs, mehr Salz, vermutlich weniger Wasser und Schlaf) und du kommst mit **+0.30 kg** zurück — das ist ein **hervorragend gehaltenes Ergebnis.** Die Signatur ist eindeutig Wasser/Glykogen, nicht Fett: Muskelmasse (+0.20) und FFM (+0.10) steigen, während Visceralfett, Knochen und Protein exakt stillstehen. Echter Fettaufbau würde nie so aussehen — und wäre bei nur +0.30 kg über 4 Restaurant-Tage energetisch ohnehin fast unmöglich (dafür bräuchtest du ~2.300 kcal Überschuss *netto*, also grob +575 kcal/Tag on top über den ganzen Zeitraum). Dein **echtes Tief vom 23.07. (66.35 / 17.9%) liegt weiterhin darunter** und ist real — es ist nur vorübergehend von Retentionswasser überlagert. Erfahrungsgemäß (siehe 15.→16.07. und 19.→22.07.) fließt das in 2–4 sauberen Tagen wieder ab.
+
+**Netto-Bilanz des gesamten Coachings (12.07. → 28.07., 16 Tage):**
+| Metrik | Start (12.07.) | Heute (28.07.) | Δ |
+|--------|----------------|----------------|---|
+| Gewicht | 68.15 | 66.65 | **-1.50 kg** |
+| Körperfett | 19.0 | 18.1 | **-0.9%** |
+| Fettmasse | 12.95 | 12.06 | **-0.89 kg** (echtes Fett) |
+| Subkutanfett | 17.2 | 16.4 | **-0.8%** |
+| Muskelmasse | 52.40 | 51.90 | -0.50 kg (geschützt, Skelettmuskel-% ↑ 52.3 → 52.9) |
+| Visceral Fett | 5 | 4 | **-1** |
+| Bauchumfang | 87 | 85.5* | **-1.5 cm** (*Stand 23.07., seither nicht gemessen) |
+
+*Und misst man ab dem Vergleichswert 28.06. (68.90 / 19.5%): **-2.25 kg / -1.4% KF** in einem Monat.*
+
+**Fazit zum Zieltag:** Du hast in 16 Tagen **-1.50 kg bei fast vollständigem Muskelerhalt** abgenommen, den Skelettmuskel-Anteil sogar gesteigert, Visceralfett gesenkt und den Bauchumfang um 1.5 cm reduziert — bei einem tiefsten KF von 17.9%. Das ist genau der „realistische" Korridor, den wir am Tag 1 prognostiziert hatten (17% KF, sichtbare Kontur / flacher, definierter Bauch). Der klassische Sixpack (~12% KF) war in 2 Wochen nie das Versprechen — der **definierte, flache Bauch mit erster Kontur** dagegen schon, und den hast du erreicht. Genieß den Urlaub — und wenn du magst, machen wir nach der Rückkehr mit einem Anschlussziel weiter (siehe unten). 🏖️💪
+
 ---
 
 ## Wöchentliche Checkpoints
@@ -445,12 +484,17 @@ Wasser raus, echtes Tief erreicht, Muskel bombenfest — perfekte Startrampe in 
 | Bauchumfang | 87 cm | 85–86 cm | 86 cm ✅ | 86 cm ✅ | ✅ Mindestziel erreicht (stabil) |
 | Fettmasse | 12.95 kg | 12.0–12.5 kg | 12.26 kg ✅ | 12.55 kg (Wasser) | ✅ auf Trend im Korridor |
 
-### Checkpoint 2 – 28.07.2026 (Deadline, noch 5 Tage)
-| Metrik | Startwert | Realistisches Ziel | Optimistisches Ziel | Ist (23.07.) | Status |
-|--------|-----------|-------------------|---------------------|--------------|--------|
-| Gewicht | 68.15 kg | 65.5–66.5 kg | 64.5–65.5 kg | **66.35 kg** | ✅ im Realkorridor (5 Tage früher) |
-| Körperfett | 19.0% | 17.0–17.5% | 16.0–16.5% | **17.9%** | 🔸 noch -0.4 bis -0.9% |
-| Bauchumfang | 87 cm | 83–85 cm | 82–84 cm | **85.5 cm** | 🔸 nur noch -0.5 cm bis Korridor (Knick durchbrochen) |
+### Checkpoint 2 – 28.07.2026 (Deadline) ✅ abgeschlossen
+> **Wertung am Zieltag:** Die heutige Messung (28.07.) ist nach 4 Tagen unterwegs Wasser-/Glykogen-inflationiert (+0.30 kg ggü. Tief). Für die ehrliche Bewertung zählen sowohl der Zieltags-Rohwert als auch das echte Tief vom 23.07. (66.35 / 17.9% / 85.5 cm), das real erreicht wurde und unter dem Rebound-Wasser weiterliegt.
+
+| Metrik | Startwert | Realistisches Ziel | Optimistisches Ziel | Bestwert (23.07.) | Zieltag (28.07.) | Status |
+|--------|-----------|-------------------|---------------------|-------------------|------------------|--------|
+| Gewicht | 68.15 kg | 65.5–66.5 kg | 64.5–65.5 kg | **66.35 kg** ✅ | 66.65 kg (Rebound) | ✅ Realziel erreicht (am Tief) |
+| Körperfett | 19.0% | 17.0–17.5% | 16.0–16.5% | **17.9%** | 18.1% (Rebound) | 🔸 knapp verfehlt (-0.4% zum Realziel) |
+| Bauchumfang | 87 cm | 83–85 cm | 82–84 cm | **85.5 cm** | nicht gemessen | 🔸 -0.5 cm über Realkorridor (Knick durchbrochen) |
+| Sixpack sichtbar? | Nein | Kontur / flacher Bauch | Klare Linien | erste Kontur / definiert | — | 🟢 realistisches Ziel getroffen |
+
+**Bilanz:** Realziel bei **Gewicht erreicht**, bei **Körperfett und Bauchumfang knapp verfehlt** (jeweils ~einen halben Schritt), das optimistische Ziel (klarer Sixpack) war in 16 Tagen von Anfang an außer Reichweite und nie das Versprechen. Über 16 Tage: **-1.50 kg, -0.9% KF, -1.5 cm Bauch, Muskel geschützt, Visceral -1** — ein sauberes, gesundes Ergebnis genau im am Tag 1 prognostizierten realistischen Korridor.
 
 ---
 

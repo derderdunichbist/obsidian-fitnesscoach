@@ -1,19 +1,19 @@
 # Fitness Coach Dashboard – Kosta
 
 ## Primäres Ziel
-> **Sichtbarer Sixpack bis 28.07.2026 – TAG 12 VON 16**
-> Urlaub in **5 Tagen** — jeder Tag zählt!
+> **Sichtbarer Sixpack bis 28.07.2026 – 🏁 ZIELTAG ERREICHT (Tag 17)**
+> Urlaub startet — Bilanz: -1.50 kg / -0.9% KF / -1.5 cm Bauch in 16 Tagen. 🏖️
 
 ---
 
-## Körperwerte Aktuell (23.07.2026)
+## Körperwerte Aktuell (28.07.2026 · Deadline, nach Wochenende unterwegs)
 | Metrik | Wert | Ziel 28.07. | Trend |
 |--------|------|-------------|-------|
-| Gewicht | 66.35 kg | 65–67 kg | ↓ -1.80 kg seit Start (12.07.) · Allzeit-Tief, im CP2-Korridor |
-| Körperfett | 17.9% | 16–17% | ↓ -1.1% seit Start · erstmals <18%, Allzeit-Tief |
-| Fettmasse | 11.88 kg | — | ↓ -1.07 kg seit Start · erstmals <12 kg |
-| Bauchumfang | 85.5 cm | <85 cm | ↓ -1.5 cm (87→85.5) 🎯 86er-Knick durchbrochen, neuer Tiefstwert |
-| Muskelmasse | 51.70 kg | halten | geschützt · Skelettmuskel-% ↑ 52.3→53.1 (Höchststand) |
+| Gewicht | 66.65 kg | 65–67 kg | ↓ -1.50 kg seit Start · +0.30 ggü. Tief (Wochenend-Rebound, Wasser) |
+| Körperfett | 18.1% | 16–17% | ↓ -0.9% seit Start · Tief war 17.9% (23.07.) |
+| Fettmasse | 12.06 kg | — | ↓ -0.89 kg seit Start · Tief war 11.88 kg (23.07.) |
+| Bauchumfang | 85.5 cm* | <85 cm | ↓ -1.5 cm (87→85.5) · *Stand 23.07., unterwegs nicht gemessen |
+| Muskelmasse | 51.90 kg | halten | geschützt · Skelettmuskel-% ↑ 52.3→52.9 · +0.20 (Glykogen/Wasser) |
 | Visceral Fett | 4 | ≤4 | ↓ -1 seit Start ✓ |
 
 ---
