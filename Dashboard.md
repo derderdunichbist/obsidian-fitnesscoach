@@ -1,12 +1,12 @@
 # Fitness Coach Dashboard – Kosta
 
 ## Primäres Ziel
-> **Sichtbarer Sixpack bis 28.07.2026 – 🏁 ZIELTAG ERREICHT (Tag 17)**
-> Urlaub startet — Bilanz: -1.50 kg / -0.9% KF / -1.5 cm Bauch in 16 Tagen. 🏖️
+> **Sichtbarer Sixpack bis 30.07.2026 – Tag 17, noch 2 Tage** (Deadline verlängert von 28.07., Abflug erst 30.07.)
+> Stand: -1.50 kg / -0.9% KF / -1.5 cm Bauch. Endspurt: Wasser ausspülen, zurück aufs Tief. 🏖️
 
 ---
 
-## Körperwerte Aktuell (28.07.2026 · Deadline, nach Wochenende unterwegs)
+## Körperwerte Aktuell (28.07.2026 · noch 2 Tage bis Deadline, nach Wochenende unterwegs)
 | Metrik | Wert | Ziel 28.07. | Trend |
 |--------|------|-------------|-------|
 | Gewicht | 66.65 kg | 65–67 kg | ↓ -1.50 kg seit Start · +0.30 ggü. Tief (Wochenend-Rebound, Wasser) |

@@ -1,10 +1,10 @@
-# Primäres Ziel: Sichtbarer Sixpack bis 28.07.2026
+# Primäres Ziel: Sichtbarer Sixpack bis 30.07.2026
 
 ## Zielübersicht
 | | |
 |---|---|
 | **Ziel** | Sichtbarer Sixpack / mindestens klare Kontur sichtbar |
-| **Deadline** | 28.07.2026 (Urlaub) |
+| **Deadline** | 30.07.2026 (Abflug) — verlängert von 28.07. |
 | **Start** | 12.07.2026 |
 | **Heute** | 12.07.2026 |
 | **Verbleibende Tage** | **16** |
@@ -100,3 +100,9 @@ Das klingt wenig, aber:
 - Plan personalisiert
 - Apple Fitness zeigt heute: Tennis 71 min, Move 477/300 kcal — **Top-Start!**
 - Vorherige 2 Wochen (28.06.–12.07.): bereits -0.75 kg, -0.5% KF — positiver Trend
+
+### 28.07.2026 – Deadline verlängert auf 30.07.
+- **Abflug ist erst am 30.07., nicht am 28.07.** → Ziel-Datum um 2 Tage verlängert (Intensivphase jetzt 18 statt 16 Tage).
+- Stand heute (28.07., nach Wochenende unterwegs): 66.65 kg / 18.1 % KF — +0.30 kg Wasser-/Glykogen-Rebound über dem echten Tief vom 23.07. (66.35 / 17.9 %).
+- **Bedeutung der 2 Extratage:** genug Zeit, das Retentionswasser auszuspülen (viel Wasser, Salz niedrig) und zurück auf/unter das 23.07-Tief zu kommen. Damit rücken KF-Realziel (17.0–17.5 %) und Bauch-Realziel (83–85 cm) wieder in Reichweite.
+- **Plan 29.–30.07.:** Defizit ~650 kcal, Protein 150 g+, 3.5–4 L Wasser, Salz konsequent niedrig (Sodium-Reduktion fürs optische Peaking). Bauchumfang morgens nüchtern messen.

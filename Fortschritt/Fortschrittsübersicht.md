@@ -1,17 +1,17 @@
-# Fortschrittsübersicht – Sixpack bis 28.07.2026
+# Fortschrittsübersicht – Sixpack bis 30.07.2026
 
 > 📊 **Interaktives Dashboard:** [[dashboard.html]] — Verlaufsgrafiken (Gewicht, Körperfett, Fettmasse, Bauchumfang, Muskelschutz). Aktualisiert sich automatisch aus `[[../data/koerperwerte.csv]]`; im Browser öffnen.
 
 ## Zeitstrahl
 ```
-12.07. ━━━━━━━━━━━━━━━━━━━━━━━━ 28.07.
-START                              ZIEL
-  |←————————— 16 Tage ————————→|
-  KF: 19.0%                    Ziel: 16-17%
-  Gew: 68.15 kg                Ziel: 65-67 kg
+12.07. ━━━━━━━━━━━━━━━━━━━━━━━━━━ 30.07.
+START                                ZIEL
+  |←————————— 18 Tage ——————————→|   (verlängert von 28.07.)
+  KF: 19.0%                      Ziel: 16-17%
+  Gew: 68.15 kg                  Ziel: 65-67 kg
 ```
 
-## Status-Ampel (Stand: 28.07.2026 – 🏁 Deadline, Tag 17)
+## Status-Ampel (Stand: 28.07.2026 – Tag 17, noch 2 Tage bis Deadline 30.07.)
 | Bereich | Status | Kommentar |
 |---------|--------|-----------|
 | Körperfett | 🟢 18.1% | Tief war 17.9% (23.07.); heute +0.2 durch Wochenend-Rebound (Wasser). -0.9% seit Start |
@@ -32,15 +32,15 @@ START                              ZIEL
 | Körperfett | 19.0% | 18.5% | 18.0% | 18.3% | ✅ Mindestziel übertroffen |
 | Bauchumfang | 87 cm | 86 cm | 85 cm | 86 cm | ✅ Mindestziel erreicht |
 
-### Checkpoint 2 – 28.07.2026 (Zieldatum!) ✅ abgeschlossen
-> Zieltags-Rohwert (28.07.) ist nach Wochenende unterwegs Wasser-/Glykogen-inflationiert (+0.30 kg). Bestwert-Spalte = echtes Tief vom 23.07., das real erreicht wurde.
+### Checkpoint 2 – 30.07.2026 (Zieldatum, noch 2 Tage) — verlängert von 28.07.
+> Aktueller Rohwert (28.07.) ist nach Wochenende unterwegs Wasser-/Glykogen-inflationiert (+0.30 kg). Bestwert-Spalte = echtes Tief vom 23.07. Mit 2 Tagen Entwässerung sind die Realziele wieder greifbar.
 
-| Metrik | Startwert | Mindestziel | Optimalziel | Bestwert (23.07.) | Zieltag (28.07.) | Status |
-|--------|-----------|------------|------------|-------------------|------------------|--------|
-| Gewicht | 68.15 kg | 66.0 kg | 65.0 kg | **66.35 kg** | 66.65 kg | 🟢 Mindestziel am Tief erreicht |
-| Körperfett | 19.0% | 17.5% | 16.0% | **17.9%** | 18.1% | 🟡 knapp verfehlt (-0.4%) |
-| Bauchumfang | 87 cm | 85 cm | 83 cm | **85.5 cm** | n. gemessen | 🟡 -0.5 cm über Mindestziel |
-| Sixpack sichtbar? | Nein | Kontur | Klare Linien | erste Kontur / definiert | — | 🟢 realistisches Ziel getroffen |
+| Metrik | Startwert | Mindestziel | Optimalziel | Bestwert (23.07.) | Ist (28.07.) | Status |
+|--------|-----------|------------|------------|-------------------|--------------|--------|
+| Gewicht | 68.15 kg | 66.0 kg | 65.0 kg | **66.35 kg** | 66.65 kg | 🟢 Mindestziel am Tief erreicht, in Reichweite |
+| Körperfett | 19.0% | 17.5% | 16.0% | **17.9%** | 18.1% | 🟡 noch ~-0.4 bis -0.6% (Wasser raus → machbar) |
+| Bauchumfang | 87 cm | 85 cm | 83 cm | **85.5 cm** | n. gemessen | 🟡 nur noch -0.5 cm bis Mindestziel |
+| Sixpack sichtbar? | Nein | Kontur | Klare Linien | erste Kontur / definiert | — | 🟢 realistisches Ziel im Griff |
 
 ---
 
@@ -61,7 +61,9 @@ START                              ZIEL
 | 22.07. | 11 | **67.00 kg** | — | — | — | 🎯 Whoosh durch: -0.40 kg, zurück am Tief (18.3 % KF, 12.26 kg Fett). Wasser raus, Bauch 86 cm (Knick hält) |
 | 23.07. | 12 | **66.35 kg** | — | — | — | 🚀 Netto-Durchbruch: -0.65 kg, neues Allzeit-Tief. Erstmals <67 kg & <18% KF (17.9%), Fettmasse 11.88 kg (<12). Im CP2-Korridor. 🎯 Bauch 85.5 cm (Knick durchbrochen) |
 | 24.–27.07. | 13–16 | — | — | unterwegs | — | Wochenende unterwegs, keine Messungen |
-| 28.07. | **17 · ZIEL** | **66.65 kg** | — | — | — | 🏁 DEADLINE. Nach Wochenende +0.30 kg Rebound (Wasser/Glykogen). KF 18.1%. Netto 16 Tage: -1.50 kg / -0.9% KF / -1.5 cm. **ABFLUG 🏖️** |
+| 28.07. | 17 | **66.65 kg** | — | — | — | Zurück. +0.30 kg Rebound (Wasser/Glykogen). KF 18.1%. Netto 16 Tage: -1.50 kg / -0.9% KF / -1.5 cm |
+| 29.07. | 18 | — | — | — | — | Endspurt: Wasser hoch, Salz niedrig → zurück aufs Tief |
+| 30.07. | **19 · ZIEL** | — | — | — | — | 🏁 Deadline (verlängert). **ABFLUG 🏖️** |
 
 ---
 
@@ -70,19 +72,19 @@ START                              ZIEL
 |-------|------|-------|
 | 12.07.2026 | Noch nicht | **Startfoto heute noch machen!** Gleiche Pose, morgens nüchtern |
 | 19.07.2026 | — | Halbzeit-Vergleich |
-| 28.07.2026 | — | Endergebnis vor Urlaub |
+| 30.07.2026 | — | Endergebnis vor Urlaub (Abflugtag) |
 
 > Tipp: Morgens nüchtern, gleiche Beleuchtung (Fenster), entspannt frontal + seitlich. Das gleiche Foto 3x macht den Fortschritt sichtbar.
 
 ---
 
-## KF-Verlaufsgrafik (Ist-Verlauf bis 28.07. · Deadline)
+## KF-Verlaufsgrafik (Ist-Verlauf bis 28.07. · noch 2 Tage bis Deadline 30.07.)
 ```
 KF %
 19.5 |●                                    (28.06. Vergleich)
 19.0 |      ●                              (12.07. START)
 18.5 |        ●●●   ●                       (13.–17.07.)
-18.1 |           ●     ●   ●        ● ← ZIEL (28.07. Rebound n. Wochenende)
+18.1 |           ●     ●   ●        ● ← 28.07. (Rebound n. Wochenende, noch 2 Tage)
 18.0 |                                     
 17.9 |                      ●               (23.07. Allzeit-Tief)
 17.5 |·····················◇···· Ziel CP2 Mindest (17.5)

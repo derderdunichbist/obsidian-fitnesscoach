@@ -1,6 +1,6 @@
 # Trainingsplan – Personalisiert für Kosta
 
-> **Intensivphase 12.07. – 28.07.2026 | 16 Tage**
+> **Intensivphase 12.07. – 30.07.2026 | 18 Tage** (verlängert von 28.07.)
 > Profil: Gym-Erfahrung mehrere Jahre | Aktiv Padel/Tennis/Badminton | ~4–5 Sporttage/Woche
 
 ---

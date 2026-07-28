@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Fortschritt – Sixpack bis 28.07.2026</title>
+<title>Fortschritt – Sixpack bis 30.07.2026</title>
 <style>
   :root {
     color-scheme: light;
@@ -97,7 +97,7 @@
       <div class="legend"><span><i style="background:var(--waist)"></i>Bauchumfang cm</span><span><i class="bnd"></i>Checkpoint-2-Ziel (83–85)</span></div>
       <div id="c-waist"></div></div>
   </div>
-  <div class="foot">Ziel: sichtbarer Sixpack bis 28.07.2026 · morgens nüchtern gemessen (Bioimpedanz + Maßband)</div>
+  <div class="foot">Ziel: sichtbarer Sixpack bis 30.07.2026 · morgens nüchtern gemessen (Bioimpedanz + Maßband)</div>
   <div class="src" id="src"></div>
 </div>
 <div class="tip" id="tip"></div>
@@ -119,10 +119,10 @@ const EMBEDDED_CSV = `Datum,Gewicht_kg,Koerperfett_pct,FettMasse_kg,FettfreieMas
 2026-07-21,67.40,18.6,12.54,54.90,16.9,4,52.6,52.10,2.75,58.8,1555,21.5,25,,Morgenmessung
 2026-07-22,67.00,18.3,12.26,54.70,16.6,4,52.7,52.00,2.74,58.9,1552,21.4,25,86,Morgenmessung
 2026-07-23,66.35,17.9,11.88,54.50,16.3,4,53.1,51.70,2.73,59.3,1546,21.2,25,85.5,Morgenmessung
-2026-07-28,66.65,18.1,12.06,54.60,16.4,4,52.9,51.90,2.73,59.1,1549,21.3,25,,Morgenmessung (Deadline nach Wochenende unterwegs)`;
+2026-07-28,66.65,18.1,12.06,54.60,16.4,4,52.9,51.90,2.73,59.1,1549,21.3,25,,Morgenmessung (nach Wochenende unterwegs, 2 Tage vor Deadline 30.07.)`;
 
 const COACH_START = '2026-07-12';   // Zeitachse ab Coaching-Start
-const DEADLINE    = '2026-07-28';
+const DEADLINE    = '2026-07-30';
 const NF = n => (n==null||isNaN(n)) ? '–' : n.toLocaleString('de-DE',{minimumFractionDigits:0,maximumFractionDigits:2});
 const num = s => { const v=parseFloat(String(s).replace(',','.')); return isNaN(v)?null:v; };
 const ddmm = iso => { const [y,m,d]=iso.split('-'); return `${d}.${m}`; };
@@ -152,7 +152,7 @@ function render(rows, sourceLabel){
   const tag = rows.length;
 
   document.getElementById('subhead').innerHTML =
-    `Coaching-Start <strong>${ddmm(first.date)}.</strong> → <strong>${ddmm(last.date)}.2026</strong> (Tag ${tag}) · Deadline <strong>28.07.</strong> · noch <strong>${daysLeft} Tage</strong>`;
+    `Coaching-Start <strong>${ddmm(first.date)}.</strong> → <strong>${ddmm(last.date)}.2026</strong> (Tag ${tag}) · Deadline <strong>${ddmm(DEADLINE)}.</strong> · noch <strong>${daysLeft} Tage</strong>`;
   document.getElementById('src').textContent = sourceLabel;
 
   const d = (a,b)=> (a==null||b==null)?null:(a-b);

@@ -1,6 +1,6 @@
 # Ernährungsplan – Personalisiert für Kosta
 
-> **Stand: 12.07.2026 | Ziel: Sixpack bis 28.07.2026 | Tag 1 von 16**
+> **Stand: 12.07.2026 | Ziel: Sixpack bis 30.07.2026 | Tag 1 von 18** (Deadline verlängert von 28.07.)
 
 ---
 
@@ -101,7 +101,7 @@ Die ~112 kcal sind bereits im Tagesbudget berücksichtigt – einfach ganz norma
 Klingt kontraproduktiv, aber mehr Wasser = weniger Wasserretention!
 
 ### Sodium reduzieren
-Weniger Salz in letzten 3 Tagen vor 28.07. → macht einen großen Unterschied optisch.
+Weniger Salz in letzten 3 Tagen vor 30.07. → macht einen großen Unterschied optisch.
 
 ---
 
