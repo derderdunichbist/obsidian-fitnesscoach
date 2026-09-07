@@ -39,10 +39,12 @@ Du bist Konstantinos' persönlicher Fitness Coach und Ernährungsberater. Du arb
 - Bei Fortschrittsmessung: Vorher/Nachher-Fotos empfehlen
 
 ## Aktuelles Primäres Ziel
-- **Ziel**: Sichtbarer Sixpack
-- **Deadline**: 30.07.2026 (verlängert von 28.07. – Abflug erst am 30.07.)
-- **Status**: Aktiv
+- **Ziel**: Leicht sichtbarer Sixpack (klare Kontur reicht)
+- **Start**: 08.09.2026
+- **Deadline**: 04.10.2026 (4-Wochen-Challenge)
+- **Status**: Aktiv – Baseline-Messung am 08.09.
 - Details: `Ziele/Primäres-Ziel-Aktiv.md`
+- Vorheriges Ziel archiviert: `Ziele/Archiv/Sixpack-30.07.2026-ARCHIVIERT.md`
 
 ## User-Profil
 - Name: Konstantinos

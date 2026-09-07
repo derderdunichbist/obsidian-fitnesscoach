@@ -1,108 +1,73 @@
-# Primäres Ziel: Sichtbarer Sixpack bis 30.07.2026
+# Primäres Ziel: Leicht sichtbarer Sixpack – 4-Wochen-Challenge
 
 ## Zielübersicht
 | | |
 |---|---|
-| **Ziel** | Sichtbarer Sixpack / mindestens klare Kontur sichtbar |
-| **Deadline** | 30.07.2026 (Abflug) — verlängert von 28.07. |
-| **Start** | 12.07.2026 |
-| **Heute** | 12.07.2026 |
-| **Verbleibende Tage** | **16** |
-| **Status** | 🟢 Aktiv – Plan personalisiert, bereit loszulegen |
+| **Ziel** | Leicht sichtbarer Sixpack (klare Kontur reicht – kein Wettkampf-Shredded) |
+| **Start** | 08.09.2026 (morgen) |
+| **Deadline** | 04.10.2026 |
+| **Heute** | 07.09.2026 |
+| **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
+| **Verbleibende Tage bis Start** | 1 |
+| **Status** | 🟢 Aktiv – Baseline wird morgen erfasst |
 
 ---
 
-## Dein Ausgangsprofil (12.07.2026)
-| Metrik | Wert | Bedeutung |
-|--------|------|-----------|
-| Gewicht | 68.15 kg | Gut für 177 cm |
-| Körperfett | 19.0% | Hauptthema: hier wird gearbeitet |
-| Fettmasse | 12.95 kg | Das ist was wir reduzieren |
-| Muskelmasse | 52.40 kg | **SEHR GUT** — starke Grundlage! |
-| Bauchumfang | 87 cm | Ziel: unter 85 cm bis 28.07. |
-| BMR | 1.562 kcal | Grundlage für Kalorienberechnung |
-| Subcutanes Fett | 17.2% | Das sichtbare Bauchfett |
-| Visceral Fett | 5 | Gut (Skala 1–12, 1–5 optimal) |
-| BMI | 21.8 | Ideal |
-| Metabolisches Alter | 25 | Ausgezeichnet |
+## Ausgangslage (07.09.2026)
+- **Zurück aus dem Urlaub.** Aktuelle Körperwerte noch offen → **Baseline-Messung morgen früh (08.09.) nüchtern**: Gewicht, Körperfett, Bauchumfang.
+- Letzter dokumentierter Stand (28.07.2026, vor Urlaub): **66,65 kg / 18,1 % KF**; Bauchumfang zuletzt 85,5 cm (23.07.).
+- Sehr gute Grundlage aus der letzten Phase: Muskelmasse ~52 kg, metabolisches Alter 25. Diese Basis macht Definition bei moderatem KF-Abbau schneller sichtbar.
+- **Erwartung:** Nach ~6 Wochen Urlaub realistisch etwas Rebound (Wasser/Glykogen + evtl. etwas Fett). Genau dafür ist die Challenge da – wir messen morgen ehrlich und rechnen von dort.
 
 ---
 
-## Ehrliche Prognose
-
-### Was ist in 16 Tagen realistisch?
-```
-Aktuell:    19.0% KF ████████████████████░░░░░░░░░░
-Realistisch: 17.0% KF ██████████████████░░░░░░░░░░░░  ← Ziel Minimum
-Optimistisch: 16.0% KF ████████████████░░░░░░░░░░░░░░  ← Ziel Optimal
-Sixpack:    ~12% KF  ████████████░░░░░░░░░░░░░░░░░░  ← 2+ Monate nötig
-```
-
-### Echter Fettverlust in 2 Wochen: ca. 1.0–1.5 kg Fett
-Das klingt wenig, aber:
-- Dazu kommen: -1.5 bis -2.5 kg Wasser & Glykogen (sichtbar!)
-- Mit deiner **Muskelmasse von 52.4 kg** wirst du bei 17% schon deutlich definierter aussehen als jemand ohne dein Muskelvolumen
-- Letzte 3 Tage: Sodium-Reduktion → Muskeln treten optisch mehr hervor
-
-### Was du in 16 Tagen sehr wahrscheinlich erreichst:
-- [ ] Sichtbare Kontur der Bauchmuskeln
-- [ ] -2 bis -3 kg Gesamtgewicht
-- [ ] -1 bis -2 cm Bauchumfang
-- [ ] Definierter, flacher Bauch (auch wenn kein klassischer 6er)
+## Was in 4 Wochen realistisch ist
+- Ein **leicht sichtbarer Sixpack** ist bei deiner Muskelbasis in 4 Wochen machbar, **wenn** die Ausgangs-KF nahe am Juli-Niveau (~18 %) liegt.
+- Zielkorridor Körperfett: **runter Richtung 14–15 %** → dort wird die obere Bauchmuskel-Reihe bei den meisten sichtbar.
+- Grobe Rechnung: ~4 Wochen × moderates Defizit (~500–650 kcal/Tag) ≈ **2–3,5 kg Fett**, plus 1–2 kg Wasser/Glykogen optisch. Das reicht erfahrungsgemäß für "leicht sichtbar".
+- **Realitäts-Check nach Baseline morgen:** Ist die Ausgangs-KF deutlich höher, justieren wir Erwartung und Intensität. Fortschritt zählt in jedem Fall.
 
 ---
 
-## Strategie – Die 3 Hebel
+## Strategie – 3 Hebel
 
-### 1. Ernährung (größter Hebel, 70%)
-- Kaloriendefizit: -650 kcal/Tag
-- Normale Tage: **1.750 kcal**
-- Sporttage: **1.950 kcal**
-- Protein: **150g/Tag** (nicht verhandelbar – Muskelschutz)
+### 1. Ernährung (größter Hebel)
+- Moderates Defizit **~500–650 kcal/Tag** (exakte Zahlen nach Baseline-BMR morgen)
+- **Protein ~150 g/Tag** (Muskelschutz, nicht verhandelbar)
+- Alkohol/Zucker stark reduziert; letzte Woche ggf. Sodium-Peaking
 - → [[../Ernährung/Ernährungsplan]]
 
-### 2. Training (30%)
-- Deine Sporttage (Tennis/Padel) zählen voll!
-- Gym 3x/Woche + Core täglich
-- Mehr Schritte: Ziel 10.000+/Tag
+### 2. Training
+- Krafttraining 3–4×/Woche, Fokus Ganzkörper + progressive Überlastung
+- Core 4–5×/Woche gezielt
+- Schritte 8.000–10.000+/Tag, Sporttage (Tennis/Padel) zählen voll
 - → [[../Training/Trainingsplan-Sixpack]]
 
-### 3. Recovery & Tricks
-- **Schlaf**: Minimum 7 Stunden (Cortisol-Kontrolle)
-- **Wasser**: 3.5–4 L/Tag (reduziert Retention)
-- **Sodium**: ab 25.07. stark reduzieren (letztes Mittel)
-- **Kein Alkohol**: 0 Kompromisse in diesen 2 Wochen
+### 3. Recovery
+- Schlaf ≥ 7 h (Cortisol/Wasserretention)
+- Wasser 3–4 L/Tag
 
 ---
 
-## Zeitplan – Tag für Tag Wochenziele
-
-### Woche 1 (12.–18.07.) – "Defizit etablieren"
-**Ziel**: Kalorienplan einschwingen, Wasserretention reduzieren, Grundlage legen
-**Erwartete Veränderung**: -1 bis -2 kg (v.a. Wasser/Glykogen), KF -0.3 bis -0.5%
-
-### Woche 2+ (19.–28.07.) – "Maximieren & Peaking"
-**Ziel**: Fettverbrennung auf Hochtouren, optisches Peaking für Urlaub
-**Erwartete Veränderung**: -0.8 bis -1.5 kg Fett, KF -0.5 bis -1%
-**Letzte 3 Tage**: Sodium & Alkohol-frei, Wasser hochhalten
+## Wochenziele (grob – wird nach Baseline präzisiert)
+| Woche | Zeitraum | Fokus | Erwartung |
+|-------|----------|-------|-----------|
+| 1 | 08.–14.09. | Defizit etablieren, Urlaubs-Wasser ausspülen | -1 bis -2 kg (v.a. Wasser/Glykogen) |
+| 2 | 15.–21.09. | Fettabbau auf Kurs, Training progressiv | -0,5 bis -1 kg Fett |
+| 3 | 22.–28.09. | Definition sichtbar machen, Core-Fokus | -0,5 bis -1 kg Fett |
+| 4 | 29.09.–04.10. | Peaking: Sodium/Wasser steuern, letzter Schliff | optisches Maximum |
 
 ---
 
 ## Fortschritt-Tracking
-→ [[../Körperwerte/Messungen-Tracker]]
-→ [[../Fortschritt/Fortschrittsübersicht]]
+- Essens- und Körperwaagen-Stats ab **08.09. täglich** posten → ich trage in `data/koerperwerte.csv` + `Körperwerte/Messungen-Tracker.md` ein und kommentiere den Trend.
+- → [[../Körperwerte/Messungen-Tracker]]
+- → [[../Fortschritt/Fortschrittsübersicht]]
 
 ---
 
 ## Coaching-Notizen
-### 12.07.2026 – Tag 1
-- Profil vollständig erfasst
-- Plan personalisiert
-- Apple Fitness zeigt heute: Tennis 71 min, Move 477/300 kcal — **Top-Start!**
-- Vorherige 2 Wochen (28.06.–12.07.): bereits -0.75 kg, -0.5% KF — positiver Trend
-
-### 28.07.2026 – Deadline verlängert auf 30.07.
-- **Abflug ist erst am 30.07., nicht am 28.07.** → Ziel-Datum um 2 Tage verlängert (Intensivphase jetzt 18 statt 16 Tage).
-- Stand heute (28.07., nach Wochenende unterwegs): 66.65 kg / 18.1 % KF — +0.30 kg Wasser-/Glykogen-Rebound über dem echten Tief vom 23.07. (66.35 / 17.9 %).
-- **Bedeutung der 2 Extratage:** genug Zeit, das Retentionswasser auszuspülen (viel Wasser, Salz niedrig) und zurück auf/unter das 23.07-Tief zu kommen. Damit rücken KF-Realziel (17.0–17.5 %) und Bauch-Realziel (83–85 cm) wieder in Reichweite.
-- **Plan 29.–30.07.:** Defizit ~650 kcal, Protein 150 g+, 3.5–4 L Wasser, Salz konsequent niedrig (Sodium-Reduktion fürs optische Peaking). Bauchumfang morgens nüchtern messen.
+### 07.09.2026 – Challenge angelegt
+- Neues Ziel gestartet, altes Ziel (Sixpack 30.07.) archiviert → [[Archiv/Sixpack-30.07.2026-ARCHIVIERT]].
+- User zurück aus Urlaub, hoch motiviert. Start morgen (08.09.), Deadline 04.10.
+- **To-do morgen:** Baseline-Messung → dann Kalorien-/Proteinziele und Wochenziele exakt herleiten.
