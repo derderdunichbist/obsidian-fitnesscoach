@@ -4,6 +4,7 @@
 | | |
 |---|---|
 | **Ziel** | Leicht sichtbarer Sixpack (klare Kontur reicht – kein Wettkampf-Shredded) |
+| **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
 | **Start** | 08.09.2026 (morgen) |
 | **Deadline** | 04.10.2026 |
 | **Heute** | 07.09.2026 |
@@ -32,13 +33,13 @@
 ## Strategie – 3 Hebel
 
 ### 1. Ernährung (größter Hebel)
-- Moderates Defizit **~500–650 kcal/Tag** (exakte Zahlen nach Baseline-BMR morgen)
-- **Protein ~150 g/Tag** (Muskelschutz, nicht verhandelbar)
+- **Moderates** Defizit **~450–550 kcal/Tag** (bewusst nicht aggressiver → schützt Muskeln, ermöglicht Recomp; exakte Zahlen nach Baseline-BMR morgen)
+- **Protein ~150 g/Tag** (~2,2 g/kg – Muskelschutz, DER Recomp-Faktor, nicht verhandelbar)
 - Alkohol/Zucker stark reduziert; letzte Woche ggf. Sodium-Peaking
 - → [[../Ernährung/Ernährungsplan]]
 
-### 2. Training
-- Krafttraining 3–4×/Woche, Fokus Ganzkörper + progressive Überlastung
+### 2. Training (Recomp-Motor)
+- **Krafttraining 4×/Woche**, Ganzkörper + **progressive Überlastung** (Reiz signalisiert "Muskel wird gebraucht" → Körper baut Fett statt Muskel ab)
 - Core 4–5×/Woche gezielt
 - Schritte 8.000–10.000+/Tag, Sporttage (Tennis/Padel) zählen voll
 - → [[../Training/Trainingsplan-Sixpack]]
@@ -71,3 +72,8 @@
 - Neues Ziel gestartet, altes Ziel (Sixpack 30.07.) archiviert → [[Archiv/Sixpack-30.07.2026-ARCHIVIERT]].
 - User zurück aus Urlaub, hoch motiviert. Start morgen (08.09.), Deadline 04.10.
 - **To-do morgen:** Baseline-Messung → dann Kalorien-/Proteinziele und Wochenziele exakt herleiten.
+
+### 07.09.2026 – Recomp-Entscheidung
+- User will auch Muskeln aufbauen, nicht nur abnehmen. Entscheidung: **"Sixpack zuerst"** – Fettabbau bleibt Motor, Muskeln werden mitgenommen (v.a. Rückgewinnung via Muscle Memory nach 6 Wochen Pause).
+- Anpassung: Defizit moderater (~450–550 statt bis 650 kcal), Kraft 4×/Woche mit progressiver Überlastung, Protein hoch (~2,2 g/kg).
+- Ehrlich kommuniziert: substanzieller **Neu**aufbau in 4 Wochen im Defizit unrealistisch; Rückgewinnung + vollere Muskeln realistisch.
