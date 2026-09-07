@@ -33,7 +33,7 @@
 ## Strategie – 3 Hebel
 
 ### 1. Ernährung (größter Hebel)
-- **Moderates** Defizit **~450–550 kcal/Tag** (bewusst nicht aggressiver → schützt Muskeln, ermöglicht Recomp; exakte Zahlen nach Baseline-BMR morgen)
+- Defizit **~550–600 kcal/Tag** (Sichtbarkeit hat Priorität – oberes Ende für sicheren Fettabbau bis 04.10.; exakte Zahlen nach Baseline-BMR morgen)
 - **Protein ~150 g/Tag** (~2,2 g/kg – Muskelschutz, DER Recomp-Faktor, nicht verhandelbar)
 - Alkohol/Zucker stark reduziert; letzte Woche ggf. Sodium-Peaking
 - → [[../Ernährung/Ernährungsplan]]
@@ -77,3 +77,8 @@
 - User will auch Muskeln aufbauen, nicht nur abnehmen. Entscheidung: **"Sixpack zuerst"** – Fettabbau bleibt Motor, Muskeln werden mitgenommen (v.a. Rückgewinnung via Muscle Memory nach 6 Wochen Pause).
 - Anpassung: Defizit moderater (~450–550 statt bis 650 kcal), Kraft 4×/Woche mit progressiver Überlastung, Protein hoch (~2,2 g/kg).
 - Ehrlich kommuniziert: substanzieller **Neu**aufbau in 4 Wochen im Defizit unrealistisch; Rückgewinnung + vollere Muskeln realistisch.
+
+### 07.09.2026 – Defizit festgezogen
+- User-Priorität geschärft: **Sixpack muss auf jeden Fall sichtbar sein.** Sichtbarkeit schlägt maximale Muskel-Mitnahme.
+- Defizit fest auf **-550 bis -600 kcal/Tag** gesetzt (oberes Ende für sicheren Fettabbau bis 04.10.). Muskelschutz weiter über Protein ~150 g + Kraft 4×/Woche.
+- **Morgen nach Baseline:** ehrliche Ampel-Prognose (grün/gelb/rot) ob 4 Wochen bis ~14–15 % KF reichen; bei rot Verlängerung um 1–2 Wochen anbieten.
