@@ -21,6 +21,8 @@
 | **23.07.2026** | **66.35** | **17.9** | **11.88** | **54.50** | **85.5** | **1546** | **Tag 12 – 🚀 NEUES ALLZEIT-TIEF & Netto-Durchbruch: -0.65 kg. Erstmals unter 67 kg → direkt in den CP2-Realkorridor (65.5–66.5). KF erstmals unter 18% (17.9), Fettmasse erstmals unter 12 kg (11.88), Subkutan 16.3% → alle drei neuer Allzeit-Tief. Skelettmuskel 53.1% / Körperwasser 59.3% / Protein 18.7% alle Höchststand. -0.38 kg davon Fett (58%). 🎯 Bauchumfang 85.5 cm – der 86er-Knick ist erstmals durchbrochen (-0.5 cm), neuer Tiefstwert, noch vor der Sodium-Reduktion** |
 | _24.–27.07._ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _Wochenende unterwegs – keine Messungen (4 Tage Lücke)_ |
 | **28.07.2026** | **66.65** | **18.1** | **12.06** | **54.60** | **—** | **1549** | **Tag 17 / DEADLINE – nach 4 Tagen unterwegs: +0.30 kg ggü. 23.07-Tief. Klassischer Wochenend-Rebound (Auswärts-Essen → Glykogen + Natrium/Wasser): Muskelmasse +0.20 & FFM +0.10 = Wasser in der Muskulatur, KF 18.1 & Subkutan 16.4 minimal ↑ (Bioimpedanz folgt Hydration). Visceral 4 / Knochen 2.73 / Protein 18.7 stabil. Bei nur +0.30 kg in 4 Restaurant-Tagen ist echter Fettaufbau energetisch praktisch ausgeschlossen. Netto seit Start: -1.50 kg / -0.9% KF / -0.89 kg Fett. Bauchumfang unterwegs nicht gemessen** |
+| _29.07.–07.09._ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _~6 Wochen Urlaub – keine Messungen_ |
+| **08.09.2026** | **67.35** | **18.6** | **12.53** | **54.80** | **—** | **1554** | **🏁 BASELINE 4-Wochen-Challenge (Start; Deadline 04.10.) – erste Messung zurück aus dem Urlaub. Rebound erfreulich gering: nur +0.70 kg / +0.5% KF ggü. letztem Stand vor Urlaub (28.07.: 66.65 / 18.1%), +1.00 kg ggü. Allzeit-Tief (23.07.: 66.35 / 17.9%). Fettmasse 12.53 (+0.47). 💪 Muskelbasis top gehalten: Muskelmasse 52.10 (+0.20), FFM 54.80 (+0.20), Skelettmuskel 52.6% (-0.3), Wasser 58.7% (-0.4), Visceral 4 / Knochen 2.74 stabil. Ausgangs-KF 18.6% liegt nahe Juli-Niveau → gute Startbasis. Bauchumfang heute nicht gemessen – bitte morgen nüchtern nachtragen (Ref. 23.07.: 85.5 cm)** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -470,6 +472,21 @@ Wasser raus, echtes Tief erreicht, Muskel bombenfest — perfekte Startrampe in 
 *Und misst man ab dem Vergleichswert 28.06. (68.90 / 19.5%): **-2.25 kg / -1.4% KF** in einem Monat.*
 
 **Zwischenfazit + Endspurt (noch 2 Tage):** Du hast in 16 Tagen **-1.50 kg bei fast vollständigem Muskelerhalt** abgenommen, den Skelettmuskel-Anteil sogar gesteigert, Visceralfett gesenkt und den Bauchumfang um 1.5 cm reduziert — bei einem tiefsten KF von 17.9%. Das ist genau der „realistische" Korridor, den wir am Tag 1 prognostiziert hatten (17% KF, flacher, definierter Bauch mit erster Kontur). Durch die auf **30.07.** verschobene Deadline hast du jetzt **2 gezielte Extratage**: Sie reichen erfahrungsgemäß, um das Wochenend-Wasser auszuspülen und zurück auf/unter das 23.07-Tief (66.35 / 17.9%) zu kommen — dann rücken KF-Realziel (17.0–17.5%) und Bauch-Realziel (83–85 cm) wieder in Reichweite. **Plan 29.–30.07.:** Defizit ~650 kcal, Protein 150 g+, 3.5–4 L Wasser, Salz konsequent niedrig, Bauchumfang morgens messen. 💪
+
+### 28.07. → 08.09. (BASELINE neue Challenge – nach ~6 Wochen Urlaub)
+| Metrik | 28.07. (vor Urlaub) | 08.09. (Baseline) | Veränderung | Bewertung |
+|--------|--------------------|--------------------|-------------|-----------|
+| Gewicht | 66.65 kg | 67.35 kg | **+0.70 kg** | 🟢 Sehr guter Halt für 6 Wochen frei |
+| Körperfett | 18.1% | 18.6% | +0.5% | 🟢 Minimaler Rebound |
+| Fettmasse | 12.06 kg | 12.53 kg | +0.47 kg | 🟢 Fett zurück, aber wenig |
+| Fettfreie Masse | 54.60 kg | 54.80 kg | +0.20 kg | 🟢 Muskelbasis gehalten/leicht ↑ |
+| Muskelmasse | 51.90 kg | 52.10 kg | +0.20 kg | 🟢 Kein Muskelverlust im Urlaub |
+| Skelettmuskel | 52.9% | 52.6% | -0.3% | 🟡 Minimal (Hydration/rel. Anteil) |
+| Körperwasser | 59.1% | 58.7% | -0.4% | 🟡 Erwartbar nach Urlaub |
+| Visceral Fett | 4 | 4 | 0 | 🟢 Stabil, grüner Bereich |
+| Bone/BMR/Met.-Alter | 2.73 / 1549 / 25 | 2.74 / 1554 / 25 | ~stabil | 🟢 |
+
+**Fazit Baseline:** Das ist ein **starker Startpunkt.** Nach ~6 Wochen Urlaub war deutlich mehr Rebound zu erwarten – tatsächlich sind es nur **+0.70 kg und +0.5% KF** gegenüber dem letzten dokumentierten Stand vor der Reise. Deine Muskelbasis (Muskelmasse 52.10 kg, FFM 54.80 kg) ist **komplett erhalten** – nach 6 Wochen Pause ist das ausgezeichnet und die perfekte Grundlage für den Recomp-Anteil (Muscle Memory greift sofort). Die Ausgangs-KF von **18.6% liegt fast exakt auf dem Juli-Niveau**, das im Zielplan als Voraussetzung für einen sichtbaren Sixpack in 4 Wochen definiert war. **Ampel-Prognose für 04.10.: 🟢/🟡** – ein *leicht sichtbarer* Sixpack (obere Bauchreihe, klare Kontur) ist bei konsequenter Umsetzung realistisch; die 12.53 kg Fettmasse müssen dafür Richtung ~9.5–10 kg (≈14–15% KF), also **~2.5–3 kg reiner Fettabbau in 4 Wochen** – am oberen, aber machbaren Ende. **Nächster Schritt:** Bauchumfang morgen früh nüchtern messen (fehlt heute) → dann ziehe ich Kalorien-/Proteinziele und die präzisen Wochen-Checkpoints aus diesem Baseline-BMR (1554 kcal).
 
 ---
 

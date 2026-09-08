@@ -5,20 +5,21 @@
 |---|---|
 | **Ziel** | Leicht sichtbarer Sixpack (klare Kontur reicht – kein Wettkampf-Shredded) |
 | **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
-| **Start** | 08.09.2026 (morgen) |
+| **Start** | 08.09.2026 (heute) |
 | **Deadline** | 04.10.2026 |
-| **Heute** | 07.09.2026 |
+| **Heute** | 08.09.2026 |
 | **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
-| **Verbleibende Tage bis Start** | 1 |
-| **Status** | 🟢 Aktiv – Baseline wird morgen erfasst |
+| **Verbleibende Tage bis Deadline** | 26 |
+| **Status** | 🟢 Aktiv – Baseline erfasst (08.09.): 67.35 kg / 18.6% KF |
 
 ---
 
-## Ausgangslage (07.09.2026)
-- **Zurück aus dem Urlaub.** Aktuelle Körperwerte noch offen → **Baseline-Messung morgen früh (08.09.) nüchtern**: Gewicht, Körperfett, Bauchumfang.
-- Letzter dokumentierter Stand (28.07.2026, vor Urlaub): **66,65 kg / 18,1 % KF**; Bauchumfang zuletzt 85,5 cm (23.07.).
-- Sehr gute Grundlage aus der letzten Phase: Muskelmasse ~52 kg, metabolisches Alter 25. Diese Basis macht Definition bei moderatem KF-Abbau schneller sichtbar.
-- **Erwartung:** Nach ~6 Wochen Urlaub realistisch etwas Rebound (Wasser/Glykogen + evtl. etwas Fett). Genau dafür ist die Challenge da – wir messen morgen ehrlich und rechnen von dort.
+## Ausgangslage / Baseline (08.09.2026) ✅ erfasst
+- **Baseline-Messung erledigt (nüchtern, morgens):** **67,35 kg / 18,6 % KF / 12,53 kg Fettmasse.** Muskelmasse 52,10 kg · FFM 54,80 kg · Skelettmuskel 52,6 % · Körperwasser 58,7 % · Visceral 4 · Knochen 2,74 kg · BMR 1554 kcal · BMI 21,5 · Metab. Alter 25.
+- **Bauchumfang heute nicht gemessen** → bitte morgen früh nüchtern nachtragen (Referenz 23.07.: 85,5 cm).
+- **Rebound nach ~6 Wochen Urlaub erfreulich klein:** nur **+0,70 kg / +0,5 % KF** ggü. letztem Stand vor der Reise (28.07.: 66,65 / 18,1 %); +1,00 kg ggü. Allzeit-Tief (23.07.: 66,35 / 17,9 %).
+- **Muskelbasis komplett gehalten** (Muskelmasse +0,20, FFM +0,20 ggü. 28.07.) – ideale Grundlage für den Recomp-Anteil (Muscle Memory).
+- **Ausgangs-KF 18,6 % liegt fast genau auf dem Juli-Niveau** (~18 %), das im Plan als Voraussetzung für einen sichtbaren Sixpack in 4 Wochen definiert war.
 
 ---
 
@@ -82,3 +83,14 @@
 - User-Priorität geschärft: **Sixpack muss auf jeden Fall sichtbar sein.** Sichtbarkeit schlägt maximale Muskel-Mitnahme.
 - Defizit fest auf **-550 bis -600 kcal/Tag** gesetzt (oberes Ende für sicheren Fettabbau bis 04.10.). Muskelschutz weiter über Protein ~150 g + Kraft 4×/Woche.
 - **Morgen nach Baseline:** ehrliche Ampel-Prognose (grün/gelb/rot) ob 4 Wochen bis ~14–15 % KF reichen; bei rot Verlängerung um 1–2 Wochen anbieten.
+
+### 08.09.2026 – Baseline erfasst & Ampel-Prognose 🟢/🟡
+- **Werte:** 67,35 kg / 18,6 % KF / 12,53 kg Fett. Muskelbasis top gehalten (Muskelmasse 52,10 / FFM 54,80), BMR 1554 kcal. Details → [[../Körperwerte/Messungen-Tracker]].
+- **Prognose:** **🟢/🟡** – ein *leicht sichtbarer* Sixpack (obere Bauchreihe, klare Kontur) bis 04.10. ist bei konsequenter Umsetzung **realistisch**. Grund: Ausgangs-KF 18,6 % liegt auf dem angepeilten Juli-Niveau und die Muskelbasis ist voll da.
+- **Was nötig ist:** Fettmasse von 12,53 kg → ~9,5–10 kg (≈14–15 % KF) = **~2,5–3 kg reiner Fettabbau in 4 Wochen** (≈0,6–0,75 kg/Woche). Das ist das **obere, aber machbare Ende** – exakt der im Plan kalkulierte Korridor. Kein Grund für 🔴, keine Verlängerung nötig.
+- **Konkrete Tagesziele (aus Baseline-BMR 1554):**
+  - **Kalorien:** grob **~1900–2000 kcal/Tag** an Trainingstagen bzw. **~1750–1850 kcal** an Ruhetagen (TDEE ≈ BMR × ~1,5–1,6 minus 550–600 kcal Defizit) – wird nach ersten Aktivitätsdaten dieser Woche feinjustiert.
+  - **Protein:** **~150 g/Tag** (≈2,2 g/kg) – nicht verhandelbar, DER Muskelschutz-/Recomp-Faktor.
+  - **Wasser:** 3–4 L/Tag · **Salz** bewusst niedrig (Urlaubs-Retention ausspülen) · Schlaf ≥7 h.
+- **Woche 1 (08.–14.09.) Ziel:** Defizit sauber etablieren, Urlaubs-Wasser ausspülen → erwartbar **-1 bis -2 kg** (v.a. Wasser/Glykogen, wie in der letzten Phase Tag 1–5).
+- **To-do Konstantinos:** ab heute täglich Waage + Essen posten; **morgen Bauchumfang nüchtern messen** (fehlt in der Baseline).
