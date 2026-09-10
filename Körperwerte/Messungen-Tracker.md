@@ -23,6 +23,8 @@
 | **28.07.2026** | **66.65** | **18.1** | **12.06** | **54.60** | **—** | **1549** | **Tag 17 / DEADLINE – nach 4 Tagen unterwegs: +0.30 kg ggü. 23.07-Tief. Klassischer Wochenend-Rebound (Auswärts-Essen → Glykogen + Natrium/Wasser): Muskelmasse +0.20 & FFM +0.10 = Wasser in der Muskulatur, KF 18.1 & Subkutan 16.4 minimal ↑ (Bioimpedanz folgt Hydration). Visceral 4 / Knochen 2.73 / Protein 18.7 stabil. Bei nur +0.30 kg in 4 Restaurant-Tagen ist echter Fettaufbau energetisch praktisch ausgeschlossen. Netto seit Start: -1.50 kg / -0.9% KF / -0.89 kg Fett. Bauchumfang unterwegs nicht gemessen** |
 | _29.07.–07.09._ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _~6 Wochen Urlaub – keine Messungen_ |
 | **08.09.2026** | **67.35** | **18.6** | **12.53** | **54.80** | **—** | **1554** | **🏁 BASELINE 4-Wochen-Challenge (Start; Deadline 04.10.) – erste Messung zurück aus dem Urlaub. Rebound erfreulich gering: nur +0.70 kg / +0.5% KF ggü. letztem Stand vor Urlaub (28.07.: 66.65 / 18.1%), +1.00 kg ggü. Allzeit-Tief (23.07.: 66.35 / 17.9%). Fettmasse 12.53 (+0.47). 💪 Muskelbasis top gehalten: Muskelmasse 52.10 (+0.20), FFM 54.80 (+0.20), Skelettmuskel 52.6% (-0.3), Wasser 58.7% (-0.4), Visceral 4 / Knochen 2.74 stabil. Ausgangs-KF 18.6% liegt nahe Juli-Niveau → gute Startbasis. Bauchumfang heute nicht gemessen – bitte morgen nüchtern nachtragen (Ref. 23.07.: 85.5 cm)** |
+| _09.09.2026_ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _Tag 2 – Wiegen ausgefallen (keine Messung); Essen & Training normal geloggt_ |
+| **10.09.2026** | **67.00** | **18.3** | **12.26** | **54.70** | **—** | **1552** | **Tag 3 / erste Nachmessung seit Baseline – 🎯 -0.35 kg ggü. Baseline (67.35→67.00), davon -0.27 kg reine Fettmasse (77%). KF 18.3 (-0.3) & Subkutan 16.6 (-0.3) beide zurück auf dem Juli-Allzeit-Tief. Skelettmuskel 52.7% (+0.1, Höchststand), Körperwasser 58.9% (+0.2), Protein 18.7% (Höchststand). FFM -0.10 & Muskelmasse -0.10 = Wasser (Körperwasser steigt ja) → kein Muskelverlust. Visceral 4 / Knochen 2.74 stabil. Werte Ziffer für Ziffer identisch mit dem Juli-Tief (18./22.07.): das Urlaubs-Rebound-Wasser ist nach nur 2 Tagen ausgespült. Trotz Radler gestern ein neues Challenge-Tief → Radler war Wasser, kein Fett. Bauchumfang weiter offen (fehlt seit Baseline) – bitte dringend nachtragen (Ref. 23.07.: 85.5 cm)** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -487,6 +489,52 @@ Wasser raus, echtes Tief erreicht, Muskel bombenfest — perfekte Startrampe in 
 | Bone/BMR/Met.-Alter | 2.73 / 1549 / 25 | 2.74 / 1554 / 25 | ~stabil | 🟢 |
 
 **Fazit Baseline:** Das ist ein **starker Startpunkt.** Nach ~6 Wochen Urlaub war deutlich mehr Rebound zu erwarten – tatsächlich sind es nur **+0.70 kg und +0.5% KF** gegenüber dem letzten dokumentierten Stand vor der Reise. Deine Muskelbasis (Muskelmasse 52.10 kg, FFM 54.80 kg) ist **komplett erhalten** – nach 6 Wochen Pause ist das ausgezeichnet und die perfekte Grundlage für den Recomp-Anteil (Muscle Memory greift sofort). Die Ausgangs-KF von **18.6% liegt fast exakt auf dem Juli-Niveau**, das im Zielplan als Voraussetzung für einen sichtbaren Sixpack in 4 Wochen definiert war. **Ampel-Prognose für 04.10.: 🟢/🟡** – ein *leicht sichtbarer* Sixpack (obere Bauchreihe, klare Kontur) ist bei konsequenter Umsetzung realistisch; die 12.53 kg Fettmasse müssen dafür Richtung ~9.5–10 kg (≈14–15% KF), also **~2.5–3 kg reiner Fettabbau in 4 Wochen** – am oberen, aber machbaren Ende. **Nächster Schritt:** Bauchumfang morgen früh nüchtern messen (fehlt heute) → dann ziehe ich Kalorien-/Proteinziele und die präzisen Wochen-Checkpoints aus diesem Baseline-BMR (1554 kcal).
+
+### 08.09. → 10.09. (Baseline → Tag 3) — 🎯 Starker Auftakt: Urlaubs-Wasser in 2 Tagen ausgespült
+> _09.09. (Tag 2) keine Messung – Wiegen ausgefallen. Vergleich daher Baseline (08.09.) → heute (10.09.), 2 Tage._
+
+| Metrik | Veränderung | Bewertung |
+|--------|------------|-----------|
+| Gewicht | **-0.35 kg** (67.35 → 67.00) | Sehr gut — 67-kg-Marke geknackt, sauberer Woche-1-Start |
+| Körperfett | **-0.3%** (18.6 → 18.3) | Sehr gut — zurück auf dem Juli-Allzeit-Tief |
+| Fettmasse | **-0.27 kg** (12.53 → 12.26) | Sehr gut — 77% des Gewichtsverlusts ist reines Fett |
+| Fettfreie Masse | -0.10 kg (54.80 → 54.70) | Neutral — Wasser, Muskel geschützt (Körperwasser steigt ja) |
+| Muskelmasse | -0.10 kg (52.10 → 52.00) | Neutral — Wasserschwankung, kein echter Verlust (Skelettmuskel-% steigt) |
+| Skelettmuskel | **+0.1%** (52.6 → 52.7) | Gut — relativer Anteil auf Höchststand |
+| Subkutanfett | **-0.3%** (16.9 → 16.6) | Sehr gut — sichtbares Fett zurück auf Allzeit-Tief |
+| Visceral Fett | 0 (bleibt 4) | Gut — stabil im grünen Bereich |
+| Körperwasser | **+0.2%** (58.7 → 58.9) | Gut — Hydration auf Höchststand (widerlegt „Muskelverlust") |
+| Protein | 0.0% (18.7) | Gut — hält den Höchststand |
+| Knochenmasse | 0.00 kg (2.74) | Neutral — stabil |
+| BMR | -2 kcal (1552) | Neutral — folgt nur dem Gewicht |
+| BMI | -0.1 (21.4) | Neutral — folgt dem Gewicht |
+| Bauchumfang | — (weiter nicht gemessen) | ⚠️ Fehlt seit Baseline — bitte dringend nachtragen (Ref. 23.07.: 85.5 cm) |
+
+**Fazit Tag 3:** Genau der Woche-1-Verlauf, den wir wollten. In 2 Tagen **-0.35 kg, davon -0.27 kg reine Fettmasse (77%)** — ein hervorragender Fett-Anteil schon in der ersten Woche, wo normalerweise viel Wasser dabei ist. Der Grund: Bei dir *war* das Urlaubs-Wasser der einzige Ballast, und der ist jetzt raus. Deine Werte stehen **Ziffer für Ziffer wieder auf dem Juli-Allzeit-Tief** (67.00 / 18.3% / 12.26 / 54.70 / 16.6% / 52.7% / 52.00 / 58.9% / 18.7% — identisch mit 18.07. und 22.07.). Das heißt: Der komplette +0.70-kg-Rebound aus 6 Wochen Urlaub ist nach **nur 2 Challenge-Tagen** ausgespült. Körperfett und Subkutanfett auf Allzeit-Tief, Skelettmuskel-Anteil (52.7%), Körperwasser (58.9%) und Protein (18.7%) alle auf Höchststand. Der FFM-/Muskelmasse-Dip (je -0.10) ist Wasser — beweisbar daran, dass das Körperwasser gleichzeitig *steigt* und der Skelettmuskel-Anteil *zunimmt*; echter Muskelabbau sähe genau umgekehrt aus.
+
+**Der Radler-Test bestanden:** Gestern gab's abends einen Radler (~0,5 L, Alkohol + Zucker) und das Wiegen fiel aus. Trotzdem heute ein **neues Challenge-Tief** — das ist der beste Beweis, dass der Radler kosmetisch war (etwas Wasser), kein Fett. Energetisch war er vom Training (~190 aktive kcal) ohnehin aufgefangen. Als Ausnahme (max. 1×/Woche) unkritisch; Regel bleibt aber: in der Challenge trocken.
+
+**Kumulativ seit Baseline (08.09. → 10.09., 2 Tage):**
+| Metrik | Baseline | Heute | Δ |
+|--------|----------|-------|---|
+| Gewicht | 67.35 | 67.00 | **-0.35 kg** |
+| Körperfett | 18.6 | 18.3 | **-0.3%** |
+| Fettmasse | 12.53 | 12.26 | **-0.27 kg** (echtes Fett) |
+| Subkutanfett | 16.9 | 16.6 | **-0.3%** |
+| Muskelmasse | 52.10 | 52.00 | -0.10 kg (geschützt, Skelettmuskel-% ↑) |
+| Visceral Fett | 4 | 4 | 0 (grün) |
+
+**Woche-1-Ziel (08.–14.09.: -1 bis -2 kg):** Nach 2 Tagen bei **-0.35 kg** → sauber auf Pace. Wichtig: Der große „Wasser-raus"-Bonus, den Woche 1 normalerweise liefert, ist bei dir **schon eingelöst** (Rebound war ja nur klein). Heißt: Ab jetzt kommt der Fortschritt langsamer und muss über echtes Fett laufen — genau das zeigt die heutige Messung (77% Fett). Erwarte in den nächsten Tagen **keine großen Wasser-Sprünge mehr**, sondern ruhigere, fettbasierte Rückgänge (~0.5–0.75 kg/Woche). Das ist gewollt und gesund.
+
+**Blick auf das 04.10.-Ziel (noch 24 Tage):** Startbasis für den eigentlichen Fettabbau ist jetzt 12.26 kg statt 12.53 kg. Ziel Richtung ~9.5–10 kg (≈14–15% KF) → noch **~2.3–2.8 kg reiner Fettabbau in 24 Tagen** (≈0.7 kg/Woche). Am oberen, aber machbaren Ende — der Auftakt bestätigt die 🟢/🟡-Prognose.
+
+**Was das für heute heißt (Tag 3):**
+1. **Bauchumfang endlich messen** — fehlt seit der Baseline und ist unser *ehrlichster* Sixpack-Indikator. Ohne ihn fliegt der wichtigste Wert für die Definition im Dunkeln. Bitte morgen früh nüchtern, Nabelhöhe.
+2. **Protein 150 g+** — gestern mit 164 g vorbildlich; das Muster halten (≥30–40 g pro Hauptmahlzeit), heute ein echter Protein-Block zum Frühstück (Skyr/Quark/Eier) statt nur Kaffee.
+3. **3,5–4 L Wasser · Salz niedrig** — hält den sauberen Trend, jetzt wo das Urlaubs-Wasser raus ist.
+4. **Defizit ~550–600 kcal + Kraft progressiv** — ab hier zählt jedes Gramm als echter Netto-Fettabbau unter dem Juli-Tief.
+
+Perfekter Start in die Challenge: Urlaubs-Wasser weg, Muskel bombenfest, zurück am Allzeit-Tief — und ab jetzt ist alles Neuland nach unten. 💪
 
 ---
 

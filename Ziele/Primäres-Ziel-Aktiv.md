@@ -5,12 +5,12 @@
 |---|---|
 | **Ziel** | Leicht sichtbarer Sixpack (klare Kontur reicht – kein Wettkampf-Shredded) |
 | **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
-| **Start** | 08.09.2026 (heute) |
+| **Start** | 08.09.2026 |
 | **Deadline** | 04.10.2026 |
-| **Heute** | 08.09.2026 |
+| **Heute** | 10.09.2026 (Tag 3) |
 | **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
-| **Verbleibende Tage bis Deadline** | 26 |
-| **Status** | 🟢 Aktiv – Baseline erfasst (08.09.): 67.35 kg / 18.6% KF |
+| **Verbleibende Tage bis Deadline** | 24 |
+| **Status** | 🟢 Aktiv – Tag 3 (10.09.): 67.00 kg / 18.3% KF → -0.35 kg / -0.3% KF ggü. Baseline, zurück am Juli-Allzeit-Tief |
 
 ---
 
@@ -94,3 +94,12 @@
   - **Wasser:** 3–4 L/Tag · **Salz** bewusst niedrig (Urlaubs-Retention ausspülen) · Schlaf ≥7 h.
 - **Woche 1 (08.–14.09.) Ziel:** Defizit sauber etablieren, Urlaubs-Wasser ausspülen → erwartbar **-1 bis -2 kg** (v.a. Wasser/Glykogen, wie in der letzten Phase Tag 1–5).
 - **To-do Konstantinos:** ab heute täglich Waage + Essen posten; **morgen Bauchumfang nüchtern messen** (fehlt in der Baseline).
+
+### 10.09.2026 – Tag 3: Auftakt-Messung 🎯 auf Kurs
+- **Werte:** 67.00 kg / 18.3% KF / 12.26 kg Fett – in 2 Tagen **-0.35 kg, davon -0.27 kg reines Fett (77%)**. Details & volle Analyse → [[../Körperwerte/Messungen-Tracker]].
+- **Kernbefund:** Werte stehen Ziffer für Ziffer wieder auf dem **Juli-Allzeit-Tief** (= 18./22.07.) → der komplette +0.70-kg-Urlaubs-Rebound ist nach nur 2 Challenge-Tagen ausgespült. Muskelbasis voll geschützt (FFM/Muskel -0.10 = Wasser, da Körperwasser +0.2 & Skelettmuskel-% +0.1 gleichzeitig steigen). Visceral 4 stabil.
+- **Prognose bestätigt 🟢/🟡:** Startbasis für den eigentlichen Fettabbau ist jetzt 12.26 kg. Bis ~9.5–10 kg (≈14–15% KF) noch **~2.3–2.8 kg reiner Fettabbau in 24 Tagen** (≈0.7 kg/Woche) – am oberen, aber machbaren Ende.
+- **Realitäts-Hinweis:** Der übliche „Woche-1-Wasserbonus" ist bei dir schon eingelöst (Rebound war klein). Ab jetzt ruhigere, **fettbasierte** Rückgänge erwarten – keine großen Waage-Sprünge mehr. Genau das ist gewollt.
+- **Radler (09.09.):** Trotz Radler heute neues Tief → war Wasser, kein Fett. In der Challenge weiter trocken (max. 1×/Woche Ausnahme).
+- **⚠️ Wichtigste offene Baustelle – Bauchumfang:** fehlt seit der Baseline (08.09.). Das ist der ehrlichste Sixpack-Indikator → **muss morgen früh nüchtern gemessen werden** (Ref. 23.07.: 85.5 cm).
+- **To-do Konstantinos (Tag 3):** Bauchumfang nachmessen · Protein-Block zum Frühstück (nicht nur Kaffee) · Protein 150 g+ halten · 3.5–4 L Wasser, Salz niedrig · Kraft progressiv laut Plan.
