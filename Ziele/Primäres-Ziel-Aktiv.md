@@ -7,10 +7,10 @@
 | **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
 | **Start** | 08.09.2026 |
 | **Deadline** | 04.10.2026 |
-| **Heute** | 10.09.2026 (Tag 3) |
+| **Heute** | 11.09.2026 (Tag 4) |
 | **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
-| **Verbleibende Tage bis Deadline** | 24 |
-| **Status** | 🟢 Aktiv – Tag 3 (10.09.): 67.00 kg / 18.3% KF → -0.35 kg / -0.3% KF ggü. Baseline, zurück am Juli-Allzeit-Tief |
+| **Verbleibende Tage bis Deadline** | 23 |
+| **Status** | 🟢 Aktiv – Tag 4 (11.09.): 66.85 kg / 18.2% KF / **Bauch 86 cm** (erstmals gemessen) → -0.50 kg / -0.4% KF ggü. Baseline, erstmals unter das 67.00-Juli-Plateau |
 
 ---
 
@@ -103,3 +103,12 @@
 - **Radler (09.09.):** Trotz Radler heute neues Tief → war Wasser, kein Fett. In der Challenge weiter trocken (max. 1×/Woche Ausnahme).
 - **⚠️ Wichtigste offene Baustelle – Bauchumfang:** fehlt seit der Baseline (08.09.). Das ist der ehrlichste Sixpack-Indikator → **muss morgen früh nüchtern gemessen werden** (Ref. 23.07.: 85.5 cm).
 - **To-do Konstantinos (Tag 3):** Bauchumfang nachmessen · Protein-Block zum Frühstück (nicht nur Kaffee) · Protein 150 g+ halten · 3.5–4 L Wasser, Salz niedrig · Kraft progressiv laut Plan.
+
+### 11.09.2026 – Tag 4: Erster Schritt unter das Juli-Plateau + Bauchumfang endlich da 🎯
+- **Werte:** 66.85 kg / 18.2% KF / 12.17 kg Fett – ggü. 10.09. **-0.15 kg, davon -0.09 kg reines Fett (60%)**. Details & volle Analyse → [[../Körperwerte/Messungen-Tracker]].
+- **🎯 Bauchumfang erstmals gemessen: 86 cm** – die seit Baseline (08.09.) offene Baustelle ist geschlossen. Einordnung: +0.5 cm über dem Allzeit-Tief (85.5 cm, 23.07.), exakt auf Juli-Plateau-Niveau. **Kein Rückschritt**, sondern der erste ehrliche Challenge-Messpunkt = Basis fürs tägliche Tracking. Zielrichtung für sichtbaren Sixpack: **≤83–84 cm**.
+- **Kernbefund:** Erstmals **unter das 67.00-Juli-Plateau** (die wiederkehrende Bodenmarke von 18.07. / 22.07. / 10.09.). Echtes Neuterrain, kein Wasser: KF 18.2% & Subkutan 16.5% auf neuen Challenge-Tiefstwerten, Skelettmuskel 52.9% & Körperwasser 59.1% auf neuen Challenge-Höchstständen. FFM stabil (54.70), Muskelmasse-Dip (-0.10) = Wasser → kein Muskelverlust. Visceral 4 stabil.
+- **Netto seit Baseline (08.09. → 11.09.):** -0.50 kg / -0.4% KF / -0.36 kg Fett (**72% des Verlusts ist Fett**), Muskel geschützt (Skelettmuskel-% ↑ 52.6 → 52.9).
+- **Woche-1-Ziel (-1 bis -2 kg):** nach 4 Tagen bei -0.50 kg → auf Pace; da der Wasserbonus schon eingelöst ist, ist das fast reines Fett (gewünschte Qualität).
+- **Prognose bestätigt 🟢/🟡:** Fettmasse 12.17 kg → Ziel ~9.5–10 kg (≈14–15% KF) = noch **~2.2–2.7 kg reiner Fettabbau in 23 Tagen** (≈0.7 kg/Woche). Nächster Meilenstein: Allzeit-Tief 23.07. (66.35 / 17.9% / 85.5 cm) unterbieten.
+- **To-do Konstantinos (Tag 4):** Bauchumfang **ab jetzt täglich** morgens nüchtern (Nabelhöhe) · Protein 150 g+ (Frühstücks-Block) · 3.5–4 L Wasser, Salz niedrig · Defizit ~550–600 kcal + Kraft progressiv laut Plan.

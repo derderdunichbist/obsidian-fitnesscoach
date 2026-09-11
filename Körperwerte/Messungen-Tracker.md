@@ -25,6 +25,7 @@
 | **08.09.2026** | **67.35** | **18.6** | **12.53** | **54.80** | **—** | **1554** | **🏁 BASELINE 4-Wochen-Challenge (Start; Deadline 04.10.) – erste Messung zurück aus dem Urlaub. Rebound erfreulich gering: nur +0.70 kg / +0.5% KF ggü. letztem Stand vor Urlaub (28.07.: 66.65 / 18.1%), +1.00 kg ggü. Allzeit-Tief (23.07.: 66.35 / 17.9%). Fettmasse 12.53 (+0.47). 💪 Muskelbasis top gehalten: Muskelmasse 52.10 (+0.20), FFM 54.80 (+0.20), Skelettmuskel 52.6% (-0.3), Wasser 58.7% (-0.4), Visceral 4 / Knochen 2.74 stabil. Ausgangs-KF 18.6% liegt nahe Juli-Niveau → gute Startbasis. Bauchumfang heute nicht gemessen – bitte morgen nüchtern nachtragen (Ref. 23.07.: 85.5 cm)** |
 | _09.09.2026_ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _Tag 2 – Wiegen ausgefallen (keine Messung); Essen & Training normal geloggt_ |
 | **10.09.2026** | **67.00** | **18.3** | **12.26** | **54.70** | **—** | **1552** | **Tag 3 / erste Nachmessung seit Baseline – 🎯 -0.35 kg ggü. Baseline (67.35→67.00), davon -0.27 kg reine Fettmasse (77%). KF 18.3 (-0.3) & Subkutan 16.6 (-0.3) beide zurück auf dem Juli-Allzeit-Tief. Skelettmuskel 52.7% (+0.1, Höchststand), Körperwasser 58.9% (+0.2), Protein 18.7% (Höchststand). FFM -0.10 & Muskelmasse -0.10 = Wasser (Körperwasser steigt ja) → kein Muskelverlust. Visceral 4 / Knochen 2.74 stabil. Werte Ziffer für Ziffer identisch mit dem Juli-Tief (18./22.07.): das Urlaubs-Rebound-Wasser ist nach nur 2 Tagen ausgespült. Trotz Radler gestern ein neues Challenge-Tief → Radler war Wasser, kein Fett. Bauchumfang weiter offen (fehlt seit Baseline) – bitte dringend nachtragen (Ref. 23.07.: 85.5 cm)** |
+| **11.09.2026** | **66.85** | **18.2** | **12.17** | **54.70** | **86** | **1551** | **Tag 4 – 🎯 ERSTE Bauchumfang-Messung der Challenge: 86 cm (Ref. 23.07.: 85.5 → +0.5 cm über dem Allzeit-Tief; etabliert die Challenge-Basis). NEUES CHALLENGE-TIEF: -0.15 kg ggü. 10.09 (67.00→66.85) → erstmals UNTER das 67.00-Juli-Plateau, davon -0.09 kg reine Fettmasse (60%). KF 18.2 (-0.1) & Subkutan 16.5 (-0.1) beide neue Challenge-Tiefstwerte (Allzeit-Tief bleibt 23.07.: 17.9% / 16.3%). Skelettmuskel 52.9% (+0.2) & Körperwasser 59.1% (+0.2) neue Challenge-Höchststände. FFM stabil (54.70), Muskelmasse -0.10 = Wasser (Körperwasser & Skelettmuskel-% steigen ja) → kein Muskelverlust. Visceral 4 / Knochen 2.74 stabil, BMR 1551, BMI 21.3, Protein 18.6%. Netto seit Baseline: -0.50 kg / -0.4% KF / -0.36 kg Fett (72% Fett)** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -535,6 +536,50 @@ Wasser raus, echtes Tief erreicht, Muskel bombenfest — perfekte Startrampe in 
 4. **Defizit ~550–600 kcal + Kraft progressiv** — ab hier zählt jedes Gramm als echter Netto-Fettabbau unter dem Juli-Tief.
 
 Perfekter Start in die Challenge: Urlaubs-Wasser weg, Muskel bombenfest, zurück am Allzeit-Tief — und ab jetzt ist alles Neuland nach unten. 💪
+
+### 10.09. → 11.09. (Tag 3 → Tag 4) — 🎯 Erster Schritt unter das Juli-Plateau + endlich der Bauchumfang
+| Metrik | Veränderung | Bewertung |
+|--------|------------|-----------|
+| Gewicht | **-0.15 kg** (67.00 → 66.85) | Sehr gut — erstmals UNTER das 67.00-Juli-Plateau, sauberer fettbasierter Schritt (kein Wasser mehr im Spiel) |
+| Körperfett | **-0.1%** (18.3 → 18.2) | Sehr gut — neuer Challenge-Tiefstwert |
+| Fettmasse | **-0.09 kg** (12.26 → 12.17) | Sehr gut — 60% des Gewichtsverlusts ist reines Fett |
+| Fettfreie Masse | 0.00 kg (54.70) | Gut — stabil, Muskel voll gehalten |
+| Skelettmuskel | **+0.2%** (52.7 → 52.9) | Sehr gut — relativer Anteil auf neuem Challenge-Höchststand |
+| Muskelmasse | -0.10 kg (52.00 → 51.90) | Neutral — Wasserschwankung, kein echter Verlust (Skelettmuskel-% & Körperwasser steigen ja beide) |
+| Subkutanfett | **-0.1%** (16.6 → 16.5) | Sehr gut — sichtbares Fett auf neuem Challenge-Tiefstwert |
+| Visceral Fett | 0 (bleibt 4) | Gut — stabil im grünen Bereich |
+| Körperwasser | **+0.2%** (58.9 → 59.1) | Gut — Hydration auf neuem Challenge-Höchststand (widerlegt „Muskelverlust") |
+| Protein | -0.1% (18.7 → 18.6) | Neutral — Rundungsrauschen, hält faktisch den Höchststand |
+| Knochenmasse | 0.00 kg (2.74) | Neutral — stabil |
+| BMR | -1 kcal (1551) | Neutral — folgt nur dem Gewicht |
+| BMI | -0.1 (21.3) | Neutral — folgt dem Gewicht |
+| **Bauchumfang** | **86 cm (erstmals gemessen)** | **🎯 Endlich da — der wichtigste Sixpack-Indikator. 86 cm liegt +0.5 cm über dem Allzeit-Tief (85.5, 23.07.) und etabliert die Challenge-Basis, von der aus wir Richtung Definition arbeiten** |
+
+**Fazit Tag 4:** Genau der Verlauf, den ich nach dem Tag-3-Befund angekündigt hatte. Ich hatte geschrieben: *„Der Woche-1-Wasserbonus ist bei dir schon eingelöst — ab jetzt kommt der Fortschritt fettbasiert, in ruhigeren Schritten."* Heute: **-0.15 kg, davon -0.09 kg reines Fett (60%)**, und du stehst **erstmals unter dem 67.00-Juli-Plateau**, das seit Monaten die wiederkehrende Bodenmarke war (18.07. / 22.07. / 10.09.). Das ist echtes Neuterrain, kein Wasser-Rundlauf: Körperwasser (59.1%) und Skelettmuskel-Anteil (52.9%) steigen beide auf neue Challenge-Höchststände, während KF (18.2%) und Subkutanfett (16.5%) auf neue Challenge-Tiefstwerte fallen. Der absolute Muskelmasse-Dip (-0.10 kg) ist damit beweisbar Wasser, kein Verlust — echter Muskelabbau sähe genau umgekehrt aus (Wasser runter, Skelettmuskel-% runter).
+
+**🎯 Der Bauchumfang ist endlich da (86 cm):** Seit der Baseline (08.09.) war er die größte offene Baustelle — jetzt haben wir ihn. Einordnung: 86 cm ist **+0.5 cm über dem Allzeit-Tief** (85.5 cm am 23.07.) und liegt exakt auf dem Niveau des Juli-Plateaus (16.–22.07. standen ebenfalls bei 86 cm). Das passt sauber zum Körperfett: Deine KF (18.2%) liegt aktuell knapp über dem 23.07-Tief (17.9%), also ist auch der Umfang folgerichtig einen halben Zentimeter darüber. Wichtig: Das ist **kein Rückschritt**, sondern der erste ehrliche Messpunkt der Challenge — die Basis, von der wir jetzt jeden Zentimeter nach unten tracken. Für einen sichtbaren Sixpack wollen wir ihn Richtung **≤83–84 cm** bringen.
+
+**Kumulativ seit Baseline (08.09. → 11.09., Tag 4):**
+| Metrik | Baseline | Heute | Δ |
+|--------|----------|-------|---|
+| Gewicht | 67.35 | 66.85 | **-0.50 kg** |
+| Körperfett | 18.6 | 18.2 | **-0.4%** |
+| Fettmasse | 12.53 | 12.17 | **-0.36 kg** (72% des Verlusts ist Fett) |
+| Subkutanfett | 16.9 | 16.5 | **-0.4%** |
+| Muskelmasse | 52.10 | 51.90 | -0.20 kg (geschützt, Skelettmuskel-% ↑ 52.6 → 52.9) |
+| Visceral Fett | 4 | 4 | 0 (grün) |
+
+**Woche-1-Ziel (08.–14.09.: -1 bis -2 kg):** Nach 4 Tagen bei **-0.50 kg** → sauber auf Pace, und die Qualität ist erstklassig (72% Fett kumulativ, Muskel geschützt, alle „Aufwärts"-Marker auf Challenge-Höchststand). Da der Wasserbonus schon eingelöst ist, ist -0.50 kg in dieser Phase **fast reines Fett** — genau das wollen wir sehen.
+
+**Blick auf das 04.10.-Ziel (noch 23 Tage):** Fettmasse jetzt 12.17 kg. Ziel Richtung ~9.5–10 kg (≈14–15% KF) → noch **~2.2–2.7 kg reiner Fettabbau in 23 Tagen** (≈0.7 kg/Woche). Am oberen, aber machbaren Ende — Prognose bleibt 🟢/🟡. Nächster Meilenstein: das Allzeit-Tief vom 23.07. (66.35 kg / 17.9% KF / 85.5 cm) unterbieten, dann ist alles darunter Bestleistung.
+
+**Was das für heute heißt (Tag 4):**
+1. **Bauchumfang ab jetzt täglich morgens nüchtern messen** (Nabelhöhe) — endlich haben wir die Basis (86 cm), ab jetzt lückenlos tracken, damit wir jeden Knick früh sehen.
+2. **Protein 150 g+** — der Muskelschutz Nr. 1 im Defizit; das gute Muster (164 g / 141 g der letzten Tage) halten, echter Protein-Block zum Frühstück.
+3. **3,5–4 L Wasser · Salz niedrig** — hält den sauberen, fettbasierten Trend jetzt, wo kein Wasser mehr überdeckt.
+4. **Defizit ~550–600 kcal + Kraft progressiv** — jedes Gramm zählt jetzt als echter Netto-Fettabbau in Neuterrain.
+
+Erster Schritt unter das Plateau, Bauchumfang-Basis endlich gesetzt, Muskel bombenfest — die Challenge läuft genau nach Plan. 💪
 
 ---
 
