@@ -7,10 +7,10 @@
 | **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
 | **Start** | 08.09.2026 |
 | **Deadline** | 04.10.2026 |
-| **Heute** | 10.09.2026 (Tag 3) |
+| **Heute** | 12.09.2026 (Tag 5) |
 | **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
-| **Verbleibende Tage bis Deadline** | 24 |
-| **Status** | 🟢 Aktiv – Tag 3 (10.09.): 67.00 kg / 18.3% KF → -0.35 kg / -0.3% KF ggü. Baseline, zurück am Juli-Allzeit-Tief |
+| **Verbleibende Tage bis Deadline** | 22 |
+| **Status** | 🟢 Aktiv – Tag 5 (12.09.): kein neuer Waage-Wert (nicht gewogen); letzter Stand 10.09.: 67.00 kg / 18.3% KF (Challenge-Tief). Essen & Bewegung auf Kurs. ⚠️ Bauchumfang fehlt weiterhin seit Baseline |
 
 ---
 
@@ -103,3 +103,12 @@
 - **Radler (09.09.):** Trotz Radler heute neues Tief → war Wasser, kein Fett. In der Challenge weiter trocken (max. 1×/Woche Ausnahme).
 - **⚠️ Wichtigste offene Baustelle – Bauchumfang:** fehlt seit der Baseline (08.09.). Das ist der ehrlichste Sixpack-Indikator → **muss morgen früh nüchtern gemessen werden** (Ref. 23.07.: 85.5 cm).
 - **To-do Konstantinos (Tag 3):** Bauchumfang nachmessen · Protein-Block zum Frühstück (nicht nur Kaffee) · Protein 150 g+ halten · 3.5–4 L Wasser, Salz niedrig · Kraft progressiv laut Plan.
+
+### 12.09.2026 – Tag 5: Ausflugstag sauber gecuttet 🥾
+- **Tag 4 (11.09.):** Riesiger Aktivitätstag (Move 1025 / 342 %, Climbing = Ganzkörper-Kraft), Restaurant-Schnitzel sauber ins Defizit integriert (1.909 kcal / 197 g Protein). Wiegen ausgefallen. Details → [[../Ernährung/Essenslog/2026-09-11]].
+- **Tag 5 (12.09.):** Ausflug Fränkische Schweiz (Muggendorf). **1.717 kcal / 157 g Protein / 50 g Fett / 122 g Carbs**, dazu Hiking + **14.538 Schritte** (höchster Schritt-Tag) → Move 722 (241 %). Netto-Defizit ~600–700 kcal, voll im Zielkorridor. Details → [[../Ernährung/Essenslog/2026-09-12]].
+- ✅ **Fortschritt bei der To-do:** Protein-Frühstück (61 g) endlich umgesetzt – „nicht nur Kaffee" erledigt.
+- 🟡 **Alkohol im Blick:** Weizen heute = 2. Alkohol-Tag der Woche (nach Radler 09.09.). Kalorisch unkritisch, aber Regel ist max. 1×/Woche → ab jetzt straffen, Schlusswoche (29.09.–04.10.) komplett trocken.
+- ⚠️ **Waage-Lücke:** Seit dem 10.09. (Challenge-Tief 67,00 kg) kein neuer Wert (11.+12.09. nicht gewogen). Trend nicht verlieren → **morgen früh nüchtern wiegen**.
+- 🔴 **Bauchumfang fehlt seit Baseline (5 Tage)** – ehrlichster Sixpack-Indikator, kritischste offene Aufgabe. **Morgen früh nüchtern messen** (Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
+- **To-do Konstantinos (Tag 6):** Wiegen ✅ · **Bauchumfang messen** (überfällig) · Protein 150 g+ · Wasser 3,5–4 L, Salz niedrig · trocken bleiben · Kraft-Unterkörper/Core laut Plan.
