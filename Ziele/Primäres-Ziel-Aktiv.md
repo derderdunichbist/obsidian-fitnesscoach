@@ -106,9 +106,9 @@
 
 ### 12.09.2026 – Tag 5: Ausflugstag sauber gecuttet 🥾
 - **Tag 4 (11.09.):** Riesiger Aktivitätstag (Move 1025 / 342 %, Climbing = Ganzkörper-Kraft), Restaurant-Schnitzel sauber ins Defizit integriert (1.909 kcal / 197 g Protein). Wiegen ausgefallen. Details → [[../Ernährung/Essenslog/2026-09-11]].
-- **Tag 5 (12.09.):** Ausflug Fränkische Schweiz (Muggendorf). **1.717 kcal / 157 g Protein / 50 g Fett / 122 g Carbs**, dazu Hiking + **14.538 Schritte** (höchster Schritt-Tag) → Move 722 (241 %). Netto-Defizit ~600–700 kcal, voll im Zielkorridor. Details → [[../Ernährung/Essenslog/2026-09-12]].
+- **Tag 5 (12.09.):** Ausflug Fränkische Schweiz (Muggendorf). **1.907 kcal / 158 g Protein / 50 g Fett / 137 g Carbs** (inkl. 2 Weizen), dazu Hiking + **14.538 Schritte** (höchster Schritt-Tag) → Move 722 (241 %). Netto-Defizit ~400–500 kcal, weiter im Zielkorridor. Details → [[../Ernährung/Essenslog/2026-09-12]].
 - ✅ **Fortschritt bei der To-do:** Protein-Frühstück (61 g) endlich umgesetzt – „nicht nur Kaffee" erledigt.
-- 🟡 **Alkohol im Blick:** Weizen heute = 2. Alkohol-Tag der Woche (nach Radler 09.09.). Kalorisch unkritisch, aber Regel ist max. 1×/Woche → ab jetzt straffen, Schlusswoche (29.09.–04.10.) komplett trocken.
+- 🟠 **Alkohol im Blick:** 2 Weizen heute (380 kcal) = 2. Alkohol-Tag der Woche (nach Radler 09.09.). Heute im Defizit aufgefangen, aber Regel ist max. 1×/Woche → ab jetzt straffen (max. 1×/Woche & max. 1 Bier), Schlusswoche (29.09.–04.10.) komplett trocken.
 - ⚠️ **Waage-Lücke:** Seit dem 10.09. (Challenge-Tief 67,00 kg) kein neuer Wert (11.+12.09. nicht gewogen). Trend nicht verlieren → **morgen früh nüchtern wiegen**.
 - 🔴 **Bauchumfang fehlt seit Baseline (5 Tage)** – ehrlichster Sixpack-Indikator, kritischste offene Aufgabe. **Morgen früh nüchtern messen** (Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
 - **To-do Konstantinos (Tag 6):** Wiegen ✅ · **Bauchumfang messen** (überfällig) · Protein 150 g+ · Wasser 3,5–4 L, Salz niedrig · trocken bleiben · Kraft-Unterkörper/Core laut Plan.
