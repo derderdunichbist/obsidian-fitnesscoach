@@ -573,7 +573,7 @@ Perfekter Start in die Challenge: Urlaubs-Wasser weg, Muskel bombenfest, zurück
 2. ⚠️ **Fett heute hoch (72 g, fast am Limit <79 g)** — Treiber war das Mittagessen (Rinderpatty + panierte Iglo-Nuggets = 45 g Fett allein). Nächstes Mal magere Proteinquelle (Hühnerbrust/Pute/Fisch), dann bleibt Fett locker unter der Linie.
 3. ✅ **Protein 149 g** — punktgenau, Muster halten.
 4. 🍺 **Jakobsgold-Bier klären:** bei nur 130 kcal/500 mL mit hoher Wahrscheinlichkeit die **alkoholfreie** Variante → dann kein Alkohol-Tag. Falls doch mit Alkohol: als Alkohol-Tag werten, Schlusswoche trocken.
-5. 📉 **Aktivitätsdaten heute fehlen** (kein Apple-Fitness-Screenshot) → Move/Steps nachreichen, dann rechne ich das echte Netto-Defizit.
+5. 🎾 **Bewegung heute:** Tennis 48 min (339 kcal), Move 516 (172 %), Exercise 57 min – aber nur **5.679 Schritte** (niedriger Schritt-Tag) → Netto-Defizit klein (**~250–350 kcal**, unter Ziel ~500–650). An Tagen ohne viele Schritte den Intake straffen.
 
 ---
 

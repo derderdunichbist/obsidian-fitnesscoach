@@ -118,6 +118,6 @@
 - **Einordnung:** Challenge-Tief, aber noch **0.60 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)** – der eigentliche Fettabbau steht noch bevor. Von 12.25 kg Fettmasse noch ~2.3–2.8 kg in 20 Tagen (≈0.8 kg/Woche) → 🟢/🟡, ambitioniert am oberen Ende.
 - **Ernährung (14.09.):** **1.916 kcal / 149 g Protein / 72 g Fett / 163 g Carbs.** Protein punktgenau, aber 🟠 **Fett fast am Limit** (Rinderpatty + panierte Iglo-Nuggets mittags = 45 g Fett) → nächstes Mal magere Mittagsprotein-Quelle. Details → [[../Ernährung/Essenslog/2026-09-14]].
 - 🍺 **Jakobsgold-Bier (130 kcal/500 mL):** bei so wenig kcal vermutlich **alkoholfrei** → dann kein Alkohol-Tag. Bitte bestätigen.
-- 📉 **Daten-Lücken:** Aktivität heute nicht übermittelt (kein Netto-Defizit berechenbar) · 13.09. (So) nicht getrackt.
+- 🎾 **Bewegung (14.09.):** Tennis 48 min (339 kcal), Move 516/300 (172 %), Exercise 57 min – aber nur **5.679 Schritte** (niedriger Schritt-Tag). Netto-Defizit heute nur **~250–350 kcal** (unter Ziel ~500–650) → an Nicht-Wander-Tagen Intake straffen. (13.09. nicht getrackt.)
 - 🔴 **Bauchumfang weiter offen (7 Tage seit Baseline)** – ehrlichster Sixpack-Indikator, jetzt die #1-Aufgabe. **Morgen früh nüchtern messen** (Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
 - **To-do Konstantinos (Tag 8):** **Bauchumfang messen** (überfällig) · Wiegen · Aktivitätsdaten schicken · Fett bewusst <79 g (magere Mittagsprotein statt Nuggets) · Protein 150 g+ · Wasser 3,5–4 L.
