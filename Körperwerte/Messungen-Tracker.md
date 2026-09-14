@@ -27,6 +27,8 @@
 | **10.09.2026** | **67.00** | **18.3** | **12.26** | **54.70** | **—** | **1552** | **Tag 3 / erste Nachmessung seit Baseline – 🎯 -0.35 kg ggü. Baseline (67.35→67.00), davon -0.27 kg reine Fettmasse (77%). KF 18.3 (-0.3) & Subkutan 16.6 (-0.3) beide zurück auf dem Juli-Allzeit-Tief. Skelettmuskel 52.7% (+0.1, Höchststand), Körperwasser 58.9% (+0.2), Protein 18.7% (Höchststand). FFM -0.10 & Muskelmasse -0.10 = Wasser (Körperwasser steigt ja) → kein Muskelverlust. Visceral 4 / Knochen 2.74 stabil. Werte Ziffer für Ziffer identisch mit dem Juli-Tief (18./22.07.): das Urlaubs-Rebound-Wasser ist nach nur 2 Tagen ausgespült. Trotz Radler gestern ein neues Challenge-Tief → Radler war Wasser, kein Fett. Bauchumfang weiter offen (fehlt seit Baseline) – bitte dringend nachtragen (Ref. 23.07.: 85.5 cm)** |
 | _11.09.2026_ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _Tag 4 – Wiegen ausgefallen (keine Messung); Essen & Training normal geloggt. Riesiger Aktivitätstag (Move 1025 / 342 %, Climbing-Session)_ |
 | _12.09.2026_ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _Tag 5 – Wiegen morgens vergessen (keine Messung); Ausflug/Hiking Muggendorf + Essen normal geloggt (1.907 kcal / 158 g Protein, 2 Weizen, Move 722, 14.538 Schritte). ⚠️ Bauchumfang fehlt jetzt seit Baseline (5 Tage) → bitte dringend nachtragen (Ref. 23.07.: 85.5 cm)_ |
+| _13.09.2026_ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _Tag 6 (So) – nicht getrackt (keine Daten übermittelt)_ |
+| **14.09.2026** | **66.95** | **18.3** | **12.25** | **54.70** | **—** | **1551** | **Tag 7 / neue Nachmessung – 🎯 NEUES CHALLENGE-TIEF: -0.05 kg ggü. 10.09. (67.00→66.95), erstmals in der Challenge unter 67 kg. KF 18.3 hält (Challenge-/Juli-Tief), Fettmasse 12.25 (-0.01). Skelettmuskel 52.8% (+0.1, neuer Höchststand) & Körperwasser 59.0% (+0.1, neuer Höchststand) → die -0.05 kg sind Wasser/marginal, Muskel voll geschützt. FFM 54.70 / Muskelmasse 52.00 / Subkutan 16.6% / Visceral 4 / Knochen 2.74 stabil, Protein 18.6% (-0.1). Noch 0.60 kg über dem Juli-Allzeit-Tief (23.07.: 66.35). Bauchumfang weiter offen (7 Tage seit Baseline) – bitte dringend nachtragen (Ref. 23.07.: 85.5 cm)** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -537,6 +539,41 @@ Wasser raus, echtes Tief erreicht, Muskel bombenfest — perfekte Startrampe in 
 4. **Defizit ~550–600 kcal + Kraft progressiv** — ab hier zählt jedes Gramm als echter Netto-Fettabbau unter dem Juli-Tief.
 
 Perfekter Start in die Challenge: Urlaubs-Wasser weg, Muskel bombenfest, zurück am Allzeit-Tief — und ab jetzt ist alles Neuland nach unten. 💪
+
+---
+
+### 10.09. → 14.09. (Tag 3 → Tag 7) — 🎯 Neues Challenge-Tief, Muskel bombenfest
+> _11.09. (Tag 4) & 12.09. (Tag 5) kein Wiegen, 13.09. (Tag 6, So) nicht getrackt. Vergleich daher 10.09. → 14.09., 4 Tage._
+
+| Metrik | Veränderung | Bewertung |
+|--------|------------|-----------|
+| Gewicht | **-0.05 kg** (67.00 → 66.95) | Gut — erstmals in der Challenge unter 67 kg, neues Challenge-Tief |
+| Körperfett | 0.0% (18.3) | Gut — hält das Challenge-/Juli-Tief |
+| Fettmasse | -0.01 kg (12.26 → 12.25) | Neutral — praktisch stabil auf Tiefstwert |
+| Fettfreie Masse | 0.00 kg (54.70) | Gut — voll gehalten |
+| Muskelmasse | 0.00 kg (52.00) | Gut — stabil, kein Verlust |
+| Skelettmuskel | **+0.1%** (52.7 → 52.8) | Sehr gut — neuer Höchststand |
+| Subkutanfett | 0.0% (16.6) | Gut — hält Allzeit-Tief-Nähe |
+| Visceral Fett | 0 (bleibt 4) | Gut — stabil grün |
+| Körperwasser | **+0.1%** (58.9 → 59.0) | Gut — Hydration neuer Höchststand |
+| Protein | -0.1% (18.7 → 18.6) | Neutral — minimal, folgt Hydration |
+| Knochenmasse | 0.00 kg (2.74) | Neutral — stabil |
+| BMR | -1 kcal (1551) | Neutral — folgt dem Gewicht |
+| BMI | 0.0 (21.4) | Neutral |
+| Bauchumfang | — (weiter nicht gemessen) | 🔴 Fehlt seit Baseline (7 Tage) — wichtigste offene Aufgabe |
+
+**Fazit Tag 7:** Ruhiger, sauberer Fortschritt genau nach Plan. In 4 Tagen **-0.05 kg auf ein neues Challenge-Tief (66.95 kg)** — erstmals in dieser Challenge unter der 67-kg-Marke. Die Zahl klingt klein, ist aber exakt der „langsame, fettbasierte" Verlauf, den ich dir an Tag 3 angekündigt hatte (der große Wasser-Bonus war ja schon eingelöst). Entscheidend ist die **Qualität**: Skelettmuskel-Anteil (52.8%) und Körperwasser (59.0%) beide auf **neuem Höchststand**, Muskelmasse/FFM Ziffer für Ziffer gehalten, KF hält 18.3% — die -0.05 kg sind reines Wasser/Rauschen, dein Muskel ist bombenfest. Über die Zwischentage (Climbing Tag 4, Hiking + 14.538 Schritte Tag 5) hast du viel bewegt und trotzdem sauber gegessen; dass die Waage danach ein neues Tief zeigt, bestätigt alles im grünen Bereich.
+
+**Einordnung zum Allzeit-Tief:** 66.95 ist Challenge-Tief, aber noch **0.60 kg über dem Juli-Allzeit-Tief (23.07.: 66.35 / 17.9%)**. Genau dorthin (und darunter) müssen wir für den sichtbaren Sixpack — der eigentliche Fettabbau steht also noch bevor.
+
+**Blick auf das 04.10.-Ziel (noch 20 Tage):** Von 12.25 kg Fettmasse Richtung ~9.5–10 kg (≈14–15% KF) → noch **~2.3–2.8 kg reiner Fettabbau in 20 Tagen** (≈0.8 kg/Woche). Ambitioniert am oberen Ende, aber machbar, wenn das Defizit jetzt konsequent steht. Prognose 🟢/🟡.
+
+**Was das jetzt heißt (Tag 7):**
+1. 🔴 **Bauchumfang messen — überfällig.** Die Waage kommt jetzt regelmäßig, aber der ehrlichste Sixpack-Indikator fehlt seit 7 Tagen. Bitte morgen früh nüchtern, Nabelhöhe, entspannt (Ref. 23.07.: 85.5 cm).
+2. ⚠️ **Fett heute hoch (72 g, fast am Limit <79 g)** — Treiber war das Mittagessen (Rinderpatty + panierte Iglo-Nuggets = 45 g Fett allein). Nächstes Mal magere Proteinquelle (Hühnerbrust/Pute/Fisch), dann bleibt Fett locker unter der Linie.
+3. ✅ **Protein 149 g** — punktgenau, Muster halten.
+4. 🍺 **Jakobsgold-Bier klären:** bei nur 130 kcal/500 mL mit hoher Wahrscheinlichkeit die **alkoholfreie** Variante → dann kein Alkohol-Tag. Falls doch mit Alkohol: als Alkohol-Tag werten, Schlusswoche trocken.
+5. 📉 **Aktivitätsdaten heute fehlen** (kein Apple-Fitness-Screenshot) → Move/Steps nachreichen, dann rechne ich das echte Netto-Defizit.
 
 ---
 

@@ -7,10 +7,10 @@
 | **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
 | **Start** | 08.09.2026 |
 | **Deadline** | 04.10.2026 |
-| **Heute** | 12.09.2026 (Tag 5) |
+| **Heute** | 14.09.2026 (Tag 7) |
 | **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
-| **Verbleibende Tage bis Deadline** | 22 |
-| **Status** | 🟢 Aktiv – Tag 5 (12.09.): kein neuer Waage-Wert (nicht gewogen); letzter Stand 10.09.: 67.00 kg / 18.3% KF (Challenge-Tief). Essen & Bewegung auf Kurs. ⚠️ Bauchumfang fehlt weiterhin seit Baseline |
+| **Verbleibende Tage bis Deadline** | 20 |
+| **Status** | 🟢 Aktiv – Tag 7 (14.09.): 🎯 neues Challenge-Tief **66.95 kg / 18.3% KF** (erstmals unter 67 kg, Muskel voll geschützt). Essen protein-solide (149 g), Fett heute fast am Limit (72 g); Jakobsgold-Bier vermutlich alkoholfrei. ⚠️ Bauchumfang fehlt weiterhin seit Baseline (7 Tage) |
 
 ---
 
@@ -112,3 +112,12 @@
 - ⚠️ **Waage-Lücke:** Seit dem 10.09. (Challenge-Tief 67,00 kg) kein neuer Wert (11.+12.09. nicht gewogen). Trend nicht verlieren → **morgen früh nüchtern wiegen**.
 - 🔴 **Bauchumfang fehlt seit Baseline (5 Tage)** – ehrlichster Sixpack-Indikator, kritischste offene Aufgabe. **Morgen früh nüchtern messen** (Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
 - **To-do Konstantinos (Tag 6):** Wiegen ✅ · **Bauchumfang messen** (überfällig) · Protein 150 g+ · Wasser 3,5–4 L, Salz niedrig · trocken bleiben · Kraft-Unterkörper/Core laut Plan.
+
+### 14.09.2026 – Tag 7: Waage zurück 🎯 neues Challenge-Tief
+- **Werte (Morgenmessung):** **66.95 kg / 18.3% KF / 12.25 kg Fett** – erstmals in der Challenge unter 67 kg, -0.05 kg ggü. 10.09. Skelettmuskel 52.8% & Körperwasser 59.0% beide auf **Höchststand**, Muskelmasse/FFM voll gehalten → die -0.05 kg sind Wasser, Muskel bombenfest. Details → [[../Körperwerte/Messungen-Tracker]].
+- **Einordnung:** Challenge-Tief, aber noch **0.60 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)** – der eigentliche Fettabbau steht noch bevor. Von 12.25 kg Fettmasse noch ~2.3–2.8 kg in 20 Tagen (≈0.8 kg/Woche) → 🟢/🟡, ambitioniert am oberen Ende.
+- **Ernährung (14.09.):** **1.916 kcal / 149 g Protein / 72 g Fett / 163 g Carbs.** Protein punktgenau, aber 🟠 **Fett fast am Limit** (Rinderpatty + panierte Iglo-Nuggets mittags = 45 g Fett) → nächstes Mal magere Mittagsprotein-Quelle. Details → [[../Ernährung/Essenslog/2026-09-14]].
+- 🍺 **Jakobsgold-Bier (130 kcal/500 mL):** bei so wenig kcal vermutlich **alkoholfrei** → dann kein Alkohol-Tag. Bitte bestätigen.
+- 📉 **Daten-Lücken:** Aktivität heute nicht übermittelt (kein Netto-Defizit berechenbar) · 13.09. (So) nicht getrackt.
+- 🔴 **Bauchumfang weiter offen (7 Tage seit Baseline)** – ehrlichster Sixpack-Indikator, jetzt die #1-Aufgabe. **Morgen früh nüchtern messen** (Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
+- **To-do Konstantinos (Tag 8):** **Bauchumfang messen** (überfällig) · Wiegen · Aktivitätsdaten schicken · Fett bewusst <79 g (magere Mittagsprotein statt Nuggets) · Protein 150 g+ · Wasser 3,5–4 L.
