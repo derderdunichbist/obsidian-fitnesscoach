@@ -232,11 +232,12 @@ function chart(elId, cfg){
   // weiche Kurve (Catmull-Rom → Bézier) durch die echten Messpunkte an ihren Datumspositionen
   function smoothPath(pts){
     if(pts.length<2) return pts.length? 'M'+pts[0][0]+','+pts[0][1]+' ':'';
+    const SM=12;   // Glättungsstärke: größer = weniger Schwung (gerader); 6 = kräftiger, 12 = dezent
     let d='M'+pts[0][0]+','+pts[0][1]+' ';
     for(let i=0;i<pts.length-1;i++){
       const p0=pts[i-1]||pts[i], p1=pts[i], p2=pts[i+1], p3=pts[i+2]||pts[i+1];
-      const c1x=p1[0]+(p2[0]-p0[0])/6, c1y=p1[1]+(p2[1]-p0[1])/6;
-      const c2x=p2[0]-(p3[0]-p1[0])/6, c2y=p2[1]-(p3[1]-p1[1])/6;
+      const c1x=p1[0]+(p2[0]-p0[0])/SM, c1y=p1[1]+(p2[1]-p0[1])/SM;
+      const c2x=p2[0]-(p3[0]-p1[0])/SM, c2y=p2[1]-(p3[1]-p1[1])/SM;
       d+=`C${c1x},${c1y} ${c2x},${c2y} ${p2[0]},${p2[1]} `;
     }
     return d;
