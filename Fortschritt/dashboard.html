@@ -177,7 +177,12 @@ function render(rows, sourceLabel){
   document.getElementById('cs-index').textContent =
     `Baseline ${ddmm(first.date)}. = 100 % · Fettmasse −${fatDrop} %, Muskelmasse ${musDelta>=0?'+':''}${musDelta} % (gehalten) – Fett schmilzt, Muskel bleibt`;
 
-  const mk=(id,cfg)=>chart(id,DATES,cfg);
+  // Zeit-Achse: echte Datums-Abstände (in Tagen), nicht gleichmäßig nach Mess-Index.
+  // Lücken-Tage halten den letzten Wert bis zur nächsten Messung (Stufenlinie).
+  const DAY=864e5, t0=+new Date(first.date), spanDays=Math.max(1,Math.round((+new Date(last.date)-t0)/DAY));
+  const xfrac=rows.map(r=>(+new Date(r.date)-t0)/DAY/spanDays);
+  const base={xfrac,spanDays,t0,ISO:rows.map(r=>r.date),ddmm:rows.map(r=>ddmm(r.date))};
+  const mk=(id,cfg)=>chart(id,Object.assign({},base,cfg));
   mk('c-index',{series:[{name:'Muskelmasse',color:'var(--muscle)',vals:muscleIdx},{name:'Fettmasse',color:'var(--fat)',vals:fatIdx}],
     refLine:{val:100,label:`Baseline ${ddmm(first.date)}. = 100 %`}, fmtY:v=>NF(v)+' %', fmtEnd:v=>NF(v)+' %'});
   mk('c-weight',{series:[{name:'Gewicht',color:'var(--weight)',vals:col('weight')}],band:[64,65],bandLabel:'Ziel 04.10.',fmtEnd:v=>NF(v)+' kg'});
@@ -194,20 +199,26 @@ function render(rows, sourceLabel){
   mk('c-muscle',{series:[{name:'Skelettmuskel',color:'var(--muscle)',vals:col('muscle')}],fmtY:v=>NF(v)+'%',fmtEnd:v=>NF(v)+'%'});
 }
 
-function chart(elId, DATES, cfg){
+function chart(elId, cfg){
   const W=680,H=280,P={t:18,r:56,b:28,l:40}; const iw=W-P.l-P.r, ih=H-P.t-P.b;
-  const n=DATES.length; const series=cfg.series;
+  const series=cfg.series, xfrac=cfg.xfrac, n=xfrac.length, spanDays=cfg.spanDays, DAY=864e5;
   let lo=Infinity,hi=-Infinity;
   series.forEach(s=>s.vals.forEach(v=>{ if(v!=null){lo=Math.min(lo,v);hi=Math.max(hi,v);} }));
   if(cfg.band){ lo=Math.min(lo,cfg.band[0]); hi=Math.max(hi,cfg.band[1]); }
   if(cfg.refLine){ lo=Math.min(lo,cfg.refLine.val); hi=Math.max(hi,cfg.refLine.val); }
   const pad=(hi-lo)*0.18||1; lo-=pad; hi+=pad;
-  const X=i=> P.l+(n===1?iw/2:i*iw/(n-1));
+  const X=i=> n===1? P.l+iw/2 : P.l+xfrac[i]*iw;   // Position nach echtem Datum
+  const Xf=f=> P.l+f*iw;
   const Y=v=> P.t+ih-(v-lo)/(hi-lo)*ih;
   let yt=''; const ticks=4;
   for(let k=0;k<=ticks;k++){ const val=lo+(hi-lo)*k/ticks, y=Y(val);
     yt+=`<line class="gl" x1="${P.l}" y1="${y}" x2="${P.l+iw}" y2="${y}"/><text class="tick" x="${P.l-8}" y="${y+4}" text-anchor="end">${cfg.fmtY?cfg.fmtY(val):NF(val)}</text>`; }
-  let xt=''; DATES.forEach((dt,i)=>{ xt+=`<text class="tick" x="${X(i)}" y="${P.t+ih+18}" text-anchor="middle">${dt}</text>`; });
+  // X-Beschriftung an echten Mess-Datumspositionen; überlappende Labels auslassen (min. 36px Abstand)
+  let xt='', lastLx=-1e9;
+  cfg.ddmm.forEach((dt,i)=>{ const x=X(i), isEnd=(i===0||i===n-1);
+    if(isEnd || x-lastLx>=36){ xt+=`<text class="tick" x="${x}" y="${P.t+ih+18}" text-anchor="middle">${dt}</text>`; lastLx=x; } });
+  // Tick-Markierungen (kleine Striche) an jedem echten Messtag
+  let xticks=''; for(let i=0;i<n;i++){ xticks+=`<line class="axl" x1="${X(i)}" y1="${P.t+ih}" x2="${X(i)}" y2="${P.t+ih+4}"/>`; }
   let band='';
   if(cfg.band){ const y1=Y(cfg.band[1]),y2=Y(cfg.band[0]);
     band=`<rect x="${P.l}" y="${y1}" width="${iw}" height="${y2-y1}" fill="var(--band)"/>`+
@@ -220,25 +231,41 @@ function chart(elId, DATES, cfg){
          `<text class="bandlbl" x="${P.l+2}" y="${y-4}" fill="var(--muted)">${cfg.refLine.label||''}</text>`; }
   let paths='',dots='',ends='';
   series.forEach(s=>{
-    let dP='',started=false;
-    s.vals.forEach((v,i)=>{ if(v==null)return; dP+=(started?'L':'M')+X(i)+','+Y(v)+' '; started=true;
-      dots+=`<circle class="dot" cx="${X(i)}" cy="${Y(v)}" r="4" fill="${s.color}"/>`; });
+    // nur echte Messungen sammeln; Stufenlinie: alter Wert gilt bis zur nächsten Messung
+    const pts=[]; s.vals.forEach((v,i)=>{ if(v!=null) pts.push([X(i),Y(v)]); });
+    let dP='';
+    pts.forEach((p,k)=>{ if(k===0){ dP+='M'+p[0]+','+p[1]+' '; }
+      else { dP+='L'+p[0]+','+pts[k-1][1]+' L'+p[0]+','+p[1]+' '; } });
+    pts.forEach(p=>{ dots+=`<circle class="dot" cx="${p[0]}" cy="${p[1]}" r="4" fill="${s.color}"/>`; });
     paths+=`<path class="ln" d="${dP}" stroke="${s.color}"/>`;
-    let lv=null,li=n-1; for(let i=n-1;i>=0;i--){ if(s.vals[i]!=null){lv=s.vals[i];li=i;break;} }
-    if(lv!=null) ends+=`<text class="endlbl" x="${X(li)+9}" y="${Y(lv)+4}" fill="${s.color}">${cfg.fmtEnd?cfg.fmtEnd(lv):NF(lv)}</text>`;
+    if(pts.length){ const lp=pts[pts.length-1];
+      ends+=`<text class="endlbl" x="${lp[0]+9}" y="${lp[1]+4}" fill="${s.color}">${cfg.fmtEnd?cfg.fmtEnd(lastVal(s)):NF(lastVal(s))}</text>`; }
   });
+  function lastVal(s){ for(let i=n-1;i>=0;i--){ if(s.vals[i]!=null) return s.vals[i]; } return null; }
   const svg=`<svg viewBox="0 0 ${W} ${H}" role="img">${band}${refl}${yt}
-    <line class="axl" x1="${P.l}" y1="${P.t+ih}" x2="${P.l+iw}" y2="${P.t+ih}"/>${xt}${paths}${dots}${ends}
+    <line class="axl" x1="${P.l}" y1="${P.t+ih}" x2="${P.l+iw}" y2="${P.t+ih}"/>${xticks}${xt}${paths}${dots}${ends}
     <line id="${elId}-cross" x1="0" y1="${P.t}" x2="0" y2="${P.t+ih}" stroke="var(--axis)" stroke-width="1" stroke-dasharray="3 3" style="opacity:0"/>
     <rect x="${P.l}" y="${P.t}" width="${iw}" height="${ih}" fill="transparent"/></svg>`;
   const el=document.getElementById(elId); el.innerHTML=svg;
   const svgEl=el.querySelector('svg'), cross=el.querySelector(`#${elId}-cross`), tip=document.getElementById('tip');
+  const pad2=x=>String(x).padStart(2,'0');
   svgEl.addEventListener('mousemove',e=>{
     const r=svgEl.getBoundingClientRect(), sx=(e.clientX-r.left)/r.width*W;
-    let bi=0,bd=1e9; for(let i=0;i<n;i++){const dd=Math.abs(X(i)-sx); if(dd<bd){bd=dd;bi=i;}}
-    cross.setAttribute('x1',X(bi)); cross.setAttribute('x2',X(bi)); cross.style.opacity=1; tip.style.opacity=1;
-    tip.innerHTML=`<div class="td">${DATES[bi]}.2026</div>`+series.map(s=>
-      `<div class="tr"><i style="background:${s.color}"></i>${s.name}<b>${s.vals[bi]==null?'–':(cfg.fmtEnd?cfg.fmtEnd(s.vals[bi]):NF(s.vals[bi]))}</b></div>`).join('');
+    let frac=Math.max(0,Math.min(1,(sx-P.l)/iw));
+    const dayOff=Math.round(frac*spanDays);                 // ganzer Tag unter dem Cursor
+    const cur=new Date(cfg.t0+dayOff*DAY);
+    const curISO=`${cur.getFullYear()}-${pad2(cur.getMonth()+1)}-${pad2(cur.getDate())}`;
+    const cx=Xf(spanDays? dayOff/spanDays : 0);
+    cross.setAttribute('x1',cx); cross.setAttribute('x2',cx); cross.style.opacity=1; tip.style.opacity=1;
+    const isMeasureDay=cfg.ISO.indexOf(curISO)>=0;
+    tip.innerHTML=`<div class="td">${pad2(cur.getDate())}.${pad2(cur.getMonth()+1)}.2026${isMeasureDay?'':' · kein Messtag'}</div>`+
+      series.map(s=>{
+        let hIdx=-1; for(let i=0;i<n;i++){ if(s.vals[i]!=null && +new Date(cfg.ISO[i])<=+cur) hIdx=i; }
+        const val=hIdx>=0? s.vals[hIdx]:null;
+        const held=hIdx>=0 && cfg.ISO[hIdx]!==curISO;
+        const vt=val==null?'–':(cfg.fmtEnd?cfg.fmtEnd(val):NF(val));
+        return `<div class="tr"><i style="background:${s.color}"></i>${s.name}<b>${vt}${held?` <span style="color:var(--muted);font-weight:400">· ${cfg.ddmm[hIdx]}.</span>`:''}</b></div>`;
+      }).join('');
     const tr=tip.getBoundingClientRect(); let tx=e.clientX+14,ty=e.clientY-tr.height-8;
     if(tx+tr.width>innerWidth-8) tx=e.clientX-tr.width-14; if(ty<8) ty=e.clientY+16;
     tip.style.left=tx+'px'; tip.style.top=ty+'px';
