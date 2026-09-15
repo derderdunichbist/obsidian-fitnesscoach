@@ -1,119 +1,61 @@
-# Fortschrittsübersicht – Sixpack bis 30.07.2026
+# Fortschrittsübersicht – Leicht sichtbarer Sixpack bis 04.10.2026
 
-> 📊 **Interaktives Dashboard:** [[dashboard.html]] — Verlaufsgrafiken (Gewicht, Körperfett, Fettmasse, Bauchumfang, Muskelschutz). Aktualisiert sich automatisch aus `[[../data/koerperwerte.csv]]`; im Browser öffnen.
+> 📊 **Interaktives Dashboard:** [[dashboard.html]] — Verlaufsgrafiken (Gewicht, Körperfett & Subkutanfett, Fettmasse, Bauchumfang, Muskelschutz) mit Ziel-Korridoren. Speist sich aus `[[../data/koerperwerte.csv]]`; im Browser öffnen.
 
 ## Zeitstrahl
 ```
-12.07. ━━━━━━━━━━━━━━━━━━━━━━━━━━ 30.07.
-START                                ZIEL
-  |←————————— 18 Tage ——————————→|   (verlängert von 28.07.)
-  KF: 19.0%                      Ziel: 16-17%
-  Gew: 68.15 kg                  Ziel: 65-67 kg
+08.09. ━━━━━━━━━━━━━━━━━━━━━━━━━━ 04.10.
+BASELINE          ▲ heute 15.09.        ZIEL
+  |←—— 7 Tage ——→ (Tag 8) |←— 19 Tage —→|
+  KF: 18.6%           18.2%      Ziel: 14–15%
+  Gew: 67.35 kg      66.70 kg    Ziel: ~64–65 kg
+  Fett: 12.53 kg     12.14 kg    Ziel: 9,5–10 kg
 ```
 
-## Status-Ampel (Stand: 28.07.2026 – Tag 17, noch 2 Tage bis Deadline 30.07.)
+## Status-Ampel (Stand: 15.09.2026 – Tag 8, noch 19 Tage bis Deadline 04.10.)
 | Bereich | Status | Kommentar |
 |---------|--------|-----------|
-| Körperfett | 🟢 18.1% | Tief war 17.9% (23.07.); heute +0.2 durch Wochenend-Rebound (Wasser). -0.9% seit Start |
-| Gewicht | 🟢 66.65 kg | -1.50 kg seit Start; +0.30 ggü. Tief (Rebound). Realziel am Tief (66.35) erreicht |
-| Bauchumfang | 🟢 85.5 cm* | -1.5 cm seit Start (*Stand 23.07., unterwegs nicht gemessen) |
-| Muskelschutz | 🟢 | Skelettmuskel-% ↑ 52.3 → 52.9 (Tief-Höchststand 53.1); Muskel voll geschützt |
-| Konsequenz | 🟢 | 16 Tage durchgezogen, -1.50 kg / -0.9% KF / -1.5 cm Bauch |
-| Wochenende | 🟢 | Unterwegs nur +0.30 kg Rebound – sehr gut gehalten |
+| Körperfett | 🟢 18,2 % | Neues Challenge-Tief, nur 0,3 % über Allzeit-Tief (17,9 %). -0,4 % seit Baseline |
+| Gewicht | 🟢 66,70 kg | Neues Challenge-Tief, -0,65 kg seit Baseline; nur 0,35 kg über Allzeit-Tief (66,35) |
+| Fettmasse | 🟢 12,14 kg | -0,39 kg echtes Fett seit Baseline; Fettabbau läuft jetzt sauber an |
+| Muskelschutz | 🟢 | Skelettmuskel-% ↑ 52,6 → 52,9 (Höchststand), Körperwasser Höchststand → Muskel geschützt |
+| Bauchumfang | 🔴 | **Fehlt seit Baseline (8 Tage)** – ehrlichster Sixpack-Indikator, #1-Aufgabe (Ref. 23.07.: 85,5 cm) |
+| Konsequenz | 🟢 | Sauberer, fettbasierter Trend genau nach Plan; Muskel bombenfest |
 
 ---
 
-## Wöchentliche Checkpoints
-
-### Checkpoint 1 – 19.07.2026 (Halbzeit, 7 Tage) ✅ erreicht (auf Trendbasis)
-| Metrik | Startwert | Mindestziel | Optimalziel | Ist (Trend 18.07.) | Status |
-|--------|-----------|------------|------------|--------------------|--------|
-| Gewicht | 68.15 kg | 66.8 kg | 66.0 kg | 67.00 kg | ✅ im Ziel |
-| Körperfett | 19.0% | 18.5% | 18.0% | 18.3% | ✅ Mindestziel übertroffen |
-| Bauchumfang | 87 cm | 86 cm | 85 cm | 86 cm | ✅ Mindestziel erreicht |
-
-### Checkpoint 2 – 30.07.2026 (Zieldatum, noch 2 Tage) — verlängert von 28.07.
-> Aktueller Rohwert (28.07.) ist nach Wochenende unterwegs Wasser-/Glykogen-inflationiert (+0.30 kg). Bestwert-Spalte = echtes Tief vom 23.07. Mit 2 Tagen Entwässerung sind die Realziele wieder greifbar.
-
-| Metrik | Startwert | Mindestziel | Optimalziel | Bestwert (23.07.) | Ist (28.07.) | Status |
-|--------|-----------|------------|------------|-------------------|--------------|--------|
-| Gewicht | 68.15 kg | 66.0 kg | 65.0 kg | **66.35 kg** | 66.65 kg | 🟢 Mindestziel am Tief erreicht, in Reichweite |
-| Körperfett | 19.0% | 17.5% | 16.0% | **17.9%** | 18.1% | 🟡 noch ~-0.4 bis -0.6% (Wasser raus → machbar) |
-| Bauchumfang | 87 cm | 85 cm | 83 cm | **85.5 cm** | n. gemessen | 🟡 nur noch -0.5 cm bis Mindestziel |
-| Sixpack sichtbar? | Nein | Kontur | Klare Linien | erste Kontur / definiert | — | 🟢 realistisches Ziel im Griff |
+## Wochenziele
+| Woche | Zeitraum | Fokus | Erwartung | Status |
+|-------|----------|-------|-----------|--------|
+| 1 | 08.–14.09. | Defizit etablieren, Urlaubs-Wasser ausspülen | -1 bis -2 kg (v.a. Wasser) | ✅ Challenge-Tief 66,95 erreicht |
+| 2 | 15.–21.09. | Fettabbau auf Kurs, Training progressiv | -0,5 bis -1 kg Fett | 🟢 läuft (Tag 8: neues Tief) |
+| 3 | 22.–28.09. | Definition sichtbar machen, Core-Fokus | -0,5 bis -1 kg Fett | ⏳ offen |
+| 4 | 29.09.–04.10. | Peaking: Sodium/Wasser steuern, letzter Schliff | optisches Maximum | ⏳ offen |
 
 ---
 
-## Tägliches Tracking
-
-| Datum | Tag | Gewicht | Kalorien | Training | Schritte | Notiz |
-|-------|-----|---------|----------|----------|----------|-------|
-| 12.07. | 1 | 68.15 kg | 2.057 kcal ⚠️ | Tennis 71 min | 5.638 | Coaching-Start. +107 kcal wegen Bier |
-| 13.07. | 2 | — | Ziel: 2.100 | Gym Oberkörper + Tennis | Ziel: 10.000 | Doppel-Session |
-| 14.07. | 3 | — | Ziel: 2.200 | 2h Padel + Core | Ziel: 12.000 | High-Activity Tag |
-| 15.07. | 4 | 67.45 kg | 1.945 | Klimmzüge + Sit-ups (Home) | — | Uptick +0.05 (Wasser n. Padel), Bauch 87 cm |
-| 16.07. | 5 | **67.25 kg** | Ziel: 1.950 | Gym Ganzkörper + Core | — | 🎯 Whoosh -0.20 kg, KF 18.5 % (Tief), Bauch 87→86 cm |
-| 17.07. | 6 | — | — | — | — | — |
-| 18.07. | 7 | — | — | — | — | — |
-| 19.07. | **8** | — | — | — | — | **CHECKPOINT 1** |
-| 20.07. | 9 | — | — | — | — | — |
-| 21.07. | 10 | — | — | — | — | — |
-| 22.07. | 11 | **67.00 kg** | — | — | — | 🎯 Whoosh durch: -0.40 kg, zurück am Tief (18.3 % KF, 12.26 kg Fett). Wasser raus, Bauch 86 cm (Knick hält) |
-| 23.07. | 12 | **66.35 kg** | — | — | — | 🚀 Netto-Durchbruch: -0.65 kg, neues Allzeit-Tief. Erstmals <67 kg & <18% KF (17.9%), Fettmasse 11.88 kg (<12). Im CP2-Korridor. 🎯 Bauch 85.5 cm (Knick durchbrochen) |
-| 24.–27.07. | 13–16 | — | — | unterwegs | — | Wochenende unterwegs, keine Messungen |
-| 28.07. | 17 | **66.65 kg** | — | — | — | Zurück. +0.30 kg Rebound (Wasser/Glykogen). KF 18.1%. Netto 16 Tage: -1.50 kg / -0.9% KF / -1.5 cm |
-| 29.07. | 18 | — | — | — | — | Endspurt: Wasser hoch, Salz niedrig → zurück aufs Tief |
-| 30.07. | **19 · ZIEL** | — | — | — | — | 🏁 Deadline (verlängert). **ABFLUG 🏖️** |
-
----
-
-## Fortschrittsfotos
-| Datum | Foto | Notiz |
-|-------|------|-------|
-| 12.07.2026 | Noch nicht | **Startfoto heute noch machen!** Gleiche Pose, morgens nüchtern |
-| 19.07.2026 | — | Halbzeit-Vergleich |
-| 30.07.2026 | — | Endergebnis vor Urlaub (Abflugtag) |
-
-> Tipp: Morgens nüchtern, gleiche Beleuchtung (Fenster), entspannt frontal + seitlich. Das gleiche Foto 3x macht den Fortschritt sichtbar.
-
----
-
-## KF-Verlaufsgrafik (Ist-Verlauf bis 28.07. · noch 2 Tage bis Deadline 30.07.)
-```
-KF %
-19.5 |●                                    (28.06. Vergleich)
-19.0 |      ●                              (12.07. START)
-18.5 |        ●●●   ●                       (13.–17.07.)
-18.1 |           ●     ●   ●        ● ← 28.07. (Rebound n. Wochenende, noch 2 Tage)
-18.0 |                                     
-17.9 |                      ●               (23.07. Allzeit-Tief)
-17.5 |·····················◇···· Ziel CP2 Mindest (17.5)
-17.0 |
-16.0 |······················◇··· Ziel CP2 Optimal (16.0)
-     |_________________________________________
-      28.06  12.07   16.07  19.07  23.07  28.07
-Legende: ● Ist-Messung · ◇ Zielmarke
-Verlauf: 19.0 → 17.9 % Tief (23.07.) → 18.1 % am Zieltag (+0.2 Wasser-Rebound). Netto -0.9% in 16 Tagen
-```
-> 📊 Präziser, interaktiver Verlauf mit allen Metriken: [[dashboard.html]]
+## Restweg zum Ziel (Stand Tag 8)
+- **Fettmasse:** 12,14 kg → Ziel ~9,5–10 kg = noch **~2,1–2,6 kg reiner Fettabbau in 19 Tagen** (≈0,8–0,95 kg/Woche).
+- **Einordnung:** Ambitioniert am oberen Ende → Ampel **🟢/🟡**. Der große „Wasser-raus"-Bonus aus Woche 1 ist eingelöst; ab jetzt zählt jeder konsequente Defizit-Tag.
+- **Schwelle:** Mit 66,70 kg / 18,2 % steht Konstantinos unmittelbar vor dem Vorstoß unter das Juli-Allzeit-Tief (66,35 / 17,9 %) – genau dorthin und darunter muss es für die sichtbare Definition.
 
 ---
 
 ## Coaching-Analyse
 
 ### Was gut läuft
-- Trend vor Coaching-Start bereits positiv: -0.75 kg, -0.5% KF in 14 Tagen
-- Muskelmasse ausgezeichnet (52.4 kg) — gute Grundlage für Sixpack-Sichtbarkeit
-- Heute bereits Tennis gespielt und Move Goal 200% übertroffen
-- Visceral Fat auf 5 — gesund
+- **Muskelbasis top gehalten:** Skelettmuskel-Anteil steigt trotz Fettabbau (52,6 → 52,9 %), Körperwasser auf Höchststand → absolute Muskelmasse-Dips sind Wasser, kein Verlust.
+- **Fettbasierter Trend:** -0,39 kg echtes Fett seit Baseline; am Tag 8 sind 44 % des Tagesverlusts reines Fett.
+- **Rebound nach Urlaub war klein** (+0,70 kg) → Startbasis nahe Juli-Niveau, ideale Voraussetzung.
+- **Visceral 4 stabil**, Metabolisches Alter 25 – gesunde Werte.
 
-### Haupt-Hebel für die nächsten 16 Tage
-1. **Kalorienplan konsequent einhalten** (1.750/1.950 kcal je nach Tag)
-2. **150g Protein/Tag** (schützt Muskeln im Deficit)
-3. **Kein Alkohol** (größter Einzelfaktor)
-4. **Täglicher Core** + Sporttage maximal nutzen
-5. **Schlaf** als Recovery-Werkzeug
+### Haupt-Hebel für die nächsten 19 Tage
+1. **Defizit konsequent** (~550–600 kcal/Tag; an Nicht-Wander-Tagen Intake straffen)
+2. **Protein ~150 g/Tag** (Muskelschutz – nicht verhandelbar)
+3. **Fett bewusst <79 g** (magere Mittagsprotein statt panierter Beilagen)
+4. **Kraft 4×/Woche progressiv + täglich Core**
+5. **Wasser 3,5–4 L, Salz niedrig, Schlaf ≥7 h**; Schlusswoche (29.09.–04.10.) komplett trocken
 
-### Nächste Messung empfohlen
-- **Morgen (13.07.)**: Morgendliches Gewicht nach dem Aufwachen
-- **19.07.**: Vollständige Messung (Gewicht + KF + Bauchumfang)
+### Wichtigste offene Aufgabe
+- 🔴 **Bauchumfang messen** – fehlt seit der Baseline (8 Tage). Ohne diese Zahl fliegen wir beim Kern-Ziel blind. Morgens nüchtern, Nabelhöhe, entspannt (Ref. 23.07.: 85,5 cm).
+- 📊 **Tägliche Essens- & Aktivitätsdaten** posten → Netto-Defizit berechnen und Kurs feinjustieren.

@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Fortschritt – Sixpack bis 30.07.2026</title>
+<title>Fortschritt – Sixpack bis 04.10.2026</title>
 <style>
   :root {
     color-scheme: light;
@@ -85,19 +85,19 @@
   </div>
   <div class="grid2">
     <div class="card"><h2>Gewicht</h2><p class="cs" id="cs-weight"></p>
-      <div class="legend"><span><i style="background:var(--weight)"></i>Gewicht</span><span><i class="bnd"></i>Checkpoint-2-Korridor (65,5–66,5)</span></div>
+      <div class="legend"><span><i style="background:var(--weight)"></i>Gewicht</span><span><i class="bnd"></i>Ziel-Zone 04.10. (64–65 kg)</span></div>
       <div id="c-weight"></div></div>
-    <div class="card"><h2>Körperfett &amp; Subkutanfett</h2><p class="cs">Das sichtbare Fett sinkt kontinuierlich</p>
-      <div class="legend"><span><i style="background:var(--kf)"></i>Körperfett %</span><span><i style="background:var(--subk)"></i>Subkutanfett %</span></div>
+    <div class="card"><h2>Körperfett &amp; Subkutanfett</h2><p class="cs">Das sichtbare Fett sinkt – Ziel: KF Richtung 14–15 %</p>
+      <div class="legend"><span><i style="background:var(--kf)"></i>Körperfett %</span><span><i style="background:var(--subk)"></i>Subkutanfett %</span><span><i class="bnd"></i>Sixpack-Zone (14–15 %)</span></div>
       <div id="c-fat"></div></div>
     <div class="card"><h2>Fettmasse</h2><p class="cs" id="cs-fatmass"></p>
-      <div class="legend"><span><i style="background:var(--fat)"></i>Fettmasse kg</span></div>
+      <div class="legend"><span><i style="background:var(--fat)"></i>Fettmasse kg</span><span><i class="bnd"></i>Ziel 04.10. (9,5–10 kg)</span></div>
       <div id="c-fatmass"></div></div>
     <div class="card"><h2>Bauchumfang</h2><p class="cs" id="cs-waist"></p>
-      <div class="legend"><span><i style="background:var(--waist)"></i>Bauchumfang cm</span><span><i class="bnd"></i>Checkpoint-2-Ziel (83–85)</span></div>
+      <div class="legend"><span><i style="background:var(--waist)"></i>Bauchumfang cm</span><span><i class="bnd"></i>Ziel-Zone (83–85 cm)</span></div>
       <div id="c-waist"></div></div>
   </div>
-  <div class="foot">Ziel: sichtbarer Sixpack bis 30.07.2026 · morgens nüchtern gemessen (Bioimpedanz + Maßband)</div>
+  <div class="foot">Ziel: leicht sichtbarer Sixpack bis 04.10.2026 · morgens nüchtern gemessen (Bioimpedanz + Maßband)</div>
   <div class="src" id="src"></div>
 </div>
 <div class="tip" id="tip"></div>
@@ -106,23 +106,13 @@
 // Fallback-Snapshot: wird verwendet, wenn die CSV lokal nicht geladen werden kann (file://).
 // Bei jeder neuen Messung nur data/koerperwerte.csv pflegen – wird die Datei geladen, hat sie Vorrang.
 const EMBEDDED_CSV = `Datum,Gewicht_kg,Koerperfett_pct,FettMasse_kg,FettfreieMasse_kg,SubkutanesFett_pct,VisceralFett,SkelettMuskel_pct,Muskelmasse_kg,Knochenmasse_kg,Koerperwasser_pct,BMR_kcal,BMI,MetabolischesAlter,Bauchumfang_cm,Notiz
-2026-06-28,68.90,19.5,13.44,55.50,17.7,5,52.0,52.70,2.78,58.2,1568,22.0,25,,Vergleichswert (aus App)
-2026-07-12,68.15,19.0,12.95,55.20,17.2,5,52.3,52.40,2.76,58.5,1562,21.8,25,87,Startmessung Coaching
-2026-07-13,67.70,18.8,12.73,55.00,17.1,4,52.5,52.20,2.75,58.7,1557,21.6,25,87,Morgenmessung
-2026-07-14,67.40,18.6,12.54,54.90,16.9,4,52.6,52.10,2.75,58.8,1555,21.5,25,87,Morgenmessung
-2026-07-15,67.45,18.6,12.55,54.90,16.9,4,52.6,52.20,2.75,58.8,1555,21.5,25,87,Morgenmessung
-2026-07-16,67.25,18.5,12.44,54.80,16.8,4,52.6,52.10,2.74,58.8,1553,21.5,25,86,Morgenmessung
-2026-07-17,67.25,18.5,12.44,54.80,16.8,4,52.6,52.10,2.74,58.8,1553,21.5,25,86,Morgenmessung
-2026-07-18,67.00,18.3,12.26,54.70,16.6,4,52.7,52.00,2.74,58.9,1552,21.4,25,86,Morgenmessung
-2026-07-19,67.45,18.6,12.55,54.90,16.9,4,52.6,52.20,2.75,58.8,1555,21.5,25,86,Morgenmessung
-2026-07-20,67.55,18.7,12.63,54.90,17.0,4,52.5,52.20,2.75,58.7,1556,21.6,25,,Morgenmessung
-2026-07-21,67.40,18.6,12.54,54.90,16.9,4,52.6,52.10,2.75,58.8,1555,21.5,25,,Morgenmessung
-2026-07-22,67.00,18.3,12.26,54.70,16.6,4,52.7,52.00,2.74,58.9,1552,21.4,25,86,Morgenmessung
-2026-07-23,66.35,17.9,11.88,54.50,16.3,4,53.1,51.70,2.73,59.3,1546,21.2,25,85.5,Morgenmessung
-2026-07-28,66.65,18.1,12.06,54.60,16.4,4,52.9,51.90,2.73,59.1,1549,21.3,25,,Morgenmessung (nach Wochenende unterwegs, 2 Tage vor Deadline 30.07.)`;
+2026-09-08,67.35,18.6,12.53,54.80,16.9,4,52.6,52.10,2.74,58.7,1554,21.5,25,,Baseline Challenge
+2026-09-10,67.00,18.3,12.26,54.70,16.6,4,52.7,52.00,2.74,58.9,1552,21.4,25,,Tag 3
+2026-09-14,66.95,18.3,12.25,54.70,16.6,4,52.8,52.00,2.74,59.0,1551,21.4,25,,Tag 7 – Challenge-Tief
+2026-09-15,66.70,18.2,12.14,54.60,16.5,4,52.9,51.80,2.73,59.1,1548,21.3,25,,Tag 8 – neues Challenge-Tief`;
 
-const COACH_START = '2026-07-12';   // Zeitachse ab Coaching-Start
-const DEADLINE    = '2026-07-30';
+const COACH_START = '2026-09-08';   // Zeitachse ab Challenge-Baseline (4-Wochen-Challenge)
+const DEADLINE    = '2026-10-04';
 const NF = n => (n==null||isNaN(n)) ? '–' : n.toLocaleString('de-DE',{minimumFractionDigits:0,maximumFractionDigits:2});
 const num = s => { const v=parseFloat(String(s).replace(',','.')); return isNaN(v)?null:v; };
 const ddmm = iso => { const [y,m,d]=iso.split('-'); return `${d}.${m}`; };
@@ -152,7 +142,7 @@ function render(rows, sourceLabel){
   const tag = rows.length;
 
   document.getElementById('subhead').innerHTML =
-    `Coaching-Start <strong>${ddmm(first.date)}.</strong> → <strong>${ddmm(last.date)}.2026</strong> (Tag ${tag}) · Deadline <strong>${ddmm(DEADLINE)}.</strong> · noch <strong>${daysLeft} Tage</strong>`;
+    `Challenge-Start <strong>${ddmm(first.date)}.</strong> → <strong>${ddmm(last.date)}.2026</strong> (Tag ${tag}) · Deadline <strong>${ddmm(DEADLINE)}.</strong> · noch <strong>${daysLeft} Tage</strong>`;
   document.getElementById('src').textContent = sourceLabel;
 
   const d = (a,b)=> (a==null||b==null)?null:(a-b);
@@ -171,9 +161,11 @@ function render(rows, sourceLabel){
     `<div class="tile"><div class="lbl">${t.lbl}</div><div class="val">${t.val}<span class="u">${t.u}</span></div>
      <div class="delta${t.f}">${t.a}${t.d}</div></div>`).join('');
 
-  document.getElementById('cs-weight').textContent  = `${NF(first.weight)} → ${NF(last.weight)} kg · ${dtxt(dw,'kg')} in ${tag-1} Tagen`;
-  document.getElementById('cs-fatmass').textContent = `${NF(first.fatmass)} → ${NF(last.fatmass)} kg · ${dtxt(df,'kg')} echtes Fett`;
-  document.getElementById('cs-waist').textContent   = `${NF(firstWaist)} → ${NF(lastWaist)} cm · wichtigster Sixpack-Indikator`;
+  document.getElementById('cs-weight').textContent  = `${NF(first.weight)} → ${NF(last.weight)} kg · ${dtxt(dw,'kg')} seit Baseline`;
+  document.getElementById('cs-fatmass').textContent = `${NF(first.fatmass)} → ${NF(last.fatmass)} kg · ${dtxt(df,'kg')} echtes Fett · Ziel ~9,5–10 kg`;
+  document.getElementById('cs-waist').textContent   = (waistVals.length===0)
+    ? `🔴 In dieser Challenge noch nicht gemessen (seit Baseline ${ddmm(first.date)}.) – bitte morgens nüchtern messen (Ref. 23.07.: 85,5 cm)`
+    : `${NF(firstWaist)} → ${NF(lastWaist)} cm · wichtigster Sixpack-Indikator`;
   document.getElementById('cs-muscle').textContent  = `Trotz Fettabbau steigt der relative Muskelanteil: ${NF(first.muscle)} → ${NF(last.muscle)} % · Muskel bleibt voll erhalten`;
 
   // indexiert auf Startwert (erster Coaching-Tag = 100 %)
@@ -188,10 +180,17 @@ function render(rows, sourceLabel){
   const mk=(id,cfg)=>chart(id,DATES,cfg);
   mk('c-index',{series:[{name:'Muskelmasse',color:'var(--muscle)',vals:muscleIdx},{name:'Fettmasse',color:'var(--fat)',vals:fatIdx}],
     refLine:{val:100,label:`Baseline ${ddmm(first.date)}. = 100 %`}, fmtY:v=>NF(v)+' %', fmtEnd:v=>NF(v)+' %'});
-  mk('c-weight',{series:[{name:'Gewicht',color:'var(--weight)',vals:col('weight')}],band:[65.5,66.5],bandLabel:'Ziel CP2',fmtEnd:v=>NF(v)+' kg'});
-  mk('c-fat',{series:[{name:'Körperfett',color:'var(--kf)',vals:col('kf')},{name:'Subkutanfett',color:'var(--subk)',vals:col('subk')}],fmtY:v=>NF(v)+'%',fmtEnd:v=>NF(v)+'%'});
-  mk('c-fatmass',{series:[{name:'Fettmasse',color:'var(--fat)',vals:col('fatmass')}],fmtEnd:v=>NF(v)+' kg'});
-  mk('c-waist',{series:[{name:'Bauchumfang',color:'var(--waist)',vals:col('waist')}],band:[83,85],bandLabel:'Ziel CP2',fmtEnd:v=>NF(v)+' cm'});
+  mk('c-weight',{series:[{name:'Gewicht',color:'var(--weight)',vals:col('weight')}],band:[64,65],bandLabel:'Ziel 04.10.',fmtEnd:v=>NF(v)+' kg'});
+  mk('c-fat',{series:[{name:'Körperfett',color:'var(--kf)',vals:col('kf')},{name:'Subkutanfett',color:'var(--subk)',vals:col('subk')}],band:[14,15],bandLabel:'Sixpack-Zone KF',fmtY:v=>NF(v)+'%',fmtEnd:v=>NF(v)+'%'});
+  mk('c-fatmass',{series:[{name:'Fettmasse',color:'var(--fat)',vals:col('fatmass')}],band:[9.5,10],bandLabel:'Ziel 04.10.',fmtEnd:v=>NF(v)+' kg'});
+  if(waistVals.length===0){
+    document.getElementById('c-waist').innerHTML =
+      `<div style="padding:34px 12px 40px;text-align:center;color:var(--muted);font-size:13px;line-height:1.5">`+
+      `Noch keine Bauchumfang-Messung in dieser Challenge.<br>Der ehrlichste Sixpack-Indikator fehlt seit der Baseline.<br>`+
+      `<strong style="color:var(--kf)">Bitte morgens nüchtern messen</strong> (Nabelhöhe, entspannt · Ref. 23.07.: 85,5 cm).</div>`;
+  } else {
+    mk('c-waist',{series:[{name:'Bauchumfang',color:'var(--waist)',vals:col('waist')}],band:[83,85],bandLabel:'Ziel-Zone',fmtEnd:v=>NF(v)+' cm'});
+  }
   mk('c-muscle',{series:[{name:'Skelettmuskel',color:'var(--muscle)',vals:col('muscle')}],fmtY:v=>NF(v)+'%',fmtEnd:v=>NF(v)+'%'});
 }
 
