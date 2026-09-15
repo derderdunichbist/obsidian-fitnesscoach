@@ -51,7 +51,7 @@
   .gl { stroke:var(--grid); stroke-width:1; }
   .axl { stroke:var(--axis); stroke-width:1; }
   .tick { fill:var(--muted); font-size:11px; font-variant-numeric:tabular-nums; }
-  .ln { fill:none; stroke-width:2; }
+  .ln { fill:none; stroke-width:2; stroke-linejoin:round; stroke-linecap:round; }
   .dot { stroke:var(--surface-1); stroke-width:2; }
   .endlbl { font-size:12px; font-weight:700; }
   .bandlbl { font-size:10.5px; fill:var(--good-text); font-weight:600; }
@@ -229,15 +229,23 @@ function chart(elId, cfg){
   if(cfg.refLine){ const y=Y(cfg.refLine.val);
     refl=`<line x1="${P.l}" y1="${y}" x2="${P.l+iw}" y2="${y}" stroke="var(--axis)" stroke-width="1" stroke-dasharray="4 3"/>`+
          `<text class="bandlbl" x="${P.l+2}" y="${y-4}" fill="var(--muted)">${cfg.refLine.label||''}</text>`; }
+  // weiche Kurve (Catmull-Rom → Bézier) durch die echten Messpunkte an ihren Datumspositionen
+  function smoothPath(pts){
+    if(pts.length<2) return pts.length? 'M'+pts[0][0]+','+pts[0][1]+' ':'';
+    let d='M'+pts[0][0]+','+pts[0][1]+' ';
+    for(let i=0;i<pts.length-1;i++){
+      const p0=pts[i-1]||pts[i], p1=pts[i], p2=pts[i+1], p3=pts[i+2]||pts[i+1];
+      const c1x=p1[0]+(p2[0]-p0[0])/6, c1y=p1[1]+(p2[1]-p0[1])/6;
+      const c2x=p2[0]-(p3[0]-p1[0])/6, c2y=p2[1]-(p3[1]-p1[1])/6;
+      d+=`C${c1x},${c1y} ${c2x},${c2y} ${p2[0]},${p2[1]} `;
+    }
+    return d;
+  }
   let paths='',dots='',ends='';
   series.forEach(s=>{
-    // nur echte Messungen sammeln; Stufenlinie: alter Wert gilt bis zur nächsten Messung
     const pts=[]; s.vals.forEach((v,i)=>{ if(v!=null) pts.push([X(i),Y(v)]); });
-    let dP='';
-    pts.forEach((p,k)=>{ if(k===0){ dP+='M'+p[0]+','+p[1]+' '; }
-      else { dP+='L'+p[0]+','+pts[k-1][1]+' L'+p[0]+','+p[1]+' '; } });
     pts.forEach(p=>{ dots+=`<circle class="dot" cx="${p[0]}" cy="${p[1]}" r="4" fill="${s.color}"/>`; });
-    paths+=`<path class="ln" d="${dP}" stroke="${s.color}"/>`;
+    paths+=`<path class="ln" d="${smoothPath(pts)}" stroke="${s.color}"/>`;
     if(pts.length){ const lp=pts[pts.length-1];
       ends+=`<text class="endlbl" x="${lp[0]+9}" y="${lp[1]+4}" fill="${s.color}">${cfg.fmtEnd?cfg.fmtEnd(lastVal(s)):NF(lastVal(s))}</text>`; }
   });
