@@ -7,10 +7,10 @@
 | **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
 | **Start** | 08.09.2026 |
 | **Deadline** | 04.10.2026 |
-| **Heute** | 14.09.2026 (Tag 7) |
+| **Heute** | 15.09.2026 (Tag 8) |
 | **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
-| **Verbleibende Tage bis Deadline** | 20 |
-| **Status** | 🟢 Aktiv – Tag 7 (14.09.): 🎯 neues Challenge-Tief **66.95 kg / 18.3% KF** (erstmals unter 67 kg, Muskel voll geschützt). Essen protein-solide (149 g), Fett heute fast am Limit (72 g); Bier war alkoholfrei (kein Alkohol-Tag). ⚠️ Bauchumfang fehlt weiterhin seit Baseline (7 Tage) |
+| **Verbleibende Tage bis Deadline** | 19 |
+| **Status** | 🟢 Aktiv – Tag 8 (15.09.): 🎯 **neues Challenge-Tief auf ganzer Linie 66.70 kg / 18.2% KF / 12.14 kg Fett** (-0.25 kg ggü. gestern, 44% davon Fett; Skelettmuskel 52.9% & Körperwasser 59.1% neue Höchststände → Muskel geschützt). Nur noch 0.35 kg über Juli-Allzeit-Tief (66.35). Fettabbau läuft jetzt sauber an. 🔴 Bauchumfang fehlt weiterhin seit Baseline (**8 Tage** – #1-Aufgabe) |
 
 ---
 
@@ -121,3 +121,10 @@
 - 🎾 **Bewegung (14.09.):** Tennis 48 min (339 kcal), Move 516/300 (172 %), Exercise 57 min – aber nur **5.679 Schritte** (niedriger Schritt-Tag). Netto-Defizit heute nur **~250–350 kcal** (unter Ziel ~500–650) → an Nicht-Wander-Tagen Intake straffen. (13.09. nicht getrackt.)
 - 🔴 **Bauchumfang weiter offen (7 Tage seit Baseline)** – ehrlichster Sixpack-Indikator, jetzt die #1-Aufgabe. **Morgen früh nüchtern messen** (Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
 - **To-do Konstantinos (Tag 8):** **Bauchumfang messen** (überfällig) · Wiegen · Aktivitätsdaten schicken · Fett bewusst <79 g (magere Mittagsprotein statt Nuggets) · Protein 150 g+ · Wasser 3,5–4 L.
+
+### 15.09.2026 – Tag 8: 🎯 neues Challenge-Tief auf ganzer Linie, Fettabbau läuft an
+- **Werte (Morgenmessung):** **66.70 kg / 18.2% KF / 12.14 kg Fett** – -0.25 kg ggü. 14.09. (66.95→66.70), davon **-0.11 kg reine Fettmasse (44%)**. Gewicht, KF (18.2), Subkutan (16.5) und Fettmasse alle auf **neuem Challenge-Tief**; Skelettmuskel 52.9% & Körperwasser 59.1% auf **neuem Challenge-Höchststand** → die -0.20 kg Muskelmasse/-0.10 kg FFM sind Wasser/Messfolge der Hydration, **kein** Muskelverlust. Visceral 4 / Protein 18.6 stabil. Details → [[../Körperwerte/Messungen-Tracker]].
+- **Einordnung:** Nur noch **0.35 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)** und KF nur **0.3% über dem Allzeit-Tief (17.9%)**. Der „Wasser-Bonus" der Woche 1 ist eingelöst – ab jetzt der eigentliche, fettbasierte Rückgang. Genau nach Plan (Woche 2: -0.5 bis -1 kg Fett).
+- **Restweg zum Sixpack:** Von 12.14 kg Fettmasse noch **~2.1–2.6 kg Fett in 19 Tagen** (≈0.8–0.95 kg/Woche) bis ~14–15% KF (sichtbare obere Bauchreihe). Ambitioniert am oberen Ende → 🟢/🟡. **Jetzt zählt jeder Defizit-Tag.**
+- 🔴 **Bauchumfang jetzt 8 Tage offen** – der ehrlichste Sixpack-Indikator. Waage läuft top, aber die Zahl, die das eigentliche Ziel misst, fehlt weiter. **Muss jetzt gemessen werden** (morgens nüchtern, Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
+- **To-do Konstantinos (Tag 9):** 🔴 **Bauchumfang messen** (jetzt wirklich – #1) · Aktivitäts- & Essensdaten für heute (15.09.) schicken → dann berechne ich das Netto-Defizit · Protein 150 g+ · Fett <79 g · Wasser 3,5–4 L, Salz niedrig · Kraft progressiv laut Plan.
