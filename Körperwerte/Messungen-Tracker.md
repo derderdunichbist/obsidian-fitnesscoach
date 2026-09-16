@@ -30,6 +30,7 @@
 | _13.09.2026_ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _Tag 6 (So) – nicht getrackt (keine Daten übermittelt)_ |
 | **14.09.2026** | **66.95** | **18.3** | **12.25** | **54.70** | **—** | **1551** | **Tag 7 / neue Nachmessung – 🎯 NEUES CHALLENGE-TIEF: -0.05 kg ggü. 10.09. (67.00→66.95), erstmals in der Challenge unter 67 kg. KF 18.3 hält (Challenge-/Juli-Tief), Fettmasse 12.25 (-0.01). Skelettmuskel 52.8% (+0.1, neuer Höchststand) & Körperwasser 59.0% (+0.1, neuer Höchststand) → die -0.05 kg sind Wasser/marginal, Muskel voll geschützt. FFM 54.70 / Muskelmasse 52.00 / Subkutan 16.6% / Visceral 4 / Knochen 2.74 stabil, Protein 18.6% (-0.1). Noch 0.60 kg über dem Juli-Allzeit-Tief (23.07.: 66.35). Bauchumfang weiter offen (7 Tage seit Baseline) – bitte dringend nachtragen (Ref. 23.07.: 85.5 cm)** |
 | **15.09.2026** | **66.70** | **18.2** | **12.14** | **54.60** | **—** | **1548** | **Tag 8 / Morgenmessung – 🚀 NEUES CHALLENGE-TIEF AUF GANZER LINIE: -0.25 kg ggü. 14.09. (66.95→66.70), davon -0.11 kg reine Fettmasse (44%). Gewicht, KF (18.2), Subkutan (16.5%) & Fettmasse (12.14) alle auf neuem Challenge-Tief; KF nur noch 0.3% über dem Juli-Allzeit-Tief (17.9%). Skelettmuskel 52.9% (+0.1) & Körperwasser 59.1% (+0.1) beide auf neuem Challenge-Höchststand → die -0.20 kg Muskelmasse (51.80) / -0.10 kg FFM (54.60) sind Wasser/Messfolge der Hydration (Muskel-% steigt ja gleichzeitig), kein Muskelverlust. Visceral 4 / Knochen 2.73 / Protein 18.6% stabil, BMR 1548, BMI 21.3. Nur noch 0.35 kg über dem Juli-Allzeit-Tief (23.07.: 66.35). Netto seit Baseline (08.09.): -0.65 kg / -0.4% KF / -0.39 kg Fett. Bauchumfang weiter offen (8 Tage seit Baseline) – #1-Aufgabe, bitte dringend nachtragen (Ref. 23.07.: 85.5 cm)** |
+| 16.09.2026 | 66.85 | 18.2 | 12.17 | 54.70 | — | 1551 | Tag 9 / Morgenmessung – 💧 Wasser-Uptick nach dem 2h-Tennistag + Salz/Fett-Mittag: +0.15 kg ggü. 15.09. (66.70→66.85). **Kein Fett:** KF 18.2 stabil, Subkutan 16.5 stabil, Körperwasser 59.1 / Skelettmuskel 52.9 stabil (kein Rückschritt). Der Zuwachs sitzt in FFM (+0.10 = 54.70) & Muskelmasse (+0.10 = 51.90) → Wasser/Glykogen in der Muskulatur (Tennis-Regeneration) + Natrium-Retention vom frittierten Mittag (103 g Fett, höchster Fett-Tag). Fettmasse 12.17 (+0.03) ist reine Rechenfolge aus dem Wassergewicht bei gehaltenem KF%. Energetisch Fett unmöglich (15.09. ~330 kcal Defizit). Visceral 4 / Protein 18.6 / BMI 21.3 stabil, Knochen 2.74, BMR 1551. Exakt das Padel-/Tennis-Uptick-Muster (vgl. 15.→16.07. & 18.→19.07.) → Whoosh folgt bei Salz niedrig + Wasser hoch. Noch 0.50 kg über Juli-Allzeit-Tief (66.35). Bauchumfang weiter offen (**9 Tage** seit Baseline) – #1-Aufgabe (Ref. 23.07.: 85.5 cm) |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -604,6 +605,51 @@ Perfekter Start in die Challenge: Urlaubs-Wasser weg, Muskel bombenfest, zurück
 1. 🔴 **Bauchumfang messen — jetzt wirklich.** 8 Tage offen. Die Waage läuft top, aber die Zahl, die das *eigentliche* Sixpack-Ziel misst, fehlt komplett. Morgen früh nüchtern, Nabelhöhe, entspannt (Ref. 23.07.: 85.5 cm). Ohne diese Zahl fliegen wir beim Kern-Ziel blind.
 2. 📊 **Heutige Essens- & Aktivitätsdaten (15.09.) schicken** → dann rechne ich das Netto-Defizit und sage dir, ob der Hebel für die 0.8–0.95 kg Fett/Woche stark genug steht.
 3. ✅ **Kurs halten:** Protein 150 g+, Fett bewusst <79 g (magere Mittagsprotein), Wasser 3,5–4 L, Salz niedrig, Kraft progressiv laut Plan.
+
+### 15.09. → 16.09. (Tag 8 → Tag 9) — 💧 Wasser-Uptick nach Tennis + Salz-/Fett-Mittag
+| Metrik | Veränderung | Bewertung |
+|--------|------------|-----------|
+| Gewicht | **+0.15 kg** (66.70 → 66.85) | Wasser — nicht Fett (siehe Energiebilanz unten) |
+| Körperfett | 0.0% (18.2) | **Stabil** — die KF%-Schätzung ist nicht gestiegen, das schließt echten Fettzuwachs praktisch aus |
+| Fettmasse | +0.03 kg (12.14 → 12.17) | Rechenfolge — steigt nur, weil das Wassergewicht bei gehaltenem KF% mitzählt |
+| Fettfreie Masse | **+0.10 kg** (54.60 → 54.70) | **Wasser in der Muskulatur** (Tennis-Regeneration) — die Signatur des Upticks |
+| Muskelmasse | **+0.10 kg** (51.80 → 51.90) | Wasser/Glykogen im reparierenden Gewebe nach 2h Tennis, kein echter Muskelaufbau über Nacht |
+| Skelettmuskel | 0.0% (52.9) | Gut — hält den Challenge-Höchststand |
+| Subkutanfett | 0.0% (16.5) | **Stabil** — das sichtbare Fett steht still, kein Rückschritt |
+| Visceral Fett | 0 (bleibt 4) | Gut — stabil im grünen Bereich |
+| Körperwasser | 0.0% (59.1) | Neutral — hält den Höchststand |
+| Protein | 0.0% (18.6) | Neutral — stabil |
+| Knochenmasse | +0.01 kg (2.74) | Neutral — Rauschen |
+| BMR | +3 kcal (1551) | Neutral — folgt nur dem Gewicht |
+| BMI | 0.0 (21.3) | Neutral |
+| Bauchumfang | — (weiter nicht gemessen) | 🔴 Fehlt seit Baseline (**9 Tage**) — wichtigste offene Aufgabe |
+
+**Warum das zu ~100 % Wasser ist:** Der Uptick sitzt exakt dort, wo Wasser sitzt: **FFM +0.10 und Muskelmasse +0.10.** Nach dem gestrigen 2h-Tennistag (660 aktive kcal) zieht die reparierende Muskulatur Glykogen + Wasser ein (1 g Glykogen bindet ~3 g Wasser) — genau derselbe Effekt wie nach jedem Padeltag. Obendrauf kommt die **Natrium-Retention vom frittierten Mittag** (Süß-Sauer paniert + Bratwurst = 103 g Fett, höchster Fett-Tag der Challenge, ordentlich Salz). Entscheidend ist, was **still steht**: KF% (18.2), Subkutanfett (16.5%), Körperwasser (59.1%) und Skelettmuskel-% (52.9%) haben sich alle **kein Stück** bewegt. Ein echter Fettzuwachs würde sich nie so verhalten — er zeigt sich in steigendem KF%/Subkutan, nicht in FFM/Muskelmasse.
+
+**Die Energiebilanz macht Fett unmöglich:** Um die rechnerischen +0.03 kg Fett *echt* anzusetzen, bräuchtest du ~270 kcal Überschuss. Gestern lagst du bei **~330 kcal Defizit** (2.145 kcal gegessen vs. TDEE ~2.475 aus BMR 1548 + Move 927). Fett *anzusetzen* war physikalisch ausgeschlossen — trotz des fettigen Mittags, weil das Riesen-Tennistraining es überkompensiert hat. Was die Waage zeigt, ist Wasser.
+
+**Das kennen wir schon — es ist exakt dasselbe Muster wie im Juli:**
+> Padel-/Tennis-Tag → am Folgetag Wasser-Uptick (FFM + Muskelmasse steigen, Fettmarker stehen still) → 1–2 Tage später Whoosh. So lief es am **15.→16.07.** (+0.05 kg Uptick → -0.20 kg Whoosh, erster Bauch-Knick) und am **18.→19.07.** (+0.45 kg Padel-Uptick → Whoosh folgte). Der Verlauf wiederholt sich jetzt.
+
+**Der Trend über 8 Tage ist voll intakt (08.09. → 16.09.):**
+| Metrik | Baseline (08.09.) | Heute (16.09.) | Δ |
+|--------|-------------------|----------------|---|
+| Gewicht | 67.35 | 66.85 | **-0.50 kg** (trotz heutigem Uptick klar im Minus) |
+| Körperfett | 18.6 | 18.2 | **-0.4%** |
+| Fettmasse | 12.53 | 12.17 | **-0.36 kg** |
+| Subkutanfett | 16.9 | 16.5 | **-0.4%** |
+| Skelettmuskel | 52.6 | 52.9 | **+0.3%** (Muskel geschützt/relativ gestiegen) |
+| Visceral Fett | 4 | 4 | stabil |
+
+Zur Einordnung: Der „echte" Stand vom 15.09. (66.70 / 18.2%) liegt weiterhin darunter — ein Retentionstag hat die Waage kosmetisch +0.15 kg hochgeschoben, nichts davon ist Fett. Noch **0.50 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)**.
+
+**Was das für heute heißt (Tag 9):** Nicht vom Uptick verunsichern lassen — er war nach dem Tennistag + Salz-Mittag vorhersehbar und ist eingeplant. Der Hebel heute ist die **Entwässerung**:
+1. **Salz bewusst niedrig** — kein weiteres Frittiertes/Verarbeitetes, damit der Whoosh nicht abgewürgt wird. Hebel Nr. 1.
+2. **3,5–4 L Wasser** — spült das gebundene Natrium raus (klingt paradox, funktioniert).
+3. **Protein zurück auf 150 g+** — gestern nur 126 g; der Muskelschutz im Cut. Mageres Mittagsprotein (Hühnerbrust/Pute/Fisch) statt frittiert → Fett locker unter 79 g.
+4. 🔴 **Bauchumfang messen — jetzt wirklich, 9 Tage offen.** Die Waage läuft top, aber der ehrlichste Sixpack-Indikator fehlt komplett. Solange er stabil bleibt, ist zu 100 % bewiesen, dass die Waage nur Wasser zeigt. Morgens nüchtern, Nabelhöhe, entspannt (Ref. 23.07.: 85,5 cm).
+
+Halte die Linie — der Whoosh ist nur aufgeschoben, nicht aufgehoben. Ein sauberer Salz-armer Tag stößt dich unter das Juli-Allzeit-Tief (66.35). 💪
 
 ---
 

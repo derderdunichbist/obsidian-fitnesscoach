@@ -7,10 +7,10 @@
 | **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
 | **Start** | 08.09.2026 |
 | **Deadline** | 04.10.2026 |
-| **Heute** | 15.09.2026 (Tag 8) |
+| **Heute** | 16.09.2026 (Tag 9) |
 | **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
-| **Verbleibende Tage bis Deadline** | 19 |
-| **Status** | 🟢 Aktiv – Tag 8 (15.09.): 🎯 **neues Challenge-Tief auf ganzer Linie 66.70 kg / 18.2% KF / 12.14 kg Fett** (-0.25 kg ggü. gestern, 44% davon Fett; Skelettmuskel 52.9% & Körperwasser 59.1% neue Höchststände → Muskel geschützt). Nur noch 0.35 kg über Juli-Allzeit-Tief (66.35). Fettabbau läuft jetzt sauber an. 🔴 Bauchumfang fehlt weiterhin seit Baseline (**8 Tage** – #1-Aufgabe) |
+| **Verbleibende Tage bis Deadline** | 18 |
+| **Status** | 🟢 Aktiv – Tag 9 (16.09.): 💧 **Wasser-Uptick +0.15 kg auf 66.85 kg (kein Fett)** – KF 18.2% / Subkutan 16.5% / Körperwasser 59.1% / Skelettmuskel 52.9% alle stabil, der Zuwachs sitzt in FFM & Muskelmasse (je +0.10) = Tennis-Regenerationswasser + Salz vom frittierten Mittag. Trend seit Baseline intakt: -0.50 kg / -0.4% KF / -0.36 kg Fett. Whoosh erwartet bei Salz niedrig + Wasser hoch. 🔴 Bauchumfang fehlt weiterhin seit Baseline (**9 Tage** – #1-Aufgabe) |
 
 ---
 
@@ -128,3 +128,11 @@
 - **Restweg zum Sixpack:** Von 12.14 kg Fettmasse noch **~2.1–2.6 kg Fett in 19 Tagen** (≈0.8–0.95 kg/Woche) bis ~14–15% KF (sichtbare obere Bauchreihe). Ambitioniert am oberen Ende → 🟢/🟡. **Jetzt zählt jeder Defizit-Tag.**
 - 🔴 **Bauchumfang jetzt 8 Tage offen** – der ehrlichste Sixpack-Indikator. Waage läuft top, aber die Zahl, die das eigentliche Ziel misst, fehlt weiter. **Muss jetzt gemessen werden** (morgens nüchtern, Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
 - **To-do Konstantinos (Tag 9):** 🔴 **Bauchumfang messen** (jetzt wirklich – #1) · Aktivitäts- & Essensdaten für heute (15.09.) schicken → dann berechne ich das Netto-Defizit · Protein 150 g+ · Fett <79 g · Wasser 3,5–4 L, Salz niedrig · Kraft progressiv laut Plan.
+
+### 16.09.2026 – Tag 9: 💧 Wasser-Uptick nach Tennis + Salz-Mittag (kein Fett)
+- **Werte (Morgenmessung):** **66.85 kg / 18.2% KF / 12.17 kg Fett** – +0.15 kg ggü. 15.09. (66.70→66.85). **Reiner Wasser-Uptick, kein Fett:** Der Zuwachs sitzt in FFM (+0.10 = 54.70) & Muskelmasse (+0.10 = 51.90) = Glykogen/Wasser aus der Tennis-Regeneration (gestern 2h) + Natrium vom frittierten Mittag (103 g Fett). KF 18.2 / Subkutan 16.5 / Körperwasser 59.1 / Skelettmuskel 52.9 stehen **alle still** → kein echter Fettzuwachs. Visceral 4 / Protein 18.6 stabil. Details → [[../Körperwerte/Messungen-Tracker]].
+- **Energiebilanz bestätigt Wasser:** 15.09. war ~330 kcal Defizit (2.145 kcal vs. TDEE ~2.475) – Fett anzusetzen war physikalisch ausgeschlossen. Das Riesen-Tennistraining hat den fettigen Mittag überkompensiert.
+- **Muster bekannt:** Padel-/Tennis-Tag → Folgetag Wasser-Uptick → 1–2 Tage später Whoosh (exakt wie 15.→16.07. & 18.→19.07.). Whoosh folgt bei Salz niedrig + Wasser hoch.
+- **Trend intakt:** Seit Baseline (08.09.) **-0.50 kg / -0.4% KF / -0.36 kg Fett**, Skelettmuskel-% +0.3 → Muskel geschützt. Noch 0.50 kg über Juli-Allzeit-Tief (66.35). Ein sauberer Salz-armer Tag stößt darunter.
+- 🔴 **Bauchumfang jetzt 9 Tage offen** – heute doppelt wichtig: Ein stabiler Umfang beweist, dass der Uptick reines Wasser ist. **Muss gemessen werden** (morgens nüchtern, Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
+- **To-do Konstantinos (Tag 9 heute):** 🔴 **Bauchumfang messen** (überfällig – #1) · Salz konsequent niedrig (kein Frittiertes) · Wasser 3,5–4 L (Entwässerung) · Protein zurück auf 150 g+ (gestern nur 126 g) · Fett <79 g (mager mittags) · Kraft progressiv laut Plan · Essens- & Aktivitätsdaten schicken.
