@@ -7,10 +7,10 @@
 | **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
 | **Start** | 08.09.2026 |
 | **Deadline** | 04.10.2026 |
-| **Heute** | 16.09.2026 (Tag 9) |
+| **Heute** | 17.09.2026 (Tag 10) |
 | **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
-| **Verbleibende Tage bis Deadline** | 18 |
-| **Status** | 🟢 Aktiv – Tag 9 (16.09.): 💧 **Wasser-Uptick +0.15 kg auf 66.85 kg (kein Fett)** – KF 18.2% / Subkutan 16.5% / Körperwasser 59.1% / Skelettmuskel 52.9% alle stabil, der Zuwachs sitzt in FFM & Muskelmasse (je +0.10) = Tennis-Regenerationswasser + Salz vom frittierten Mittag. Trend seit Baseline intakt: -0.50 kg / -0.4% KF / -0.36 kg Fett. Whoosh erwartet bei Salz niedrig + Wasser hoch. 🔴 Bauchumfang fehlt weiterhin seit Baseline (**9 Tage** – #1-Aufgabe) |
+| **Verbleibende Tage bis Deadline** | 17 |
+| **Status** | 🟢 Aktiv – Tag 10 (17.09.): 🎯 **Whoosh startet: -0.10 kg auf 66.75 kg** – der gestrige Tennis-Uptick fließt ab, der Rückgang sitzt exakt in der FFM (-0.10) = reines Wasser, Muskelmasse voll gehalten, Protein-% neuer Höchststand (18.7%). KF 18.2% / Subkutan 16.5% / Körperwasser 59.1% halten die Bestwerte. Noch 0.40 kg über Juli-Allzeit-Tief (66.35). Trend seit Baseline intakt: -0.60 kg / -0.4% KF / -0.38 kg Fett. ⚠️ Essen heute nicht clean (Cheeseburger + echtes Pils 4.9% + Lachs 300g/39g Fett → Fett 88g über Limit, ~15g Alkohol) → Whoosh könnte morgen kurz stocken. 📲 Aktivitätsdaten fehlen → Netto-Defizit offen. 🔴 Bauchumfang weiterhin offen seit Baseline (**10 Tage** – #1-Aufgabe) |
 
 ---
 
@@ -136,3 +136,11 @@
 - **Trend intakt:** Seit Baseline (08.09.) **-0.50 kg / -0.4% KF / -0.36 kg Fett**, Skelettmuskel-% +0.3 → Muskel geschützt. Noch 0.50 kg über Juli-Allzeit-Tief (66.35). Ein sauberer Salz-armer Tag stößt darunter.
 - 🔴 **Bauchumfang jetzt 9 Tage offen** – heute doppelt wichtig: Ein stabiler Umfang beweist, dass der Uptick reines Wasser ist. **Muss gemessen werden** (morgens nüchtern, Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
 - **To-do Konstantinos (Tag 9 heute):** 🔴 **Bauchumfang messen** (überfällig – #1) · Salz konsequent niedrig (kein Frittiertes) · Wasser 3,5–4 L (Entwässerung) · Protein zurück auf 150 g+ (gestern nur 126 g) · Fett <79 g (mager mittags) · Kraft progressiv laut Plan · Essens- & Aktivitätsdaten schicken.
+
+### 17.09.2026 – Tag 10: 🎯 Whoosh startet, aber ein „Genuss-Tag" (Cheeseburger + echtes Bier)
+- **Werte (Morgenmessung):** **66.75 kg / 18.2% KF / 12.15 kg Fett** – -0.10 kg ggü. 16.09. (66.85→66.75). **Der Whoosh setzt ein:** Der Rückgang sitzt exakt in der FFM (-0.10 = 54.60), genau dort, wo gestern der Tennis-Uptick (+0.10) reinlief → reines Wasser raus. Muskelmasse voll gehalten (51.90), Protein-% neuer Höchststand (18.7%), KF/Subkutan/Körperwasser halten die Bestwerte → kein Muskelverlust. Noch 0.40 kg über dem Juli-Allzeit-Tief (66.35). Details → [[../Körperwerte/Messungen-Tracker]].
+- **Ernährung (17.09.):** **1.989 kcal / 153 g Protein / 88 g Fett / 115 g Carbs / ~15 g Alkohol.** ✅ Protein punktgenau. 🟠 **Fett über Limit (88 g)** – Treiber Lachs 300 g (39 g Omega-3-Fett) + Cheeseburger + Cappuccino-Vollmilch. 🟠 **Alkohol-Tag:** 1 echtes Pils 4,9 % (nicht das AF Jakobsgold) → erstes echtes Bier der Woche, Budget aufgebraucht. Details → [[../Ernährung/Essenslog/2026-09-17]].
+- ⚠️ **Salz (Burger) + Alkohol (Pils) = Gegenteil vom Whoosh-Profil:** kann den gerade gestarteten Whoosh morgen kurz ausbremsen (evtl. kleiner Wasser-Rebound = kein Fett). Deshalb morgen Salz niedrig + Wasser hoch besonders wichtig.
+- 📲 **Aktivitätsdaten fehlen:** Bei 1.989 kcal hängt das Netto-Defizit komplett am Training (erst ab ~940 aktiven kcal im Korridor 500–650). Bitte Apple-Fitness-Summary nachreichen → dann exakte Berechnung.
+- 🔴 **Bauchumfang jetzt 10 Tage offen** – der ehrlichste Sixpack-Indikator, weiter #1-Aufgabe. **Morgen früh nüchtern messen** (Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
+- **To-do Konstantinos (Tag 11):** 🔴 **Bauchumfang messen** (überfällig – #1) · Aktivitätsdaten von heute (17.09.) nachreichen · morgen Salz niedrig + Wasser 3,5–4 L (Burger-/Bier-Wasser ausspülen) · Protein 150 g+ · Fett <79 g (kleinere Lachs-Portion / mager mittags) · **trocken bleiben** (Wochen-Budget aufgebraucht) · Kraft progressiv laut Plan.

@@ -31,6 +31,7 @@
 | **14.09.2026** | **66.95** | **18.3** | **12.25** | **54.70** | **—** | **1551** | **Tag 7 / neue Nachmessung – 🎯 NEUES CHALLENGE-TIEF: -0.05 kg ggü. 10.09. (67.00→66.95), erstmals in der Challenge unter 67 kg. KF 18.3 hält (Challenge-/Juli-Tief), Fettmasse 12.25 (-0.01). Skelettmuskel 52.8% (+0.1, neuer Höchststand) & Körperwasser 59.0% (+0.1, neuer Höchststand) → die -0.05 kg sind Wasser/marginal, Muskel voll geschützt. FFM 54.70 / Muskelmasse 52.00 / Subkutan 16.6% / Visceral 4 / Knochen 2.74 stabil, Protein 18.6% (-0.1). Noch 0.60 kg über dem Juli-Allzeit-Tief (23.07.: 66.35). Bauchumfang weiter offen (7 Tage seit Baseline) – bitte dringend nachtragen (Ref. 23.07.: 85.5 cm)** |
 | **15.09.2026** | **66.70** | **18.2** | **12.14** | **54.60** | **—** | **1548** | **Tag 8 / Morgenmessung – 🚀 NEUES CHALLENGE-TIEF AUF GANZER LINIE: -0.25 kg ggü. 14.09. (66.95→66.70), davon -0.11 kg reine Fettmasse (44%). Gewicht, KF (18.2), Subkutan (16.5%) & Fettmasse (12.14) alle auf neuem Challenge-Tief; KF nur noch 0.3% über dem Juli-Allzeit-Tief (17.9%). Skelettmuskel 52.9% (+0.1) & Körperwasser 59.1% (+0.1) beide auf neuem Challenge-Höchststand → die -0.20 kg Muskelmasse (51.80) / -0.10 kg FFM (54.60) sind Wasser/Messfolge der Hydration (Muskel-% steigt ja gleichzeitig), kein Muskelverlust. Visceral 4 / Knochen 2.73 / Protein 18.6% stabil, BMR 1548, BMI 21.3. Nur noch 0.35 kg über dem Juli-Allzeit-Tief (23.07.: 66.35). Netto seit Baseline (08.09.): -0.65 kg / -0.4% KF / -0.39 kg Fett. Bauchumfang weiter offen (8 Tage seit Baseline) – #1-Aufgabe, bitte dringend nachtragen (Ref. 23.07.: 85.5 cm)** |
 | 16.09.2026 | 66.85 | 18.2 | 12.17 | 54.70 | — | 1551 | Tag 9 / Morgenmessung – 💧 Wasser-Uptick nach dem 2h-Tennistag + Salz/Fett-Mittag: +0.15 kg ggü. 15.09. (66.70→66.85). **Kein Fett:** KF 18.2 stabil, Subkutan 16.5 stabil, Körperwasser 59.1 / Skelettmuskel 52.9 stabil (kein Rückschritt). Der Zuwachs sitzt in FFM (+0.10 = 54.70) & Muskelmasse (+0.10 = 51.90) → Wasser/Glykogen in der Muskulatur (Tennis-Regeneration) + Natrium-Retention vom frittierten Mittag (103 g Fett, höchster Fett-Tag). Fettmasse 12.17 (+0.03) ist reine Rechenfolge aus dem Wassergewicht bei gehaltenem KF%. Energetisch Fett unmöglich (15.09. ~330 kcal Defizit). Visceral 4 / Protein 18.6 / BMI 21.3 stabil, Knochen 2.74, BMR 1551. Exakt das Padel-/Tennis-Uptick-Muster (vgl. 15.→16.07. & 18.→19.07.) → Whoosh folgt bei Salz niedrig + Wasser hoch. Noch 0.50 kg über Juli-Allzeit-Tief (66.35). Bauchumfang weiter offen (**9 Tage** seit Baseline) – #1-Aufgabe (Ref. 23.07.: 85.5 cm) |
+| **17.09.2026** | **66.75** | **18.2** | **12.15** | **54.60** | **—** | **1549** | **Tag 10 / Morgenmessung – 🎯 Whoosh startet: -0.10 kg ggü. 16.09. (66.85→66.75). Das Tennis-Uptick-Wasser fließt wieder ab – der Rückgang sitzt exakt in FFM (-0.10 = 54.60), genau dort, wo der +0.10-Uptick gestern reinkam. KF 18.2 hält, Fettmasse 12.15 (-0.02, praktisch flat), Muskelmasse 51.90 gehalten, Körperwasser 59.1% / Subkutan 16.5% stabil, Skelettmuskel 52.8% (-0.1, Rundung), Protein 18.7% (+0.1 = neuer Höchststand, Juli-Allzeit-Tief-Niveau). Visceral 4 / BMI 21.3 stabil, Knochen 2.73, BMR 1549. Reiner Wasserabfluss, kein Muskelverlust (Muskelmasse hält, Protein-% steigt). Noch 0.40 kg über dem Juli-Allzeit-Tief (23.07.: 66.35). ⚠️ Aber: das Essen heute war NICHT clean (McD-Cheeseburger + echtes Pils 4.9% + Lachs 300 g/39 g Fett = Salz/Alkohol/Fett, Fett 88 g über Limit) → der Whoosh könnte morgen stocken bzw. ein Salz-/Alkohol-Wasser-Rebound auftreten. Bauchumfang weiter offen (**10 Tage** seit Baseline!) – #1-Aufgabe (Ref. 23.07.: 85.5 cm)** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -650,6 +651,46 @@ Zur Einordnung: Der „echte" Stand vom 15.09. (66.70 / 18.2%) liegt weiterhin d
 4. 🔴 **Bauchumfang messen — jetzt wirklich, 9 Tage offen.** Die Waage läuft top, aber der ehrlichste Sixpack-Indikator fehlt komplett. Solange er stabil bleibt, ist zu 100 % bewiesen, dass die Waage nur Wasser zeigt. Morgens nüchtern, Nabelhöhe, entspannt (Ref. 23.07.: 85,5 cm).
 
 Halte die Linie — der Whoosh ist nur aufgeschoben, nicht aufgehoben. Ein sauberer Salz-armer Tag stößt dich unter das Juli-Allzeit-Tief (66.35). 💪
+
+### 16.09. → 17.09. (Tag 9 → Tag 10) — 🎯 Der Whoosh startet (Uptick-Wasser fließt ab)
+| Metrik | Veränderung | Bewertung |
+|--------|------------|-----------|
+| Gewicht | **-0.10 kg** (66.85 → 66.75) | Sehr gut — der angekündigte Whoosh setzt ein, das Tennis-Uptick-Wasser fließt wieder ab |
+| Körperfett | 0.0% (18.2) | Neutral — hält das Challenge-Tief, kein Rückschritt |
+| Fettmasse | -0.02 kg (12.17 → 12.15) | Neutral — praktisch flat (reine Rechenfolge aus dem Gewicht bei stabilem KF%) |
+| Fettfreie Masse | **-0.10 kg** (54.70 → 54.60) | 🎯 Der Beweis — der Rückgang sitzt exakt in der FFM, **genau dort, wo gestern der +0.10-Uptick reinkam** = Wasser raus |
+| Muskelmasse | 0.00 kg (51.90) | Gut — voll gehalten, kein Verlust |
+| Skelettmuskel | -0.1% (52.9 → 52.8) | Neutral — Rundungsrauschen |
+| Subkutanfett | 0.0% (16.5) | Neutral — hält den Tiefstwert |
+| Visceral Fett | 0 (bleibt 4) | Gut — stabil im grünen Bereich |
+| Körperwasser | 0.0% (59.1) | Neutral — hält den Höchststand |
+| Protein | **+0.1%** (18.6 → 18.7) | Gut — Proteinanteil auf neuem Höchststand (= Juli-Allzeit-Tief-Niveau) |
+| Knochenmasse | -0.01 kg (2.73) | Neutral — Rauschen |
+| BMR | -2 kcal (1549) | Neutral — folgt nur dem Gewicht |
+| BMI | 0.0 (21.3) | Neutral |
+| Bauchumfang | — (weiter nicht gemessen) | 🔴 Fehlt seit Baseline (**10 Tage**) — wichtigste offene Aufgabe |
+
+**Fazit Tag 10:** Prognose eingetroffen. Ich hatte gestern geschrieben: *„Der Whoosh kommt, wenn du Salz niedrig und Wasser hoch hältst."* Heute setzt er ein: **-0.10 kg, und es ist sauber identifizierbares Wasser.** Der Rückgang sitzt **exakt in der FFM (-0.10 kg)** — also genau in dem Kompartiment, in das gestern der Tennis-Regenerations-Uptick (+0.10 FFM) reingelaufen ist. Das ist die klarste Wasser-Signatur, die es gibt: Es kam als FFM-Wasser rein und geht als FFM-Wasser wieder raus. Muskelmasse hält bei 51.90 kg, Protein-% steigt sogar auf einen neuen Höchststand (18.7%) — kein Gramm Muskel verloren. Fett-% und Subkutanfett halten ihre Tiefstwerte, Fettmasse ist praktisch flat (-0.02).
+
+**Kumulativ seit Baseline (08.09. → 17.09., 9 Tage):**
+| Metrik | Baseline | Heute | Δ |
+|--------|----------|-------|---|
+| Gewicht | 67.35 | 66.75 | **-0.60 kg** |
+| Körperfett | 18.6 | 18.2 | **-0.4%** |
+| Fettmasse | 12.53 | 12.15 | **-0.38 kg** (echtes Fett) |
+| Subkutanfett | 16.9 | 16.5 | **-0.4%** |
+| Skelettmuskel | 52.6 | 52.8 | **+0.2%** (Muskel geschützt/relativ gestiegen) |
+| Visceral Fett | 4 | 4 | stabil |
+
+Noch **0.40 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)**. Der Whoosh hat gerade erst angefangen — bei einem konsequenten Salz-armen Tag stößt du morgen darunter.
+
+**⚠️ Aber: Heute war das Essen NICHT das Whoosh-Profil vom 16.09.** Gestern war mustergültig salz-/carbarm und mager (177 g Protein, 65 g Fett) — genau das hat diesen Whoosh ausgelöst. **Heute läuft es anders:** McDonald's-Cheeseburger (Salz), **ein echtes Pils 4.9% (nicht das alkoholfreie Jakobsgold)** und 300 g Lachs (39 g Fett) → **Fett 88 g (über Limit), ~15 g Alkohol, ordentlich Natrium.** Salz und Alkohol binden beide Wasser. Das heißt: **Der Whoosh könnte morgen stocken oder in einen kleinen Salz-/Alkohol-Wasser-Rebound kippen** — nicht erschrecken, wenn die Waage morgen wieder leicht hochgeht, das wäre wieder Wasser, kein Fett (die Energiebilanz hängt vom heutigen Training ab, das noch fehlt). Aber: Der saubere, salzarme Folgetag ist morgen um so wichtiger, um den Whoosh unter 66.35 durchlaufen zu lassen.
+
+**Was das für heute/morgen heißt (Tag 10 → 11):**
+1. **Aktivitätsdaten heute nachreichen** — ohne Move/Schritte kann ich das Netto-Defizit nicht sauber rechnen. Bei 1.989 kcal Intake liegt das Defizit **komplett am heutigen Training**: erst ab ~940 aktiven kcal bist du im Zielkorridor (500–650).
+2. **Morgen Salz konsequent niedrig + Wasser 3,5–4 L** — spült das heutige Cheeseburger-/Bier-Wasser aus, damit der Whoosh unter das Allzeit-Tief durchläuft.
+3. **Alkohol ab jetzt wieder trocken** — das Pils war das 1. (echte) Bier dieser Woche; damit ist das Wochen-Budget aufgebraucht. Schlusswoche (29.09.–04.10.) komplett trocken.
+4. 🔴 **Bauchumfang messen — 10 Tage offen.** Die Waage liefert, aber der ehrlichste Sixpack-Indikator fehlt komplett. Morgens nüchtern, Nabelhöhe, entspannt (Ref. 23.07.: 85,5 cm).
 
 ---
 
