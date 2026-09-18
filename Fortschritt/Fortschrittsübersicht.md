@@ -21,7 +21,7 @@ BASELINE          ▲ heute 17.09.        ZIEL
 | Muskelschutz | 🟢 | Muskelmasse 51,90 voll gehalten, Protein-% 18,7 neuer Höchststand, Körperwasser 59,1 % (Höchststand); FFM -0,10 = Wasser raus |
 | Bauchumfang | 🔴 | **Fehlt seit Baseline (10 Tage)** – ehrlichster Sixpack-Indikator, #1-Aufgabe (Ref. 23.07.: 85,5 cm) |
 | Ernährung | 🟡 | Tag 10: Protein 153 g ✅ (punktgenau), aber Fett 88 g 🟠 (über Limit, Lachs 300 g + Cheeseburger) + 1 echtes Pils 4,9 % 🟠 (Alkohol-Tag) |
-| Konsequenz | 🟡 | Waage top (Whoosh startet), aber Salz/Alkohol heute können ihn kurz ausbremsen; Aktivitätsdaten fehlen → Defizit offen |
+| Konsequenz | 🟡 | Waage top (Whoosh startet); Outdoor Run stark (Avg HF 177), aber Move nur 687 → Netto-Defizit nur ~247 kcal (unter Ziel); Salz/Alkohol können Whoosh kurz ausbremsen |
 
 ---
 
