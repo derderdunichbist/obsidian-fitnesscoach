@@ -110,7 +110,10 @@ const EMBEDDED_CSV = `Datum,Gewicht_kg,Koerperfett_pct,FettMasse_kg,FettfreieMas
 2026-09-10,67.00,18.3,12.26,54.70,16.6,4,52.7,52.00,2.74,58.9,1552,21.4,25,,Tag 3
 2026-09-14,66.95,18.3,12.25,54.70,16.6,4,52.8,52.00,2.74,59.0,1551,21.4,25,,Tag 7 – Challenge-Tief
 2026-09-15,66.70,18.2,12.14,54.60,16.5,4,52.9,51.80,2.73,59.1,1548,21.3,25,,Tag 8 – neues Challenge-Tief
-2026-09-16,66.85,18.2,12.17,54.70,16.5,4,52.9,51.90,2.74,59.1,1551,21.3,25,,Tag 9 – Wasser-Uptick (kein Fett)`;
+2026-09-16,66.85,18.2,12.17,54.70,16.5,4,52.9,51.90,2.74,59.1,1551,21.3,25,,Tag 9 – Wasser-Uptick (kein Fett)
+2026-09-17,66.75,18.2,12.15,54.60,16.5,4,52.8,51.90,2.73,59.1,1549,21.3,25,,Tag 10 – Whoosh startet
+2026-09-18,66.60,18.1,12.05,54.50,16.5,4,52.9,51.80,2.73,59.1,1548,21.3,25,85.5,Tag 11 – Bauchumfang 85.5 (= Juli-Allzeit-Tief)
+2026-09-20,,,,,,,,,,,,,,85,Tag 13 – nur Bauchumfang 85 (neues Allzeit-Tief); Wiegen heute ausgelassen`;
 
 const COACH_START = '2026-09-08';   // Zeitachse ab Challenge-Baseline (4-Wochen-Challenge)
 const DEADLINE    = '2026-10-04';
@@ -123,7 +126,8 @@ function parseCSV(txt){
   const head=lines[0].split(',');
   const idx=n=>head.indexOf(n);
   return lines.slice(1).map(l=>{
-    // simple split – Notiz-Feld enthält keine Kommas in diesem Datensatz
+    // split reicht: alle ausgelesenen Spalten (Index 0–14) liegen VOR dem Notiz-Feld (Index 15),
+    // daher stören Kommas in der Notiz die Zahlenwerte nicht.
     const c=l.split(',');
     return {
       date:c[idx('Datum')], weight:num(c[idx('Gewicht_kg')]), kf:num(c[idx('Koerperfett_pct')]),
@@ -139,42 +143,46 @@ function render(rows, sourceLabel){
   const DATES = rows.map(r=>ddmm(r.date));
   const col = k => rows.map(r=>r[k]);
   const first=rows[0], last=rows[rows.length-1];
+  const firstOf=k=>{ for(let i=0;i<rows.length;i++) if(rows[i][k]!=null) return rows[i][k]; return null; };
+  const lastOf =k=>{ for(let i=rows.length-1;i>=0;i--) if(rows[i][k]!=null) return rows[i][k]; return null; };
   const daysLeft = Math.round((new Date(DEADLINE)-new Date(last.date))/864e5);
-  const tag = rows.length;
+  const tag = Math.round((new Date(last.date)-new Date(COACH_START))/864e5)+1;
 
   document.getElementById('subhead').innerHTML =
     `Challenge-Start <strong>${ddmm(first.date)}.</strong> → <strong>${ddmm(last.date)}.2026</strong> (Tag ${tag}) · Deadline <strong>${ddmm(DEADLINE)}.</strong> · noch <strong>${daysLeft} Tage</strong>`;
   document.getElementById('src').textContent = sourceLabel;
 
   const d = (a,b)=> (a==null||b==null)?null:(a-b);
-  const dw=d(last.weight,first.weight), dk=d(last.kf,first.kf), df=d(last.fatmass,first.fatmass);
+  const lw=lastOf('weight'), lk=lastOf('kf'), lf=lastOf('fatmass');
+  const dw=d(lw,firstOf('weight')), dk=d(lk,firstOf('kf')), df=d(lf,firstOf('fatmass'));
   const waistVals=col('waist').filter(v=>v!=null); const firstWaist=waistVals[0], lastWaist=waistVals[waistVals.length-1];
   const dwa = (firstWaist!=null&&lastWaist!=null)? lastWaist-firstWaist : null;
   const arrow=v=> v==null?'':(v<0?'▼ ':(v>0?'▲ ':'')), dtxt=(v,u)=> v==null?'–':`${NF(Math.abs(v))} ${u}`;
   const flat=v=> v===0?' flat':'';
   const tiles=[
-    {lbl:'Gewicht',val:NF(last.weight),u:'kg',a:arrow(dw),d:dtxt(dw,'kg'),f:flat(dw)},
-    {lbl:'Körperfett',val:NF(last.kf),u:'%',a:arrow(dk),d:dtxt(dk,'%'),f:flat(dk)},
-    {lbl:'Fettmasse',val:NF(last.fatmass),u:'kg',a:arrow(df),d:dtxt(df,'kg'),f:flat(df)},
+    {lbl:'Gewicht',val:NF(lw),u:'kg',a:arrow(dw),d:dtxt(dw,'kg'),f:flat(dw)},
+    {lbl:'Körperfett',val:NF(lk),u:'%',a:arrow(dk),d:dtxt(dk,'%'),f:flat(dk)},
+    {lbl:'Fettmasse',val:NF(lf),u:'kg',a:arrow(df),d:dtxt(df,'kg'),f:flat(df)},
     {lbl:'Bauchumfang',val:NF(lastWaist),u:'cm',a:arrow(dwa),d:dtxt(dwa,'cm'),f:flat(dwa)},
   ];
   document.getElementById('tiles').innerHTML = tiles.map(t=>
     `<div class="tile"><div class="lbl">${t.lbl}</div><div class="val">${t.val}<span class="u">${t.u}</span></div>
      <div class="delta${t.f}">${t.a}${t.d}</div></div>`).join('');
 
-  document.getElementById('cs-weight').textContent  = `${NF(first.weight)} → ${NF(last.weight)} kg · ${dtxt(dw,'kg')} seit Baseline`;
-  document.getElementById('cs-fatmass').textContent = `${NF(first.fatmass)} → ${NF(last.fatmass)} kg · ${dtxt(df,'kg')} echtes Fett · Ziel ~9,5–10 kg`;
+  document.getElementById('cs-weight').textContent  = `${NF(firstOf('weight'))} → ${NF(lw)} kg · ${dtxt(dw,'kg')} seit Baseline`;
+  document.getElementById('cs-fatmass').textContent = `${NF(firstOf('fatmass'))} → ${NF(lf)} kg · ${dtxt(df,'kg')} echtes Fett · Ziel ~9,5–10 kg`;
   document.getElementById('cs-waist').textContent   = (waistVals.length===0)
     ? `🔴 In dieser Challenge noch nicht gemessen (seit Baseline ${ddmm(first.date)}.) – bitte morgens nüchtern messen (Ref. 23.07.: 85,5 cm)`
-    : `${NF(firstWaist)} → ${NF(lastWaist)} cm · wichtigster Sixpack-Indikator`;
-  document.getElementById('cs-muscle').textContent  = `Trotz Fettabbau steigt der relative Muskelanteil: ${NF(first.muscle)} → ${NF(last.muscle)} % · Muskel bleibt voll erhalten`;
+    : `${NF(firstWaist)} → ${NF(lastWaist)} cm · ${dtxt(d(lastWaist,firstWaist),'cm')} · wichtigster Sixpack-Indikator`;
+  document.getElementById('cs-muscle').textContent  = `Trotz Fettabbau steigt der relative Muskelanteil: ${NF(firstOf('muscle'))} → ${NF(lastOf('muscle'))} % · Muskel bleibt voll erhalten`;
 
   // indexiert auf Startwert (erster Coaching-Tag = 100 %)
   const baseM=first.musclemass, baseF=first.fatmass;
   const muscleIdx=col('musclemass').map(v=> (v!=null&&baseM)? +(v/baseM*100).toFixed(2):null);
   const fatIdx   =col('fatmass').map(v=>    (v!=null&&baseF)? +(v/baseF*100).toFixed(2):null);
-  const fatDrop=(100-fatIdx[fatIdx.length-1]).toFixed(1);
-  const musDelta=(muscleIdx[muscleIdx.length-1]-100).toFixed(1);
+  const lastIdx=arr=>{ for(let i=arr.length-1;i>=0;i--) if(arr[i]!=null) return arr[i]; return null; };
+  const fatDrop=(100-lastIdx(fatIdx)).toFixed(1);
+  const musDelta=(lastIdx(muscleIdx)-100).toFixed(1);
   document.getElementById('cs-index').textContent =
     `Baseline ${ddmm(first.date)}. = 100 % · Fettmasse −${fatDrop} %, Muskelmasse ${musDelta>=0?'+':''}${musDelta} % (gehalten) – Fett schmilzt, Muskel bleibt`;
 
