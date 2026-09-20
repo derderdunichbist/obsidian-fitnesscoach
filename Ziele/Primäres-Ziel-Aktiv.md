@@ -7,10 +7,10 @@
 | **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
 | **Start** | 08.09.2026 |
 | **Deadline** | 04.10.2026 |
-| **Heute** | 17.09.2026 (Tag 10) |
+| **Heute** | 20.09.2026 (Tag 13) |
 | **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
-| **Verbleibende Tage bis Deadline** | 17 |
-| **Status** | 🟢 Aktiv – Tag 10 (17.09.): 🎯 **Whoosh startet: -0.10 kg auf 66.75 kg** – der gestrige Tennis-Uptick fließt ab, der Rückgang sitzt exakt in der FFM (-0.10) = reines Wasser, Muskelmasse voll gehalten, Protein-% neuer Höchststand (18.7%). KF 18.2% / Subkutan 16.5% / Körperwasser 59.1% halten die Bestwerte. Noch 0.40 kg über Juli-Allzeit-Tief (66.35). Trend seit Baseline intakt: -0.60 kg / -0.4% KF / -0.38 kg Fett. ⚠️ Essen nicht clean (Cheeseburger + echtes Pils 4.9% + Lachs 300g/39g Fett → Fett 88g über Limit, ~15g Alkohol); Outdoor Run (Avg HF 177) top, aber Move nur 687 → **Netto-Defizit nur ~247 kcal** (unter Ziel). 🔴 Bauchumfang weiterhin offen seit Baseline (**10 Tage** – #1-Aufgabe) |
+| **Verbleibende Tage bis Deadline** | 14 |
+| **Status** | 🟡 Aktiv – Tag 13 (20.09.): **Wiegen heute vergessen** (kein Drama – letzter Wert 17.09.: 66,75 kg / 18,2 % KF / 12,15 kg Fett), Essens-/Aktivitätsdaten stehen noch aus. 🔴 **Bauchumfang weiterhin ungemessen = 13 Tage / komplette Challenge ohne einen einzigen Wert** → Mess-Ritual wird umgestellt (entkoppelt vom nüchternen Wiegen, heute abends messen, Maßband auf die Waage, 20-Uhr-Reminder). 18.+19.09. nicht getrackt. Trend bis 17.09. intakt: seit Baseline -0,60 kg / -0,4 % KF / -0,38 kg Fett, Muskel geschützt. Noch 14 Tage bis Deadline – der Umfang ist jetzt die dringendste offene Kennzahl. _(Vorheriger Stand 17.09.: Whoosh startete mit -0,10 kg auf 66,75 kg, Trend seit Baseline -0,60 kg / -0,4 % KF / -0,38 kg Fett; Details in der Coaching-Notiz 17.09. unten.)_ |
 
 ---
 
@@ -144,3 +144,15 @@
 - 🏃 **Bewegung (17.09., nachgereicht):** Outdoor Run 23:46 (307 aktive kcal, 4,95 km, Pace 4'48"/km, **Avg HF 177 – intensivster Lauf der Challenge**), Move 687/300 (229 %), Exercise 41 min. Starker Cardio-Reiz, aber kurzes Volumen. → **Netto-Defizit nur ~247 kcal** (TDEE ~2.236, unter Ziel 500–650): der „Genuss-Tag" (Cheeseburger + Pils + fetter Lachs) frisst das Defizit, exakt wie am 15.09.
 - 🔴 **Bauchumfang jetzt 10 Tage offen** – der ehrlichste Sixpack-Indikator, weiter #1-Aufgabe. **Morgen früh nüchtern messen** (Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
 - **To-do Konstantinos (Tag 11):** 🔴 **Bauchumfang messen** (überfällig – #1) · Aktivitätsdaten von heute (17.09.) nachreichen · morgen Salz niedrig + Wasser 3,5–4 L (Burger-/Bier-Wasser ausspülen) · Protein 150 g+ · Fett <79 g (kleinere Lachs-Portion / mager mittags) · **trocken bleiben** (Wochen-Budget aufgebraucht) · Kraft progressiv laut Plan.
+
+### 20.09.2026 – Tag 13: Wiegen + Bauchumfang vergessen → Mess-Ritual wird umgestellt
+- **Datenlage:** Heute kam die Info „vergessen zu wiegen / Bauchumfang zu messen" – **konkrete Zahlen (Essen/Training) sind nicht angekommen** und stehen noch aus. Kein Wert erfunden; Tag ehrlich als Nicht-Messung dokumentiert. Details → [[../Tageslog/2026-09-20]].
+- ✅ **Ausgelassene Morgenwaage = kein Rückschritt:** Tagesbezogen irrelevant, der Wochen-Trend entscheidet. Letzter Wert 17.09.: 66,75 kg / 18,2 % KF / 12,15 kg Fett; seit Baseline -0,60 kg / -0,4 % KF / -0,38 kg Fett, Muskel geschützt. **18.+19.09. nicht getrackt** – Trendlücke, aber der Whoosh vom 17.09. lief zuletzt an.
+- 🔴 **Kernproblem Bauchumfang – 13 Tage / komplette Challenge ohne einen einzigen Wert.** Ich habe ihn an jedem Challenge-Tag angemahnt; das „morgens nüchtern messen" scheitert 13-mal in Folge → **nicht am User, am Ritual.** Konsequenz: Ansatz ändern statt zum 14. Mal dasselbe fordern.
+- **Neuer Mess-Ansatz (Habit-Fix):**
+  1. **Entkoppeln vom nüchternen Wiegen** – Umfang muss nicht nüchtern sein; für den *Trend* zählt „immer unter gleichen Bedingungen", nicht der Tageszeitpunkt. → **heute noch abends messen**, Startpunkt endlich setzen.
+  2. **Physischer Trigger:** Maßband auf die Waage legen / an den Spiegel hängen (Habit-Stacking).
+  3. **Fallback:** Handy-Reminder 20:00 Uhr „Bauchumfang messen".
+  4. **Technik:** Nabelhöhe, entspannt, normal ausatmen, Band waagerecht (Ref. 23.07.: 85,5 cm).
+- **Warum kritisch:** 14 Tage bis Deadline. Die Waage läuft top, aber der Sixpack entscheidet sich an der subkutanen Bauchfettschicht – die messen wir direkt nur über den Umfang. Ohne diese Zahl bewerten wir das Kernziel blind.
+- **To-do Konstantinos (Tag 13/14):** 🔴 **Bauchumfang heute abends messen** (dann täglich, Maßband auf die Waage + 20-Uhr-Reminder) · morgen früh wieder wiegen (Trend aufnehmen) · **heutige Essens-/Aktivitätsdaten schicken** → dann Netto-Defizit + Fortschrittsübersicht · Protein 150 g+ · Fett <79 g · Wasser 3,5–4 L, Salz niedrig · trocken bleiben.
