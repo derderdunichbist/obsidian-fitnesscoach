@@ -35,6 +35,8 @@
 | **18.09.2026** | **66.60** | **18.1** | **12.05** | **54.50** | **🎯 85.5** | **1548** | **Tag 11 / Morgenmessung – 🎯🎯 DOPPELTER MEILENSTEIN. (1) Whoosh läuft sauber weiter TROTZ des Salz-/Alkohol-/Fett-Tags gestern (McD + echtes Pils + fetter Lachs): -0.15 kg ggü. 17.09. (66.75→66.60), davon -0.10 kg **reine Fettmasse** (12.15→12.05). KF 18.1% (-0.1) = **neues Challenge-Tief**, nur noch 0.2% über dem Juli-Allzeit-Tief (17.9%). Der befürchtete Salz-Rebound ist **ausgeblieben**. Subkutan 16.5% stabil, Skelettmuskel 52.9% (+0.1, Challenge-Höchststand), Körperwasser 59.1% / Protein 18.7% gehalten → Muskel voll geschützt (Muskelmasse 51.80 / FFM 54.50 je -0.10 = Wasser). Visceral 4 / Knochen 2.73 / BMI 21.3 / BMR 1548 stabil. Noch 0.25 kg über dem Juli-Allzeit-Tief (66.35). (2) 🏁 **BAUCHUMFANG ENDLICH NACHGETRAGEN** nach 10 Tagen (#1-Aufgabe erledigt): **85.5 cm = exakt das Juli-Allzeit-Tief (23.07.)**, der 86er-Knick ist wieder durchbrochen. Clou: bei 66.60 kg (0.25 kg **über** dem Juli-Tief-Gewicht) derselbe Bauchumfang → leicht bessere Rekomposition als im Juli. Netto seit Baseline (08.09.): -0.75 kg / -0.5% KF / -0.48 kg Fett** |
 | _19.09.2026_ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _Tag 12 – nicht getrackt (keine Daten übermittelt)_ |
 | **20.09.2026** | **—** | **—** | **—** | **—** | **🚀 85** | **—** | **Tag 13 (So) – 🚀 NEUES ALLZEIT-TIEF beim Bauchumfang: 85,0 cm (nur Umfang gemessen, abends; Wiegen/Bioimpedanz heute nicht erfasst). -0,5 cm ggü. 18.09. (85,5) und erstmals UNTER dem Juli-Allzeit-Tief (23.07.: 85,5) – der ehrlichste Sixpack-Indikator dreht weiter nach unten. Kontext: Lehrbuch-Cut-Tag (1.051 kcal bis 18:51, Protein 150 g, Fett 35 g, 0 Alkohol) + großer Tennistag (523 kcal, Exercise 123 min). Gewicht/KF fehlen heute → nächste Bioimpedanz morgen früh nüchtern.** |
+| _21.09.2026_ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _Tag 14 – Wiegen + Bauchumfang morgens vergessen (keine Messung). Essen & Training geloggt: 🏆 Protein-Rekord 206 g, Fett 31 g, 0 Alkohol; Doppel-Session Tennis 373 + Kraft 216 aktive kcal, Move 998, Exercise 149 min (Challenge-Höchstwert)_ |
+| **22.09.2026** | **66.40** | **18.0** | **11.95** | **54.50** | **🚀🚀 84** | **1546** | **Tag 15 / Morgenmessung – 🚀🚀 CHALLENGE-TIEFS AUF GANZER LINIE + Bauchumfang-SPRUNG. Gewicht -0,20 kg ggü. 18.09. (66,60→66,40) = neues Challenge-Tief, nur noch **0,05 kg** über dem Juli-Allzeit-Tief (23.07.: 66,35). KF 18,0% (-0,1) & Subkutan 16,4% (-0,1) & Fettmasse 11,95 kg (-0,10, **erstmals in der Challenge unter 12 kg**) alle auf neuem Challenge-Tief; KF nur noch 0,1% über dem Juli-Allzeit-Tief (17,9%). 💪 Skelettmuskel 53,0% (+0,1, **neuer Höchststand**) & Körperwasser 59,3% (+0,2, **neuer Höchststand**) → die -0,10 kg Muskelmasse (51,70) / FFM stabil (54,50) sind Wasser/Messfolge (Muskel-% steigt), kein Muskelverlust. Visceral 4 / Knochen 2,73 / Protein 18,6% stabil, BMR 1546, BMI 21,2, Metab. Alter 25. **Der befürchtete Wasser-Uptick nach dem großen Doppel-Session-Tag (21.09.) ist AUSGEBLIEBEN – stattdessen läuft der Whoosh weiter.** 🚀🚀 **BAUCHUMFANG 84,0 cm = -1,0 cm ggü. 20.09. (85,0), neues Allzeit-Tief – jetzt 1,5 cm UNTER dem Juli-Allzeit-Tief (85,5)!** Clou: bei quasi identischem Gewicht wie am Juli-Tief (66,40 vs 66,35) ein um 1,5 cm kleinerer Bauch → deutlich bessere Rekomposition. Netto seit Baseline (08.09.): -0,95 kg / -0,6% KF / -0,58 kg Fett, Muskel voll geschützt** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -694,6 +696,44 @@ Noch **0.40 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)**. Der Whoosh hat ger
 2. **Morgen Salz konsequent niedrig + Wasser 3,5–4 L** — spült das heutige Cheeseburger-/Bier-Wasser aus, damit der Whoosh unter das Allzeit-Tief durchläuft.
 3. **Alkohol ab jetzt wieder trocken** — das Pils war das 1. (echte) Bier dieser Woche; damit ist das Wochen-Budget aufgebraucht. Schlusswoche (29.09.–04.10.) komplett trocken.
 4. 🔴 **Bauchumfang messen — 10 Tage offen.** Die Waage liefert, aber der ehrlichste Sixpack-Indikator fehlt komplett. Morgens nüchtern, Nabelhöhe, entspannt (Ref. 23.07.: 85,5 cm).
+
+### 18.09. → 22.09. (Tag 11 → Tag 15) — 🚀🚀 Whoosh läuft durch, Bauchumfang-Sprung
+> _Dazwischen: 19.09. nicht getrackt, 20.09. nur Bauchumfang (85,0 cm Allzeit-Tief), 21.09. Wiegen vergessen (Essen/Training top: Protein-Rekord 206 g + Doppel-Session)._
+
+| Metrik | 18.09. | 22.09. | Δ | Bewertung |
+|--------|--------|--------|---|-----------|
+| Gewicht | 66.60 | **66.40** | **-0.20 kg** | 🎯 Neues Challenge-Tief – nur noch 0,05 kg über dem Juli-Allzeit-Tief (66.35) |
+| Körperfett | 18.1 | **18.0** | **-0.1%** | Neues Challenge-Tief, 0,1% über Juli-Tief (17.9) |
+| Fettmasse | 12.05 | **11.95** | **-0.10 kg** | 🎯 Erstmals in der Challenge unter 12 kg |
+| Subkutanfett | 16.5 | **16.4** | **-0.1%** | Sichtbares Fett auf neuem Challenge-Tief |
+| Fettfreie Masse | 54.50 | 54.50 | 0.00 kg | Stabil |
+| Muskelmasse | 51.80 | 51.70 | -0.10 kg | Wasser (Skelettmuskel-% steigt ja) – kein Verlust |
+| Skelettmuskel | 52.9 | **53.0** | **+0.1%** | 💪 Neuer Höchststand |
+| Körperwasser | 59.1 | **59.3** | **+0.2%** | 💪 Neuer Höchststand |
+| Protein | 18.7 | 18.6 | -0.1% | Rundung, hält Top-Niveau |
+| Visceral / Knochen | 4 / 2.73 | 4 / 2.73 | 0 | Stabil, grün |
+| BMR | 1548 | 1546 | -2 | Folgt dem Gewicht |
+| **Bauchumfang** | **85.5** | **🚀🚀 84.0** | **-1.5 cm** | **Neues Allzeit-Tief – 1,5 cm UNTER dem Juli-Tief (85.5)** |
+
+**Fazit Tag 15:** Der stärkste Datenpunkt der Challenge. Nach dem großen **Doppel-Session-Tag (21.09.: Tennis + Kraft, Exercise 149 min)** hatte ich einen Wasser-Uptick für heute für möglich gehalten – **er ist ausgeblieben.** Stattdessen läuft der Whoosh sauber weiter: Gewicht, KF, Subkutanfett und Fettmasse stehen **alle auf neuen Challenge-Tiefs**, Fettmasse erstmals unter 12 kg. Muskel ist voll geschützt – Skelettmuskel-Anteil (53,0%) und Körperwasser (59,3%) sind sogar auf neuem Höchststand, der Muskelmasse-Dip (-0,10 kg) ist reine Hydration. Das trägt der **Protein-Rekord von gestern (206 g)**: maximaler Muskelschutz im Defizit.
+
+**🚀🚀 Der Star ist der Bauchumfang: 84,0 cm.** -1,0 cm ggü. 20.09. (85,0) und -1,5 cm unter dem bisherigen Allzeit-Tief aus dem Juli (85,5). Und der Clou der Rekomposition: Du wiegst heute mit **66,40 kg praktisch genauso viel wie am Juli-Allzeit-Tief (66,35 kg)** – hast aber einen um **1,5 cm kleineren Bauch.** Gleiches Gewicht, deutlich weniger Bauchfett = mehr Muskel / bessere Komposition als je zuvor. Genau das ist die Zahl, die den Sixpack misst, und sie zeigt steil nach unten.
+
+**Kumulativ seit Baseline (08.09. → 22.09., 15 Tage / Tag 15):**
+| Metrik | Baseline | Heute | Δ |
+|--------|----------|-------|---|
+| Gewicht | 67.35 | 66.40 | **-0.95 kg** |
+| Körperfett | 18.6 | 18.0 | **-0.6%** |
+| Fettmasse | 12.53 | 11.95 | **-0.58 kg** |
+| Subkutanfett | 16.9 | 16.4 | **-0.5%** |
+| Muskelmasse | 52.10 | 51.70 | -0.40 kg (geschützt, Skelettmuskel-% 52.6 → 53.0 = **+0.4**) |
+| Bauchumfang | (Ref. 85.5) | **84.0** | **-1.5 cm** ggü. Juli-Tief |
+| Visceral | 4 | 4 | stabil |
+
+**Was das für heute/die Schlussphase heißt (noch 12 Tage bis Deadline 04.10.):**
+1. **Whoosh am Laufen halten:** Salz niedrig, Wasser 3,5–4 L, Protein hoch (gestern 206 g – Vorbild). Der nächste Schritt knackt wahrscheinlich das Juli-Allzeit-Tief (66,35) und die 17,9%-KF-Marke.
+2. **An Trainingstagen etwas mehr saubere Carbs** (gestern war das Defizit mit ~700–1.100 kcal groß) → Regeneration/Kraft schützen, ohne den Cut zu bremsen.
+3. **Bauchumfang jetzt regelmäßig** unter gleichen Bedingungen weitermessen (morgens, nüchtern, Nabelhöhe) – er ist der ehrlichste Sixpack-Indikator und liefert gerade am stärksten.
 
 ---
 

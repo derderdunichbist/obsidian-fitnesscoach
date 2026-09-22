@@ -7,10 +7,10 @@
 | **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
 | **Start** | 08.09.2026 |
 | **Deadline** | 04.10.2026 |
-| **Heute** | 21.09.2026 (Tag 14) |
+| **Heute** | 22.09.2026 (Tag 15) |
 | **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
-| **Verbleibende Tage bis Deadline** | 13 |
-| **Status** | 🟢 Aktiv – Tag 14 (21.09.): ✅✅✅ **Protein-Rekord der Challenge: 206 g (~3 g/kg)** – maximaler Muskelschutz. Zweiter Lehrbuch-Cut-Tag in Folge: 1.431 kcal, Fett nur 31 g, Carbs 78 g, 0 Alkohol; Magerquark-Start + Hühnerfilet-Mittag + die empfohlene Protein-Oat-Bowl. Dazu **großer Doppel-Session-Tag: Tennis 373 + Traditional Strength Training 216 aktive kcal**, Move 998/300 (333 %), Exercise 149/30 min (497 %, neuer Challenge-Höchstwert). 🟠 **Einziger Feinschliff:** Netto-Defizit heute mit ~700–1.100 kcal etwas zu groß für einen Doppel-Trainingstag → an Trainingstagen +200–300 kcal saubere Carbs (Regeneration). **Messung heute ausgefallen** (Wiegen + Bauchumfang vergessen) → morgen früh nüchtern nachholen; erste volle Bioimpedanz seit 18.09. fällig. Letzte Werte: 18.09. 66,60 kg / 18,1 % KF / 12,05 kg Fett; Bauchumfang 20.09. **85,0 cm (Allzeit-Tief)**. Trend seit Baseline: -0,75 kg / -0,5 % KF / -0,48 kg Fett, Muskel geschützt. Noch 13 Tage bis Deadline. _(Vorheriger Stand 20.09.: Bauchumfang 85,0 cm Allzeit-Tief, Lehrbuch-Cut-Tag; Details in den Coaching-Notizen unten.)_ |
+| **Verbleibende Tage bis Deadline** | 12 |
+| **Status** | 🟢 Aktiv – Tag 15 (22.09.): 🚀🚀 **STÄRKSTER MESSPUNKT DER CHALLENGE.** Morgenmessung: **66,40 kg** (Challenge-Tief, nur 0,05 kg über Juli-Allzeit-Tief 66,35), **KF 18,0 %**, **Fettmasse 11,95 kg (erstmals unter 12 kg)**, Subkutan 16,4 % – alle neues Challenge-Tief. Muskel voll geschützt: Skelettmuskel 53,0 % (+0,1) & Körperwasser 59,3 % (+0,2) neue Höchststände. 🚀🚀 **BAUCHUMFANG 84,0 cm** – neues Allzeit-Tief, **1,5 cm UNTER dem Juli-Allzeit-Tief (85,5)** bei quasi gleichem Gewicht → deutlich bessere Rekomposition. Der befürchtete Wasser-Uptick nach dem Doppel-Session-Tag (21.09.) blieb aus → Whoosh läuft weiter, getragen vom Protein-Rekord (206 g). Netto seit Baseline (08.09.): **-0,95 kg / -0,6 % KF / -0,58 kg Fett**, Muskel geschützt (Skelettmuskel-% +0,4). Noch 12 Tage bis Deadline – nächster Schritt knackt wahrscheinlich Juli-Allzeit-Tief (66,35) & 17,9 %-KF. _(Vorheriger Stand 21.09.: Protein-Rekord 206 g + Doppel-Session, Messung ausgefallen; 20.09.: Bauchumfang 85,0 cm Allzeit-Tief.)_ |
 
 ---
 
