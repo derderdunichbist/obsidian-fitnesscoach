@@ -7,10 +7,10 @@
 | **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
 | **Start** | 08.09.2026 |
 | **Deadline** | 04.10.2026 |
-| **Heute** | 20.09.2026 (Tag 13) |
+| **Heute** | 21.09.2026 (Tag 14) |
 | **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
-| **Verbleibende Tage bis Deadline** | 14 |
-| **Status** | 🟢 Aktiv – Tag 13 (20.09.): 🚀 **Bauchumfang NEUES ALLZEIT-TIEF: 85,0 cm** (-0,5 cm ggü. 18.09. 85,5; erstmals unter Juli-Tief) – der Sixpack-Indikator dreht weiter runter. Wiegen/Bioimpedanz heute nicht erfasst (letzte volle Messung 18.09.: 66,60 kg / 18,1 % KF / 12,05 kg Fett, Challenge-Tief). Essen/Training top: Lehrbuch-Cut-Tag (Protein 150 g schon um 18:51, Fett nur 35 g, 0 Alkohol) + großer Tennistag (523 kcal, Exercise 123 min) → mit clean Dinner Netto-Defizit ~590 kcal. Trend seit Baseline: -0,75 kg / -0,5 % KF / -0,48 kg Fett, Muskel geschützt. Noch 14 Tage bis Deadline. _(Vorheriger Stand 18.09.: Bauchumfang 85,5 cm nachgetragen, Whoosh lief sauber weiter; Details in den Coaching-Notizen unten.)_ |
+| **Verbleibende Tage bis Deadline** | 13 |
+| **Status** | 🟢 Aktiv – Tag 14 (21.09.): ✅✅✅ **Protein-Rekord der Challenge: 206 g (~3 g/kg)** – maximaler Muskelschutz. Zweiter Lehrbuch-Cut-Tag in Folge: 1.431 kcal, Fett nur 31 g, Carbs 78 g, 0 Alkohol; Magerquark-Start + Hühnerfilet-Mittag + die empfohlene Protein-Oat-Bowl. Dazu **großer Doppel-Session-Tag: Tennis 373 + Traditional Strength Training 216 aktive kcal**, Move 998/300 (333 %), Exercise 149/30 min (497 %, neuer Challenge-Höchstwert). 🟠 **Einziger Feinschliff:** Netto-Defizit heute mit ~700–1.100 kcal etwas zu groß für einen Doppel-Trainingstag → an Trainingstagen +200–300 kcal saubere Carbs (Regeneration). **Messung heute ausgefallen** (Wiegen + Bauchumfang vergessen) → morgen früh nüchtern nachholen; erste volle Bioimpedanz seit 18.09. fällig. Letzte Werte: 18.09. 66,60 kg / 18,1 % KF / 12,05 kg Fett; Bauchumfang 20.09. **85,0 cm (Allzeit-Tief)**. Trend seit Baseline: -0,75 kg / -0,5 % KF / -0,48 kg Fett, Muskel geschützt. Noch 13 Tage bis Deadline. _(Vorheriger Stand 20.09.: Bauchumfang 85,0 cm Allzeit-Tief, Lehrbuch-Cut-Tag; Details in den Coaching-Notizen unten.)_ |
 
 ---
 
