@@ -22,7 +22,7 @@ BASELINE               ▲ heute 23.09.   ZIEL
 | Muskelschutz | 🟢 | Skelettmuskel **53,0 %** (Höchststand gehalten), Protein 18,7 %, Muskelmasse 51,80 (+0,10), Körperwasser 59,2 % |
 | Bauchumfang | 🟢 84,0 cm | Stand 22.09. (Allzeit-Tief, Ziel-Zone erreicht) – heute nicht gemessen → morgen früh nachmessen |
 | Training | 🟢 | 23.09.: Tennis 70 min (503 kcal, Ø HF 126) + 12.115 Schritte, Move 810 kcal (270 %) |
-| Ernährung | ⚪ | Essensdaten 22.+23.09. noch offen → bitte nachreichen für Defizit-Check |
+| Ernährung | 🟡 | 23.09.: 2.264 kcal, Protein 193 g ✅, Fett 80 g; Defizit nur ~300 kcal wegen 334 kcal Limo+Cola → Zero-Getränke = einfachster Hebel. 22.09. noch offen |
 | Konsequenz | 🟢 | Halte-Tag nach großem Sprung = normales Treppenmuster (wie 16.→17.07.); Kurs unverändert |
 
 ---
