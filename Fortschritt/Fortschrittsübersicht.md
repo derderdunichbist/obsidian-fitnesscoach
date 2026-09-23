@@ -21,7 +21,8 @@ BASELINE               ▲ heute 23.09.   ZIEL
 | Fettmasse | 🟢 11,95 kg | Unter 12 kg **gehalten**; -0,58 kg echtes Fett seit Baseline |
 | Muskelschutz | 🟢 | Skelettmuskel **53,0 %** (Höchststand gehalten), Protein 18,7 %, Muskelmasse 51,80 (+0,10), Körperwasser 59,2 % |
 | Bauchumfang | 🟢 84,0 cm | Stand 22.09. (Allzeit-Tief, Ziel-Zone erreicht) – heute nicht gemessen → morgen früh nachmessen |
-| Ernährung | ⚪ | Essens-/Trainingsdaten 22.09. noch offen → bitte nachreichen für Defizit-Check |
+| Training | 🟢 | 23.09.: Tennis 70 min (503 kcal, Ø HF 126) + 12.115 Schritte, Move 810 kcal (270 %) |
+| Ernährung | ⚪ | Essensdaten 22.+23.09. noch offen → bitte nachreichen für Defizit-Check |
 | Konsequenz | 🟢 | Halte-Tag nach großem Sprung = normales Treppenmuster (wie 16.→17.07.); Kurs unverändert |
 
 ---
