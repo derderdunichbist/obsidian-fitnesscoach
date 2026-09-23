@@ -5,24 +5,24 @@
 ## Zeitstrahl
 ```
 08.09. ━━━━━━━━━━━━━━━━━━━━━━━━━━ 04.10.
-BASELINE              ▲ heute 22.09.    ZIEL
-  |←— 14 Tage —→ (Tag 15)|←— 12 Tage —→|
-  KF: 18.6%           18.0%      Ziel: 14–15%
-  Gew: 67.35 kg      66.40 kg    Ziel: ~64–65 kg
-  Fett: 12.53 kg     11.95 kg    Ziel: 9,5–10 kg
-  Bauch: (85,5)      84,0 cm     Ziel: 83–85 cm ✅
+BASELINE               ▲ heute 23.09.   ZIEL
+  |←— 15 Tage —→ (Tag 16)|←— 11 Tage —→|
+  KF: 18.6%           18.0%      Ziel: 16–17% (Kontur)
+  Gew: 67.35 kg      66.45 kg    Ziel: 65–66 kg
+  Fett: 12.53 kg     11.95 kg    Ziel: 11–11,5 kg
+  Bauch: (85,5)      84,0 cm*    Ziel: 83–85 cm ✅   (*Stand 22.09.)
 ```
 
-## Status-Ampel (Stand: 22.09.2026 – Tag 15, noch 12 Tage bis Deadline 04.10.)
+## Status-Ampel (Stand: 23.09.2026 – Tag 16, noch 11 Tage bis Deadline 04.10.)
 | Bereich | Status | Kommentar |
 |---------|--------|-----------|
-| Körperfett | 🟢 18,0 % | **Neues Challenge-Tief**, -0,6 % seit Baseline; nur noch 0,1 % über dem Allzeit-Tief (17,9 %) |
-| Gewicht | 🟢 66,40 kg | **Neues Challenge-Tief**, -0,95 kg seit Baseline; nur noch **0,05 kg** über dem Juli-Allzeit-Tief (66,35). Whoosh läuft weiter – **kein Uptick trotz Doppel-Session am 21.09.** |
-| Fettmasse | 🟢 11,95 kg | **Erstmals in der Challenge unter 12 kg**; -0,58 kg echtes Fett seit Baseline |
-| Muskelschutz | 🟢 | Skelettmuskel **53,0 %** (Höchststand), Körperwasser **59,3 %** (Höchststand), Protein 18,6 %; Muskelmasse-Dip (-0,10) = Wasser, kein Verlust. Getragen vom Protein-Rekord 206 g (21.09.) |
-| Bauchumfang | 🟢🚀 84,0 cm | **Neues Allzeit-Tief** – **1,5 cm UNTER dem Juli-Tief (85,5)** bei quasi gleichem Gewicht (66,40 vs 66,35) → deutlich bessere Rekomposition. **Ziel-Zone (83–85) erreicht** |
-| Ernährung | 🟢 | Zwei Lehrbuch-Cut-Tage in Folge (20./21.09.), Protein-Rekord 206 g, Fett 31 g, 0 Alkohol. 🟠 Einziger Feinschliff: Defizit an Doppel-Trainingstagen nicht zu groß werden lassen (+200–300 kcal saubere Carbs) |
-| Konsequenz | 🟢 | Waage + Bauchumfang liefern, Muskel geschützt, Datenlage vollständig – bester Messpunkt der Challenge |
+| Körperfett | 🟢 18,0 % | Challenge-Tief **gehalten**, -0,6 % seit Baseline; 0,1 % über dem Allzeit-Tief (17,9 %) |
+| Gewicht | 🟢 66,45 kg | +0,05 kg ggü. gestern = Messrauschen/Glykogen (Muskelmasse +0,10). -0,90 kg seit Baseline; 0,10 kg über dem Juli-Allzeit-Tief (66,35) |
+| Fettmasse | 🟢 11,95 kg | Unter 12 kg **gehalten**; -0,58 kg echtes Fett seit Baseline |
+| Muskelschutz | 🟢 | Skelettmuskel **53,0 %** (Höchststand gehalten), Protein 18,7 %, Muskelmasse 51,80 (+0,10), Körperwasser 59,2 % |
+| Bauchumfang | 🟢 84,0 cm | Stand 22.09. (Allzeit-Tief, Ziel-Zone erreicht) – heute nicht gemessen → morgen früh nachmessen |
+| Ernährung | ⚪ | Essens-/Trainingsdaten 22.09. noch offen → bitte nachreichen für Defizit-Check |
+| Konsequenz | 🟢 | Halte-Tag nach großem Sprung = normales Treppenmuster (wie 16.→17.07.); Kurs unverändert |
 
 ---
 
@@ -31,15 +31,15 @@ BASELINE              ▲ heute 22.09.    ZIEL
 |-------|----------|-------|-----------|--------|
 | 1 | 08.–14.09. | Defizit etablieren, Urlaubs-Wasser ausspülen | -1 bis -2 kg (v.a. Wasser) | ✅ Challenge-Tief 66,95 erreicht |
 | 2 | 15.–21.09. | Fettabbau auf Kurs, Training progressiv | -0,5 bis -1 kg Fett | ✅ erfüllt (Whoosh trug durch; Bauchumfang von 85,5 → 84,0; Protein-Rekord 206 g) |
-| 3 | 22.–28.09. | Definition sichtbar machen, Core-Fokus | -0,5 bis -1 kg Fett | 🟢 stark gestartet (Tag 15: alle Werte neues Challenge-Tief) |
+| 3 | 22.–28.09. | Definition sichtbar machen, Core-Fokus | -0,5 bis -1 kg Fett | 🟢 stark gestartet (Tag 15: alle Werte neues Challenge-Tief; Tag 16: Tief gehalten) |
 | 4 | 29.09.–04.10. | Peaking: Sodium/Wasser steuern, letzter Schliff | optisches Maximum | ⏳ offen |
 
 ---
 
-## Restweg zum Ziel (Stand Tag 15)
-- **Fettmasse:** 11,95 kg → Ziel ~9,5–10 kg = noch **~1,95–2,45 kg reiner Fettabbau in 12 Tagen** (≈1,1–1,4 kg/Woche).
+## Restweg zum Ziel (Stand Tag 16)
+- **Fettmasse:** 11,95 kg → Ziel ~9,5–10 kg = noch **~1,95–2,45 kg reiner Fettabbau in 11 Tagen** (optimistisch, außer Reichweite). **Realistisch (11–11,5 kg / KF ~17–17,5 %):** noch ~0,45–0,95 kg Fett ≈ 400–600 kcal Defizit/Tag → **auf Kurs**.
 - **Einordnung:** Sehr ambitioniert → das *optimistische* Ziel (KF 14–15 % / Fettmasse 9,5–10 kg) bleibt in 12 Tagen außer Reichweite; **realistisch und auf Kurs** ist die sichtbare Kontur bei ~17 % KF. Genau dorthin läuft der Trend: KF 18,0 %, Bauchumfang bereits in der Ziel-Zone (83–85 cm).
-- **Schwelle:** Der Whoosh läuft ungebremst (66,40 kg, kein Uptick trotz Doppel-Session), nur noch **0,05 kg** über dem Juli-Allzeit-Tief (66,35 / 17,9 %). Der nächste saubere Tag knackt es. Bauchumfang steht mit **84,0 cm erstmals unter 85** – nächstes Ziel: Richtung 83 cm.
+- **Schwelle:** Nach dem Sprung am 22.09. (66,40) hält die Waage am 23.09. mit 66,45 kg das Tief (Halte-Tag, KF/Fettmasse unverändert) – 0,10 kg über dem Juli-Allzeit-Tief (66,35 / 17,9 %). Der nächste Whoosh knackt es. Bauchumfang steht mit **84,0 cm erstmals unter 85** – nächstes Ziel: Richtung 83 cm.
 
 ---
 
@@ -52,7 +52,7 @@ BASELINE              ▲ heute 22.09.    ZIEL
 - **Whoosh robust:** kein Wasser-Uptick trotz großem Doppel-Session-Tag (21.09.) – der Trend trägt.
 - **Visceral 4 stabil**, Metabolisches Alter 25 – gesunde Werte.
 
-### Haupt-Hebel für die nächsten 12 Tage
+### Haupt-Hebel für die nächsten 11 Tage
 1. **Defizit im Korridor 600–800 kcal** – an Doppel-Trainingstagen (wie 21.09.) nicht zu groß werden lassen: +200–300 kcal saubere Carbs für Regeneration
 2. **Protein 150 g+/Tag** (21.09. waren es 206 g – Vorbild; Muskelschutz nicht verhandelbar)
 3. **Fett bewusst <79 g** (magere Mittagsprotein / kleinere Portionen fetter Fische)

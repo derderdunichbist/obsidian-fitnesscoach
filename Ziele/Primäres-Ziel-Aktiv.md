@@ -7,10 +7,10 @@
 | **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
 | **Start** | 08.09.2026 |
 | **Deadline** | 04.10.2026 |
-| **Heute** | 22.09.2026 (Tag 15) |
+| **Heute** | 23.09.2026 (Tag 16) |
 | **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
-| **Verbleibende Tage bis Deadline** | 12 |
-| **Status** | 🟢 Aktiv – Tag 15 (22.09.): 🚀🚀 **STÄRKSTER MESSPUNKT DER CHALLENGE.** Morgenmessung: **66,40 kg** (Challenge-Tief, nur 0,05 kg über Juli-Allzeit-Tief 66,35), **KF 18,0 %**, **Fettmasse 11,95 kg (erstmals unter 12 kg)**, Subkutan 16,4 % – alle neues Challenge-Tief. Muskel voll geschützt: Skelettmuskel 53,0 % (+0,1) & Körperwasser 59,3 % (+0,2) neue Höchststände. 🚀🚀 **BAUCHUMFANG 84,0 cm** – neues Allzeit-Tief, **1,5 cm UNTER dem Juli-Allzeit-Tief (85,5)** bei quasi gleichem Gewicht → deutlich bessere Rekomposition. Der befürchtete Wasser-Uptick nach dem Doppel-Session-Tag (21.09.) blieb aus → Whoosh läuft weiter, getragen vom Protein-Rekord (206 g). Netto seit Baseline (08.09.): **-0,95 kg / -0,6 % KF / -0,58 kg Fett**, Muskel geschützt (Skelettmuskel-% +0,4). Noch 12 Tage bis Deadline – nächster Schritt knackt wahrscheinlich Juli-Allzeit-Tief (66,35) & 17,9 %-KF. _(Vorheriger Stand 21.09.: Protein-Rekord 206 g + Doppel-Session, Messung ausgefallen; 20.09.: Bauchumfang 85,0 cm Allzeit-Tief.)_ |
+| **Verbleibende Tage bis Deadline** | 11 |
+| **Status** | 🟢 Aktiv – Tag 16 (23.09.): 🔒 **KONSOLIDIERUNG AUF DEM TIEF.** Morgenmessung **66,45 kg** (+0,05 = Glykogen, Muskelmasse +0,10), **KF 18,0 % / Fettmasse 11,95 kg / Subkutan 16,4 % / Skelettmuskel 53,0 % exakt gehalten** → null Fett dazu. Halte-Tag nach dem großen Sprung vom 22.09. (66,40 kg, Bauchumfang 84,0 cm = Allzeit-Tief) – typisches Treppenmuster. Netto seit Baseline (08.09.): **-0,90 kg / -0,6 % KF / -0,58 kg Fett**, Muskel geschützt (Skelettmuskel-% +0,4). Noch 11 Tage bis Deadline; Bauchumfang morgen früh wieder messen. _(Vorheriger Stand 22.09.: stärkster Messpunkt der Challenge – alle Werte Challenge-Tief, Bauch 84,0 cm.)_ |
 
 ---
 
