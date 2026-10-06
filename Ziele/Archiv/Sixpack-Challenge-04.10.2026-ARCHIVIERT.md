@@ -1,0 +1,157 @@
+> ⚠️ **ARCHIVIERT am 06.10.2026** — Deadline 04.10.2026 abgelaufen. Auf Wunsch verlängert → [[../Primäres-Ziel-Aktiv]] (Sixpack-Challenge Phase 2, Deadline 01.11.2026). Diese Datei bleibt als Referenz/Verlauf erhalten.
+
+# Primäres Ziel: Leicht sichtbarer Sixpack – 4-Wochen-Challenge
+
+## Zielübersicht
+| | |
+|---|---|
+| **Ziel** | Leicht sichtbarer Sixpack (klare Kontur reicht – kein Wettkampf-Shredded) |
+| **Nebenziel** | Muskeln mitnehmen (Recomp light – v.a. Rückgewinnung via Muscle Memory) |
+| **Start** | 08.09.2026 |
+| **Deadline** | 04.10.2026 |
+| **Heute** | 23.09.2026 (Tag 16) |
+| **Dauer** | 4 Wochen (26 Tage Start→Deadline) |
+| **Verbleibende Tage bis Deadline** | 11 |
+| **Status** | 🟢 Aktiv – Tag 16 (23.09.): 🔒 **KONSOLIDIERUNG AUF DEM TIEF.** Morgenmessung **66,45 kg** (+0,05 = Glykogen, Muskelmasse +0,10), **KF 18,0 % / Fettmasse 11,95 kg / Subkutan 16,4 % / Skelettmuskel 53,0 % exakt gehalten** → null Fett dazu. Halte-Tag nach dem großen Sprung vom 22.09. (66,40 kg, Bauchumfang 84,0 cm = Allzeit-Tief) – typisches Treppenmuster. Netto seit Baseline (08.09.): **-0,90 kg / -0,6 % KF / -0,58 kg Fett**, Muskel geschützt (Skelettmuskel-% +0,4). Noch 11 Tage bis Deadline; Bauchumfang morgen früh wieder messen. _(Vorheriger Stand 22.09.: stärkster Messpunkt der Challenge – alle Werte Challenge-Tief, Bauch 84,0 cm.)_ |
+
+---
+
+## Ausgangslage / Baseline (08.09.2026) ✅ erfasst
+- **Baseline-Messung erledigt (nüchtern, morgens):** **67,35 kg / 18,6 % KF / 12,53 kg Fettmasse.** Muskelmasse 52,10 kg · FFM 54,80 kg · Skelettmuskel 52,6 % · Körperwasser 58,7 % · Visceral 4 · Knochen 2,74 kg · BMR 1554 kcal · BMI 21,5 · Metab. Alter 25.
+- **Bauchumfang heute nicht gemessen** → bitte morgen früh nüchtern nachtragen (Referenz 23.07.: 85,5 cm).
+- **Rebound nach ~6 Wochen Urlaub erfreulich klein:** nur **+0,70 kg / +0,5 % KF** ggü. letztem Stand vor der Reise (28.07.: 66,65 / 18,1 %); +1,00 kg ggü. Allzeit-Tief (23.07.: 66,35 / 17,9 %).
+- **Muskelbasis komplett gehalten** (Muskelmasse +0,20, FFM +0,20 ggü. 28.07.) – ideale Grundlage für den Recomp-Anteil (Muscle Memory).
+- **Ausgangs-KF 18,6 % liegt fast genau auf dem Juli-Niveau** (~18 %), das im Plan als Voraussetzung für einen sichtbaren Sixpack in 4 Wochen definiert war.
+
+---
+
+## Was in 4 Wochen realistisch ist
+- Ein **leicht sichtbarer Sixpack** ist bei deiner Muskelbasis in 4 Wochen machbar, **wenn** die Ausgangs-KF nahe am Juli-Niveau (~18 %) liegt.
+- Zielkorridor Körperfett: **runter Richtung 14–15 %** → dort wird die obere Bauchmuskel-Reihe bei den meisten sichtbar.
+- Grobe Rechnung: ~4 Wochen × moderates Defizit (~500–650 kcal/Tag) ≈ **2–3,5 kg Fett**, plus 1–2 kg Wasser/Glykogen optisch. Das reicht erfahrungsgemäß für "leicht sichtbar".
+- **Realitäts-Check nach Baseline morgen:** Ist die Ausgangs-KF deutlich höher, justieren wir Erwartung und Intensität. Fortschritt zählt in jedem Fall.
+
+---
+
+## Strategie – 3 Hebel
+
+### 1. Ernährung (größter Hebel)
+- Defizit **~550–600 kcal/Tag** (Sichtbarkeit hat Priorität – oberes Ende für sicheren Fettabbau bis 04.10.; exakte Zahlen nach Baseline-BMR morgen)
+- **Protein ~150 g/Tag** (~2,2 g/kg – Muskelschutz, DER Recomp-Faktor, nicht verhandelbar)
+- Alkohol/Zucker stark reduziert; letzte Woche ggf. Sodium-Peaking
+- → [[../Ernährung/Ernährungsplan]]
+
+### 2. Training (Recomp-Motor)
+- **Krafttraining 4×/Woche**, Ganzkörper + **progressive Überlastung** (Reiz signalisiert "Muskel wird gebraucht" → Körper baut Fett statt Muskel ab)
+- Core 4–5×/Woche gezielt
+- Schritte 8.000–10.000+/Tag, Sporttage (Tennis/Padel) zählen voll
+- → [[../Training/Trainingsplan-Sixpack]]
+
+### 3. Recovery
+- Schlaf ≥ 7 h (Cortisol/Wasserretention)
+- Wasser 3–4 L/Tag
+
+---
+
+## Wochenziele (grob – wird nach Baseline präzisiert)
+| Woche | Zeitraum | Fokus | Erwartung |
+|-------|----------|-------|-----------|
+| 1 | 08.–14.09. | Defizit etablieren, Urlaubs-Wasser ausspülen | -1 bis -2 kg (v.a. Wasser/Glykogen) |
+| 2 | 15.–21.09. | Fettabbau auf Kurs, Training progressiv | -0,5 bis -1 kg Fett |
+| 3 | 22.–28.09. | Definition sichtbar machen, Core-Fokus | -0,5 bis -1 kg Fett |
+| 4 | 29.09.–04.10. | Peaking: Sodium/Wasser steuern, letzter Schliff | optisches Maximum |
+
+---
+
+## Fortschritt-Tracking
+- Essens- und Körperwaagen-Stats ab **08.09. täglich** posten → ich trage in `data/koerperwerte.csv` + `Körperwerte/Messungen-Tracker.md` ein und kommentiere den Trend.
+- → [[../Körperwerte/Messungen-Tracker]]
+- → [[../Fortschritt/Fortschrittsübersicht]]
+
+---
+
+## Coaching-Notizen
+### 07.09.2026 – Challenge angelegt
+- Neues Ziel gestartet, altes Ziel (Sixpack 30.07.) archiviert → [[Archiv/Sixpack-30.07.2026-ARCHIVIERT]].
+- User zurück aus Urlaub, hoch motiviert. Start morgen (08.09.), Deadline 04.10.
+- **To-do morgen:** Baseline-Messung → dann Kalorien-/Proteinziele und Wochenziele exakt herleiten.
+
+### 07.09.2026 – Recomp-Entscheidung
+- User will auch Muskeln aufbauen, nicht nur abnehmen. Entscheidung: **"Sixpack zuerst"** – Fettabbau bleibt Motor, Muskeln werden mitgenommen (v.a. Rückgewinnung via Muscle Memory nach 6 Wochen Pause).
+- Anpassung: Defizit moderater (~450–550 statt bis 650 kcal), Kraft 4×/Woche mit progressiver Überlastung, Protein hoch (~2,2 g/kg).
+- Ehrlich kommuniziert: substanzieller **Neu**aufbau in 4 Wochen im Defizit unrealistisch; Rückgewinnung + vollere Muskeln realistisch.
+
+### 07.09.2026 – Defizit festgezogen
+- User-Priorität geschärft: **Sixpack muss auf jeden Fall sichtbar sein.** Sichtbarkeit schlägt maximale Muskel-Mitnahme.
+- Defizit fest auf **-550 bis -600 kcal/Tag** gesetzt (oberes Ende für sicheren Fettabbau bis 04.10.). Muskelschutz weiter über Protein ~150 g + Kraft 4×/Woche.
+- **Morgen nach Baseline:** ehrliche Ampel-Prognose (grün/gelb/rot) ob 4 Wochen bis ~14–15 % KF reichen; bei rot Verlängerung um 1–2 Wochen anbieten.
+
+### 08.09.2026 – Baseline erfasst & Ampel-Prognose 🟢/🟡
+- **Werte:** 67,35 kg / 18,6 % KF / 12,53 kg Fett. Muskelbasis top gehalten (Muskelmasse 52,10 / FFM 54,80), BMR 1554 kcal. Details → [[../Körperwerte/Messungen-Tracker]].
+- **Prognose:** **🟢/🟡** – ein *leicht sichtbarer* Sixpack (obere Bauchreihe, klare Kontur) bis 04.10. ist bei konsequenter Umsetzung **realistisch**. Grund: Ausgangs-KF 18,6 % liegt auf dem angepeilten Juli-Niveau und die Muskelbasis ist voll da.
+- **Was nötig ist:** Fettmasse von 12,53 kg → ~9,5–10 kg (≈14–15 % KF) = **~2,5–3 kg reiner Fettabbau in 4 Wochen** (≈0,6–0,75 kg/Woche). Das ist das **obere, aber machbare Ende** – exakt der im Plan kalkulierte Korridor. Kein Grund für 🔴, keine Verlängerung nötig.
+- **Konkrete Tagesziele (aus Baseline-BMR 1554):**
+  - **Kalorien:** grob **~1900–2000 kcal/Tag** an Trainingstagen bzw. **~1750–1850 kcal** an Ruhetagen (TDEE ≈ BMR × ~1,5–1,6 minus 550–600 kcal Defizit) – wird nach ersten Aktivitätsdaten dieser Woche feinjustiert.
+  - **Protein:** **~150 g/Tag** (≈2,2 g/kg) – nicht verhandelbar, DER Muskelschutz-/Recomp-Faktor.
+  - **Wasser:** 3–4 L/Tag · **Salz** bewusst niedrig (Urlaubs-Retention ausspülen) · Schlaf ≥7 h.
+- **Woche 1 (08.–14.09.) Ziel:** Defizit sauber etablieren, Urlaubs-Wasser ausspülen → erwartbar **-1 bis -2 kg** (v.a. Wasser/Glykogen, wie in der letzten Phase Tag 1–5).
+- **To-do Konstantinos:** ab heute täglich Waage + Essen posten; **morgen Bauchumfang nüchtern messen** (fehlt in der Baseline).
+
+### 10.09.2026 – Tag 3: Auftakt-Messung 🎯 auf Kurs
+- **Werte:** 67.00 kg / 18.3% KF / 12.26 kg Fett – in 2 Tagen **-0.35 kg, davon -0.27 kg reines Fett (77%)**. Details & volle Analyse → [[../Körperwerte/Messungen-Tracker]].
+- **Kernbefund:** Werte stehen Ziffer für Ziffer wieder auf dem **Juli-Allzeit-Tief** (= 18./22.07.) → der komplette +0.70-kg-Urlaubs-Rebound ist nach nur 2 Challenge-Tagen ausgespült. Muskelbasis voll geschützt (FFM/Muskel -0.10 = Wasser, da Körperwasser +0.2 & Skelettmuskel-% +0.1 gleichzeitig steigen). Visceral 4 stabil.
+- **Prognose bestätigt 🟢/🟡:** Startbasis für den eigentlichen Fettabbau ist jetzt 12.26 kg. Bis ~9.5–10 kg (≈14–15% KF) noch **~2.3–2.8 kg reiner Fettabbau in 24 Tagen** (≈0.7 kg/Woche) – am oberen, aber machbaren Ende.
+- **Realitäts-Hinweis:** Der übliche „Woche-1-Wasserbonus" ist bei dir schon eingelöst (Rebound war klein). Ab jetzt ruhigere, **fettbasierte** Rückgänge erwarten – keine großen Waage-Sprünge mehr. Genau das ist gewollt.
+- **Radler (09.09.):** Trotz Radler heute neues Tief → war Wasser, kein Fett. In der Challenge weiter trocken (max. 1×/Woche Ausnahme).
+- **⚠️ Wichtigste offene Baustelle – Bauchumfang:** fehlt seit der Baseline (08.09.). Das ist der ehrlichste Sixpack-Indikator → **muss morgen früh nüchtern gemessen werden** (Ref. 23.07.: 85.5 cm).
+- **To-do Konstantinos (Tag 3):** Bauchumfang nachmessen · Protein-Block zum Frühstück (nicht nur Kaffee) · Protein 150 g+ halten · 3.5–4 L Wasser, Salz niedrig · Kraft progressiv laut Plan.
+
+### 12.09.2026 – Tag 5: Ausflugstag sauber gecuttet 🥾
+- **Tag 4 (11.09.):** Riesiger Aktivitätstag (Move 1025 / 342 %, Climbing = Ganzkörper-Kraft), Restaurant-Schnitzel sauber ins Defizit integriert (1.909 kcal / 197 g Protein). Wiegen ausgefallen. Details → [[../Ernährung/Essenslog/2026-09-11]].
+- **Tag 5 (12.09.):** Ausflug Fränkische Schweiz (Muggendorf). **1.907 kcal / 158 g Protein / 50 g Fett / 137 g Carbs** (inkl. 2 Weizen), dazu Hiking + **14.538 Schritte** (höchster Schritt-Tag) → Move 722 (241 %). Netto-Defizit ~400–500 kcal, weiter im Zielkorridor. Details → [[../Ernährung/Essenslog/2026-09-12]].
+- ✅ **Fortschritt bei der To-do:** Protein-Frühstück (61 g) endlich umgesetzt – „nicht nur Kaffee" erledigt.
+- 🟠 **Alkohol im Blick:** 2 Weizen heute (380 kcal) = 2. Alkohol-Tag der Woche (nach Radler 09.09.). Heute im Defizit aufgefangen, aber Regel ist max. 1×/Woche → ab jetzt straffen (max. 1×/Woche & max. 1 Bier), Schlusswoche (29.09.–04.10.) komplett trocken.
+- ⚠️ **Waage-Lücke:** Seit dem 10.09. (Challenge-Tief 67,00 kg) kein neuer Wert (11.+12.09. nicht gewogen). Trend nicht verlieren → **morgen früh nüchtern wiegen**.
+- 🔴 **Bauchumfang fehlt seit Baseline (5 Tage)** – ehrlichster Sixpack-Indikator, kritischste offene Aufgabe. **Morgen früh nüchtern messen** (Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
+- **To-do Konstantinos (Tag 6):** Wiegen ✅ · **Bauchumfang messen** (überfällig) · Protein 150 g+ · Wasser 3,5–4 L, Salz niedrig · trocken bleiben · Kraft-Unterkörper/Core laut Plan.
+
+### 14.09.2026 – Tag 7: Waage zurück 🎯 neues Challenge-Tief
+- **Werte (Morgenmessung):** **66.95 kg / 18.3% KF / 12.25 kg Fett** – erstmals in der Challenge unter 67 kg, -0.05 kg ggü. 10.09. Skelettmuskel 52.8% & Körperwasser 59.0% beide auf **Höchststand**, Muskelmasse/FFM voll gehalten → die -0.05 kg sind Wasser, Muskel bombenfest. Details → [[../Körperwerte/Messungen-Tracker]].
+- **Einordnung:** Challenge-Tief, aber noch **0.60 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)** – der eigentliche Fettabbau steht noch bevor. Von 12.25 kg Fettmasse noch ~2.3–2.8 kg in 20 Tagen (≈0.8 kg/Woche) → 🟢/🟡, ambitioniert am oberen Ende.
+- **Ernährung (14.09.):** **1.916 kcal / 149 g Protein / 72 g Fett / 163 g Carbs.** Protein punktgenau, aber 🟠 **Fett fast am Limit** (Rinderpatty + panierte Iglo-Nuggets mittags = 45 g Fett) → nächstes Mal magere Mittagsprotein-Quelle. Details → [[../Ernährung/Essenslog/2026-09-14]].
+- ✅ **Jakobsgold-Bier alkoholfrei (bestätigt):** kein Alkohol-Tag – im Cut die smarte „Bier"-Wahl. Als Standard-Ersatz merken, v. a. für die Schlusswoche.
+- 🎾 **Bewegung (14.09.):** Tennis 48 min (339 kcal), Move 516/300 (172 %), Exercise 57 min – aber nur **5.679 Schritte** (niedriger Schritt-Tag). Netto-Defizit heute nur **~250–350 kcal** (unter Ziel ~500–650) → an Nicht-Wander-Tagen Intake straffen. (13.09. nicht getrackt.)
+- 🔴 **Bauchumfang weiter offen (7 Tage seit Baseline)** – ehrlichster Sixpack-Indikator, jetzt die #1-Aufgabe. **Morgen früh nüchtern messen** (Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
+- **To-do Konstantinos (Tag 8):** **Bauchumfang messen** (überfällig) · Wiegen · Aktivitätsdaten schicken · Fett bewusst <79 g (magere Mittagsprotein statt Nuggets) · Protein 150 g+ · Wasser 3,5–4 L.
+
+### 15.09.2026 – Tag 8: 🎯 neues Challenge-Tief auf ganzer Linie, Fettabbau läuft an
+- **Werte (Morgenmessung):** **66.70 kg / 18.2% KF / 12.14 kg Fett** – -0.25 kg ggü. 14.09. (66.95→66.70), davon **-0.11 kg reine Fettmasse (44%)**. Gewicht, KF (18.2), Subkutan (16.5) und Fettmasse alle auf **neuem Challenge-Tief**; Skelettmuskel 52.9% & Körperwasser 59.1% auf **neuem Challenge-Höchststand** → die -0.20 kg Muskelmasse/-0.10 kg FFM sind Wasser/Messfolge der Hydration, **kein** Muskelverlust. Visceral 4 / Protein 18.6 stabil. Details → [[../Körperwerte/Messungen-Tracker]].
+- **Einordnung:** Nur noch **0.35 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)** und KF nur **0.3% über dem Allzeit-Tief (17.9%)**. Der „Wasser-Bonus" der Woche 1 ist eingelöst – ab jetzt der eigentliche, fettbasierte Rückgang. Genau nach Plan (Woche 2: -0.5 bis -1 kg Fett).
+- **Restweg zum Sixpack:** Von 12.14 kg Fettmasse noch **~2.1–2.6 kg Fett in 19 Tagen** (≈0.8–0.95 kg/Woche) bis ~14–15% KF (sichtbare obere Bauchreihe). Ambitioniert am oberen Ende → 🟢/🟡. **Jetzt zählt jeder Defizit-Tag.**
+- 🔴 **Bauchumfang jetzt 8 Tage offen** – der ehrlichste Sixpack-Indikator. Waage läuft top, aber die Zahl, die das eigentliche Ziel misst, fehlt weiter. **Muss jetzt gemessen werden** (morgens nüchtern, Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
+- **To-do Konstantinos (Tag 9):** 🔴 **Bauchumfang messen** (jetzt wirklich – #1) · Aktivitäts- & Essensdaten für heute (15.09.) schicken → dann berechne ich das Netto-Defizit · Protein 150 g+ · Fett <79 g · Wasser 3,5–4 L, Salz niedrig · Kraft progressiv laut Plan.
+
+### 16.09.2026 – Tag 9: 💧 Wasser-Uptick nach Tennis + Salz-Mittag (kein Fett)
+- **Werte (Morgenmessung):** **66.85 kg / 18.2% KF / 12.17 kg Fett** – +0.15 kg ggü. 15.09. (66.70→66.85). **Reiner Wasser-Uptick, kein Fett:** Der Zuwachs sitzt in FFM (+0.10 = 54.70) & Muskelmasse (+0.10 = 51.90) = Glykogen/Wasser aus der Tennis-Regeneration (gestern 2h) + Natrium vom frittierten Mittag (103 g Fett). KF 18.2 / Subkutan 16.5 / Körperwasser 59.1 / Skelettmuskel 52.9 stehen **alle still** → kein echter Fettzuwachs. Visceral 4 / Protein 18.6 stabil. Details → [[../Körperwerte/Messungen-Tracker]].
+- **Energiebilanz bestätigt Wasser:** 15.09. war ~330 kcal Defizit (2.145 kcal vs. TDEE ~2.475) – Fett anzusetzen war physikalisch ausgeschlossen. Das Riesen-Tennistraining hat den fettigen Mittag überkompensiert.
+- **Muster bekannt:** Padel-/Tennis-Tag → Folgetag Wasser-Uptick → 1–2 Tage später Whoosh (exakt wie 15.→16.07. & 18.→19.07.). Whoosh folgt bei Salz niedrig + Wasser hoch.
+- **Trend intakt:** Seit Baseline (08.09.) **-0.50 kg / -0.4% KF / -0.36 kg Fett**, Skelettmuskel-% +0.3 → Muskel geschützt. Noch 0.50 kg über Juli-Allzeit-Tief (66.35). Ein sauberer Salz-armer Tag stößt darunter.
+- 🔴 **Bauchumfang jetzt 9 Tage offen** – heute doppelt wichtig: Ein stabiler Umfang beweist, dass der Uptick reines Wasser ist. **Muss gemessen werden** (morgens nüchtern, Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
+- **To-do Konstantinos (Tag 9 heute):** 🔴 **Bauchumfang messen** (überfällig – #1) · Salz konsequent niedrig (kein Frittiertes) · Wasser 3,5–4 L (Entwässerung) · Protein zurück auf 150 g+ (gestern nur 126 g) · Fett <79 g (mager mittags) · Kraft progressiv laut Plan · Essens- & Aktivitätsdaten schicken.
+
+### 17.09.2026 – Tag 10: 🎯 Whoosh startet, aber ein „Genuss-Tag" (Cheeseburger + echtes Bier)
+- **Werte (Morgenmessung):** **66.75 kg / 18.2% KF / 12.15 kg Fett** – -0.10 kg ggü. 16.09. (66.85→66.75). **Der Whoosh setzt ein:** Der Rückgang sitzt exakt in der FFM (-0.10 = 54.60), genau dort, wo gestern der Tennis-Uptick (+0.10) reinlief → reines Wasser raus. Muskelmasse voll gehalten (51.90), Protein-% neuer Höchststand (18.7%), KF/Subkutan/Körperwasser halten die Bestwerte → kein Muskelverlust. Noch 0.40 kg über dem Juli-Allzeit-Tief (66.35). Details → [[../Körperwerte/Messungen-Tracker]].
+- **Ernährung (17.09.):** **1.989 kcal / 153 g Protein / 88 g Fett / 115 g Carbs / ~15 g Alkohol.** ✅ Protein punktgenau. 🟠 **Fett über Limit (88 g)** – Treiber Lachs 300 g (39 g Omega-3-Fett) + Cheeseburger + Cappuccino-Vollmilch. 🟠 **Alkohol-Tag:** 1 echtes Pils 4,9 % (nicht das AF Jakobsgold) → erstes echtes Bier der Woche, Budget aufgebraucht. Details → [[../Ernährung/Essenslog/2026-09-17]].
+- ⚠️ **Salz (Burger) + Alkohol (Pils) = Gegenteil vom Whoosh-Profil:** kann den gerade gestarteten Whoosh morgen kurz ausbremsen (evtl. kleiner Wasser-Rebound = kein Fett). Deshalb morgen Salz niedrig + Wasser hoch besonders wichtig.
+- 🏃 **Bewegung (17.09., nachgereicht):** Outdoor Run 23:46 (307 aktive kcal, 4,95 km, Pace 4'48"/km, **Avg HF 177 – intensivster Lauf der Challenge**), Move 687/300 (229 %), Exercise 41 min. Starker Cardio-Reiz, aber kurzes Volumen. → **Netto-Defizit nur ~247 kcal** (TDEE ~2.236, unter Ziel 500–650): der „Genuss-Tag" (Cheeseburger + Pils + fetter Lachs) frisst das Defizit, exakt wie am 15.09.
+- 🔴 **Bauchumfang jetzt 10 Tage offen** – der ehrlichste Sixpack-Indikator, weiter #1-Aufgabe. **Morgen früh nüchtern messen** (Nabelhöhe, entspannt; Ref. 23.07.: 85,5 cm).
+- **To-do Konstantinos (Tag 11):** 🔴 **Bauchumfang messen** (überfällig – #1) · Aktivitätsdaten von heute (17.09.) nachreichen · morgen Salz niedrig + Wasser 3,5–4 L (Burger-/Bier-Wasser ausspülen) · Protein 150 g+ · Fett <79 g (kleinere Lachs-Portion / mager mittags) · **trocken bleiben** (Wochen-Budget aufgebraucht) · Kraft progressiv laut Plan.
+
+### 20.09.2026 – Tag 13: Wiegen heute vergessen; Essen/Training top; Coach-Korrektur zum Bauchumfang
+- **Datenlage:** Wiegen heute vergessen (kein Körperwert erfunden), aber **Essen & Training per Screenshot getrackt** (Zwischenstand 18:51, Dinner offen). Details → [[../Tageslog/2026-09-20]] · [[../Ernährung/Essenslog/2026-09-20]].
+- 🟢 **Ernährung/Training heute mustergültig:** 1.051 kcal bis 18:51, **Protein 150 g schon vor dem Abendessen erreicht**, Fett nur 35 g, Carbs 35 g, 0 g Alkohol – der **Hühnerfilet-Mittag (115 g P / 5 g F)** ist genau der magere Fix nach dem Lachs vom 17.09. Großer **Tennistag** (523 kcal Session, Exercise 123 min, Move 642). → Mit clean Dinner ~500–600 kcal landet der Tag bei **Netto-Defizit ~590 kcal** (Korridor). Empfehlung: Dinner mager/salzarm, nicht auslassen.
+- ✅ **Ausgelassene Morgenwaage = kein Rückschritt:** Tagesbezogen irrelevant, der Wochen-Trend entscheidet. Letzter Wert 18.09.: 66,60 kg / 18,1 % KF / 12,05 kg Fett (Challenge-Tief); seit Baseline -0,75 kg / -0,5 % KF / -0,48 kg Fett, Muskel geschützt. 19.+20.09. nicht gewogen – Trendlücke, aber der Whoosh lief zuletzt sauber.
+- ✅ **KORREKTUR Bauchumfang (Coach-Fehler):** Ich hatte fälschlich „nie gemessen / 13 Tage offen" geschrieben. Falsch – **Konstantinos hat am 18.09. gemessen: 85,5 cm** (der Wert lag auf einem anderen Bearbeitungs-Branch, `claude/bauchumfang-measurement-sigs84`, den dieser Arbeitsstand nicht enthielt; jetzt zusammengeführt). Entschuldigung für das wiederholte Nachhaken.
+- 🎯 **Der 18.09.-Wert ist stark:** **85,5 cm = exakt das Juli-Allzeit-Tief (23.07.)**, 86er-Knick durchbrochen – und das bei 66,60 kg (0,25 kg **über** dem Juli-Tief-Gewicht) → leicht **bessere Rekomposition** als im Juli. Das Kernziel (Sixpack-Indikator) steht damit gut.
+- 🚀 **NEUE MESSUNG heute (20.09.): Bauchumfang 85,0 cm = NEUES ALLZEIT-TIEF.** -0,5 cm ggü. 18.09. (85,5) und erstmals **unter** dem Juli-Allzeit-Tief (23.07.: 85,5). Zwei Datenpunkte in Serie (85,5 → 85,0) zeigen die Richtung klar nach unten – genau der Verlauf, den wir für die sichtbare Definition brauchen. Stark, dass du trotz Ausgehen abends gemessen hast! Gewicht/KF fehlen heute (nicht gewogen) → morgen früh nüchtern für die volle Zeile.
+- **To-do Konstantinos (Tag 13/14):** Dinner mager/salzarm landen (nicht auslassen) · beim Ausgehen max. 1 Bier (idealerweise alkoholfrei) · morgen früh wieder wiegen (volle Bioimpedanz-Zeile) · Bauchumfang gern weiter regelmäßig (läuft ja jetzt) · Protein 150 g+ · Fett <79 g · Wasser 3,5–4 L, Salz niedrig.
