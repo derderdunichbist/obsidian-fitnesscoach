@@ -1,65 +1,68 @@
-# Fortschrittsübersicht – Leicht sichtbarer Sixpack bis 04.10.2026
+# Fortschrittsübersicht – Leicht sichtbarer Sixpack bis 01.11.2026
 
-> 📊 **Interaktives Dashboard:** [[dashboard.html]] — Verlaufsgrafiken (Gewicht, Körperfett & Subkutanfett, Fettmasse, Bauchumfang, Muskelschutz) mit Ziel-Korridoren. Speist sich aus `[[../data/koerperwerte.csv]]`; im Browser öffnen.
+> 📊 **Interaktives Dashboard:** [[dashboard.html]] — Verlaufsgrafiken (Gewicht, Körperfett & Subkutanfett, Fettmasse, Bauchumfang, Muskelschutz) mit Ziel-Korridoren für 01.11. Speist sich aus `[[../data/koerperwerte.csv]]`; im Browser öffnen.
 
 ## Zeitstrahl
 ```
-08.09. ━━━━━━━━━━━━━━━━━━━━━━━━━━ 04.10.
-BASELINE               ▲ heute 23.09.   ZIEL
-  |←— 15 Tage —→ (Tag 16)|←— 11 Tage —→|
-  KF: 18.6%           18.0%      Ziel: 16–17% (Kontur)
-  Gew: 67.35 kg      66.45 kg    Ziel: 65–66 kg
-  Fett: 12.53 kg     11.95 kg    Ziel: 11–11,5 kg
-  Bauch: (85,5)      84,0 cm*    Ziel: 83–85 cm ✅   (*Stand 22.09.)
+08.09. ━━━━━━━━ 04.10. ━━━━━━━━━━━━━━━━━━━━━━━━━━ 01.11.
+BASELINE     Ende Phase 1   ▲ heute 08.10.        ZIEL
+  |←—— Phase 1 ——→|←— Phase 2: Tag 4 —→|←— 24 Tage —→|
+  KF: 18.6%                    17.6%      Ziel: ≤ 16,5 %
+  Gew: 67.35 kg                65.85 kg   Ziel: 65,0–65,5 kg
+  Fett: 12.53 kg               11.59 kg   Ziel: ~10,5–11 kg
+  Bauch: (85,5)                84,0 cm*   Ziel: ≤ 82 cm      (*Stand 22.09.)
 ```
 
-## Status-Ampel (Stand: 23.09.2026 – Tag 16, noch 11 Tage bis Deadline 04.10.)
+## Status-Ampel (Stand: 08.10.2026 – Phase 2 Tag 4, noch 24 Tage bis 01.11.)
 | Bereich | Status | Kommentar |
 |---------|--------|-----------|
-| Körperfett | 🟢 18,0 % | Challenge-Tief **gehalten**, -0,6 % seit Baseline; 0,1 % über dem Allzeit-Tief (17,9 %) |
-| Gewicht | 🟢 66,45 kg | +0,05 kg ggü. gestern = Messrauschen/Glykogen (Muskelmasse +0,10). -0,90 kg seit Baseline; 0,10 kg über dem Juli-Allzeit-Tief (66,35) |
-| Fettmasse | 🟢 11,95 kg | Unter 12 kg **gehalten**; -0,58 kg echtes Fett seit Baseline |
-| Muskelschutz | 🟢 | Skelettmuskel **53,0 %** (Höchststand gehalten), Protein 18,7 %, Muskelmasse 51,80 (+0,10), Körperwasser 59,2 % |
-| Bauchumfang | 🟢 84,0 cm | Stand 22.09. (Allzeit-Tief, Ziel-Zone erreicht) – heute nicht gemessen → morgen früh nachmessen |
-| Training | 🟢 | 24.09.: Tennis 59 min (371 kcal, Ø HF 116), Move 869 kcal (290 %), Exercise 86 min, Verbrauch 2.575 kcal · 23.09.: Tennis 70 min (503 kcal) + 12.115 Schritte · Ringe Mo–Do 4/4 geschlossen |
-| Ernährung | 🟢 | 24.09.: 2.086 kcal, Protein 164 g ✅, Defizit ~500 kcal ✅ (Zero-Getränke umgesetzt); Fett 97 g 🟠 → Lachs 200 g statt 300 g · 23.09.: 2.264 kcal / Defizit ~300 |
-| Konsequenz | 🟢 | Halte-Tag nach großem Sprung = normales Treppenmuster (wie 16.→17.07.); Kurs unverändert |
+| Körperfett | 🟢 17,6 % | **Allzeit-Tief** (vorher 17,9 % am 23.07.); -1,0 % seit Baseline; noch -1,1 % bis Ziel |
+| Gewicht | 🟢 65,85 kg | **Allzeit-Tief**, erstmals unter 66 kg; -1,50 kg seit Baseline; Tempo -0,28 kg/Woche = im Korridor. Teil davon Glykogen nach 1:47 h Tennis → kleiner Rebound normal |
+| Fettmasse | 🟢 11,59 kg | **Allzeit-Tief**; -0,94 kg echtes Fett seit Baseline |
+| Subkutanfett | 🟢 16,0 % | **Allzeit-Tief** (-0,9 % seit Baseline) |
+| Muskelschutz | 🟢 | Skelettmuskel **53,3 %** (Höchststand), Körperwasser 59,5 %; Muskelmasse 51,50 (-0,30 = Glykogen nach Tennis, nächste Messung prüfen) |
+| Bauchumfang | 🟠 84,0 cm | Letzte Messung 22.09. → **messen!** (Ziel ≤ 82 cm) |
+| Training | 🟢 | 07.10.: Tennis 1:47 h, Move 1.186 kcal (Rekord) · 06.10.: Gym + Tennis · Kraft 3×/Woche fix |
+| Ernährung | 🟢 | 07.10.: 1.972 kcal, Protein 178 g, Fett 62 g, 0 Alkohol |
 
 ---
 
-## Wochenziele
+## Wochenziele Phase 2
 | Woche | Zeitraum | Fokus | Erwartung | Status |
 |-------|----------|-------|-----------|--------|
-| 1 | 08.–14.09. | Defizit etablieren, Urlaubs-Wasser ausspülen | -1 bis -2 kg (v.a. Wasser) | ✅ Challenge-Tief 66,95 erreicht |
-| 2 | 15.–21.09. | Fettabbau auf Kurs, Training progressiv | -0,5 bis -1 kg Fett | ✅ erfüllt (Whoosh trug durch; Bauchumfang von 85,5 → 84,0; Protein-Rekord 206 g) |
-| 3 | 22.–28.09. | Definition sichtbar machen, Core-Fokus | -0,5 bis -1 kg Fett | 🟢 stark gestartet (Tag 15: alle Werte neues Challenge-Tief; Tag 16: Tief gehalten) |
-| 4 | 29.09.–04.10. | Peaking: Sodium/Wasser steuern, letzter Schliff | optisches Maximum | ⏳ offen |
+| 1 | 05.–11.10. | Neustart: Messroutine, 3× Kraft, frisch kochen | Bauch ≤ 83,5 cm | 🟢 stark: 65,85 kg / 17,6 % (Allzeit-Tiefs) – Bauch noch messen |
+| 2 | 12.–18.10. | Defizit stabil, Protein jeden Tag 150 g+ | ~65,9 kg / Bauch ≤ 83 cm | ⏳ (Gewichtsziel schon vorab erreicht) |
+| 3 | 19.–25.10. | Definition, Core-Fokus, 0 Fertigprodukte | ~65,6 kg / Bauch ≤ 82,5 cm | ⏳ |
+| 4 | 26.10.–01.11. | Peaking: salzarm, Wasser hoch, kein Alkohol | ≤ 82 cm / Fotos | ⏳ |
+
+> Phase 1 (08.09.–04.10.): -0,90 kg / -0,6 % KF / Bauch 84,0 cm → archiviert: [[../Ziele/Archiv/Sixpack-Challenge-04.10.2026-ARCHIVIERT]]
 
 ---
 
-## Restweg zum Ziel (Stand Tag 16)
-- **Fettmasse:** 11,95 kg → Ziel ~9,5–10 kg = noch **~1,95–2,45 kg reiner Fettabbau in 11 Tagen** (optimistisch, außer Reichweite). **Realistisch (11–11,5 kg / KF ~17–17,5 %):** noch ~0,45–0,95 kg Fett ≈ 400–600 kcal Defizit/Tag → **auf Kurs**.
-- **Einordnung:** Sehr ambitioniert → das *optimistische* Ziel (KF 14–15 % / Fettmasse 9,5–10 kg) bleibt in 12 Tagen außer Reichweite; **realistisch und auf Kurs** ist die sichtbare Kontur bei ~17 % KF. Genau dorthin läuft der Trend: KF 18,0 %, Bauchumfang bereits in der Ziel-Zone (83–85 cm).
-- **Schwelle:** Nach dem Sprung am 22.09. (66,40) hält die Waage am 23.09. mit 66,45 kg das Tief (Halte-Tag, KF/Fettmasse unverändert) – 0,10 kg über dem Juli-Allzeit-Tief (66,35 / 17,9 %). Der nächste Whoosh knackt es. Bauchumfang steht mit **84,0 cm erstmals unter 85** – nächstes Ziel: Richtung 83 cm.
+## Restweg zum Ziel (Stand 08.10., noch 24 Tage)
+- **Gewicht:** 65,85 → 65,0–65,5 kg = noch **-0,35 bis -0,85 kg** → gut erreichbar (~0,1–0,25 kg/Woche reichen).
+- **Körperfett:** 17,6 → ≤ 16,5 % = noch **-1,1 %** ≈ **-0,8 kg Fett** ≈ ~330 kcal reines Fett-Defizit/Tag → ambitioniert, aber machbar mit 3× Kraft + Defizit 450–600 kcal.
+- **Bauchumfang:** 84,0 → ≤ 82 cm = noch **-2 cm** → aktuellen Wert messen, dann Wochen-Pace ableiten.
+- **Einordnung:** Die Waage zeigt nach dem Rekord-Tennistag einen glykogen-leichten Wert – bei der nächsten Messung sind +0,1–0,3 kg Rebound normal und kein Rückschritt. Maßgeblich ist der Trend über Mo/Mi/Fr.
 
 ---
 
 ## Coaching-Analyse
 
 ### Was gut läuft
-- **Muskelbasis top gehalten:** Skelettmuskel-Anteil steigt trotz Fettabbau (52,6 → **53,0 %**, Höchststand), Körperwasser auf Höchststand (59,3 %) → absolute Muskelmasse-Dips sind Wasser, kein Verlust.
-- **Fettbasierter Trend:** **-0,58 kg echtes Fett** seit Baseline (61 % des Gesamtverlusts von -0,95 kg); Fettmasse erstmals unter 12 kg.
-- **Rekomposition sichtbar:** Bei quasi gleichem Gewicht wie am Juli-Allzeit-Tief (66,40 vs 66,35 kg) ist der Bauchumfang **1,5 cm kleiner** (84,0 vs 85,5 cm) – die beste Komposition bisher.
-- **Whoosh robust:** kein Wasser-Uptick trotz großem Doppel-Session-Tag (21.09.) – der Trend trägt.
-- **Visceral 4 stabil**, Metabolisches Alter 25 – gesunde Werte.
+- **Vier Allzeit-Tiefs gleichzeitig:** Gewicht 65,85 / KF 17,6 % / Fettmasse 11,59 kg / Subkutan 16,0 %.
+- **Fettbasierter Trend:** **-0,94 kg echtes Fett** seit Baseline (63 % des Gesamtverlusts von -1,50 kg).
+- **Muskelschutz:** Skelettmuskel-Anteil 52,6 → **53,3 %** (Höchststand), Körperwasser 59,5 %.
+- **Visceral 4 stabil**, BMI 21,0 – gesunde Werte.
 
-### Haupt-Hebel für die nächsten 11 Tage
-1. **Defizit im Korridor 600–800 kcal** – an Doppel-Trainingstagen (wie 21.09.) nicht zu groß werden lassen: +200–300 kcal saubere Carbs für Regeneration
-2. **Protein 150 g+/Tag** (21.09. waren es 206 g – Vorbild; Muskelschutz nicht verhandelbar)
-3. **Fett bewusst <79 g** (magere Mittagsprotein / kleinere Portionen fetter Fische)
-4. **Kraft 4×/Woche progressiv + täglich Core**
-5. **Wasser 3,5–4 L, Salz niedrig, Schlaf ≥7 h**; Schlusswoche (29.09.–04.10.) komplett trocken
+### Haupt-Hebel für die nächsten 24 Tage
+1. **Krafttraining 3×/Woche fix** – größter Unterschied zu Phase 1
+2. **Protein 150 g+/Tag**, Fett < 70 g
+3. **Defizit 450–600 kcal** – an großen Tennis-Tagen Carbs nachlegen statt Defizit ausufern lassen
+4. **Fertigprodukte max. 1×/Woche**, Alkohol max. 1×/Woche
+5. **Wasser 3–4 L, Schlaf ≥ 7 h**
 
 ### Wichtigste offene Aufgabe
-- ✅ **Bauchumfang wird wieder getrackt** (20.09.: 85,0 → 22.09.: 84,0 cm) – dranbleiben: morgens nüchtern, Nabelhöhe, entspannt. Der ehrlichste Sixpack-Indikator liefert gerade am stärksten.
-- 📊 **Tägliche Essens- & Aktivitätsdaten** posten → Netto-Defizit berechnen und Kurs feinjustieren.
+- 📏 **Bauchumfang messen** (letzter Wert 22.09.) – danach jeden Montag.
+- ⚖️ **Waage Mo/Mi/Fr nüchtern** – keine 15-Tage-Lücken mehr.
+- 📸 Fotos zum Vergleich mit 08.09.
