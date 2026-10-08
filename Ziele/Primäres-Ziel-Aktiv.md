@@ -8,16 +8,16 @@
 | **Start Phase 1** | 08.09.2026 (Deadline 04.10. → archiviert: [[Archiv/Sixpack-Challenge-04.10.2026-ARCHIVIERT]]) |
 | **Start Phase 2** | 05.10.2026 |
 | **Deadline** | **01.11.2026** (Sonntag) |
-| **Heute** | 06.10.2026 (Phase 2, Tag 2) |
-| **Verbleibende Tage bis Deadline** | **26** |
-| **Status** | 🟢 Aktiv – verlängert am 06.10. Starker Auftakt: 195 g Protein, Gym (Kraft + Lauf) + Tennis, Move 827 kcal, 8.805 Schritte. **Offen: Abschluss-Messung Phase 1** (Gewicht/KF/Bauch nüchtern am 07.10.) + Fotos. |
+| **Heute** | 08.10.2026 (Phase 2, Tag 4) |
+| **Verbleibende Tage bis Deadline** | **24** |
+| **Status** | 🟢 Aktiv – auf Kurs. **08.10.: 65,85 kg / KF 17,6 % / Fettmasse 11,59 kg / Subkutan 16,0 % = Allzeit-Tiefs**, Skelettmuskel 53,3 % (Höchststand). Offen: Bauchumfang messen + Fotos. |
 
 ---
 
 ## Bilanz Phase 1 (08.09.–04.10.)
 | Metrik | Baseline 08.09. | Letzter Stand | Δ |
 |--------|-----------------|---------------|---|
-| Gewicht | 67,35 kg | 66,45 kg (23.09.) | **-0,90 kg** |
+| Gewicht | 67,35 kg | 66,45 kg (23.09.) → **65,85 kg (08.10.)** | **-0,90 kg** (→ -1,50 kg) |
 | Körperfett | 18,6 % | 18,0 % (23.09.) | **-0,6 %** |
 | Fettmasse | 12,53 kg | 11,95 kg (23.09.) | **-0,58 kg** |
 | Bauchumfang | 85,5 cm (18.09.) | **84,0 cm (22.09.)** | **-1,5 cm** (Allzeit-Tief) |
@@ -25,7 +25,7 @@
 
 - 🟢 Richtung stimmt, Muskel voll gehalten, Bauchumfang auf Allzeit-Tief.
 - 🟠 Tempo langsamer als geplant (-0,6 kg Fett statt -2 bis -3 kg) → Hauptgründe: Messlücke ab 24.09., Fertigprodukte/Salz an einzelnen Tagen, Protein schwankend, kaum Krafttraining.
-- ⏳ Messwerte 24.09.–04.10. fehlen → Abschluss-Messung am 07.10. nachholen.
+- ✅ Abschluss-Messung nachgeholt am 08.10.: 65,85 kg / 17,6 % KF / 11,59 kg Fett (Details → Messungen-Tracker).
 
 ---
 
