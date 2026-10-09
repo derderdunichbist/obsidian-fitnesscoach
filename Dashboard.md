@@ -1,20 +1,22 @@
 # Fitness Coach Dashboard – Kosta
 
 ## Primäres Ziel
-> **Sichtbarer Sixpack bis 30.07.2026 – Tag 17, noch 2 Tage** (Deadline verlängert von 28.07., Abflug erst 30.07.)
-> Stand: -1.50 kg / -0.9% KF / -1.5 cm Bauch. Endspurt: Wasser ausspülen, zurück aufs Tief. 🏖️
+> **Leicht sichtbarer Sixpack bis 01.11.2026 – Phase 2, Tag 5, noch 23 Tage**
+> Stand 09.10.: Allzeit-Tiefs bei Gewicht, KF, Fettmasse & Subkutan · Gewichtsziel erreicht · Hauptbaustelle: Bauchumfang 84 → ≤ 82 cm
+> 📊 Grafiken → [[Fortschritt/dashboard.html]] · [[Fortschritt/Fortschrittsübersicht]]
 
 ---
 
-## Körperwerte Aktuell (28.07.2026 · noch 2 Tage bis Deadline, nach Wochenende unterwegs)
-| Metrik | Wert | Ziel 28.07. | Trend |
+## Körperwerte Aktuell (09.10.2026 · Phase 2 Tag 5)
+| Metrik | Wert | Ziel 01.11. | Trend |
 |--------|------|-------------|-------|
-| Gewicht | 66.65 kg | 65–67 kg | ↓ -1.50 kg seit Start · +0.30 ggü. Tief (Wochenend-Rebound, Wasser) |
-| Körperfett | 18.1% | 16–17% | ↓ -0.9% seit Start · Tief war 17.9% (23.07.) |
-| Fettmasse | 12.06 kg | — | ↓ -0.89 kg seit Start · Tief war 11.88 kg (23.07.) |
-| Bauchumfang | 85.5 cm* | <85 cm | ↓ -1.5 cm (87→85.5) · *Stand 23.07., unterwegs nicht gemessen |
-| Muskelmasse | 51.90 kg | halten | geschützt · Skelettmuskel-% ↑ 52.3→52.9 · +0.20 (Glykogen/Wasser) |
-| Visceral Fett | 4 | ≤4 | ↓ -1 seit Start ✓ |
+| Gewicht | 65.45 kg | 65,0–65,5 kg ✅ | ↓ -1.90 kg seit 08.09. · Allzeit-Tief |
+| Körperfett | 17.3% | ≤ 16,5 % | ↓ -1.3 % seit 08.09. · Allzeit-Tief |
+| Fettmasse | 11.32 kg | ~10,5–11 kg | ↓ -1.21 kg seit 08.09. · Allzeit-Tief |
+| Subkutanfett | 15.8% | — | ↓ erstmals unter 16 % |
+| Bauchumfang | 84.0 cm* | ≤ 82 cm | → seit 22.09. unverändert · *Stand 08.10. |
+| Skelettmuskel | 53.4% | ≥ 53,0 % | ↑ Höchststand · FFM 54.10 (beobachten) |
+| Visceral Fett | 4 | ≤ 4 | stabil ✓ |
 
 ---
 
