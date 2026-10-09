@@ -8,9 +8,9 @@
 | **Start Phase 1** | 08.09.2026 (Deadline 04.10. → archiviert: [[Archiv/Sixpack-Challenge-04.10.2026-ARCHIVIERT]]) |
 | **Start Phase 2** | 05.10.2026 |
 | **Deadline** | **01.11.2026** (Sonntag) |
-| **Heute** | 08.10.2026 (Phase 2, Tag 4) |
-| **Verbleibende Tage bis Deadline** | **24** |
-| **Status** | 🟢 Aktiv – auf Kurs. **08.10.: 65,85 kg / KF 17,6 % / Fettmasse 11,59 kg / Subkutan 16,0 % = Allzeit-Tiefs**, Skelettmuskel 53,3 % (Höchststand). Offen: Bauchumfang messen + Fotos. |
+| **Heute** | 09.10.2026 (Phase 2, Tag 5) |
+| **Verbleibende Tage bis Deadline** | **23** |
+| **Status** | 🟢 Aktiv – vor Plan. **09.10.: 65,45 kg / KF 17,3 % / Fettmasse 11,32 kg / Subkutan 15,8 % = Allzeit-Tiefs**, Skelettmuskel 53,4 % (Höchststand). 🎯 Gewichtsziel 65,0–65,5 bereits erreicht → Fokus KF ≤ 16,5 % + Bauch ≤ 82 cm. Offen: Bauchumfang (Mo 13.10.) + Fotos. |
 
 ---
 

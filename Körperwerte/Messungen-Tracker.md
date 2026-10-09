@@ -40,6 +40,7 @@
 | **23.09.2026** | **66.45** | **18.0** | **11.95** | **54.50** | **—** | **1546** | **Tag 16 / Morgenmessung – 🔒 KONSOLIDIERUNG auf dem Challenge-Tief: +0,05 kg ggü. 22.09. (66,40→66,45) = Messrauschen. KF 18,0% / Fettmasse 11,95 kg / Subkutan 16,4% / FFM 54,50 / Skelettmuskel 53,0% **alle exakt gehalten → null Fett dazu**. Die +0,05 kg sitzen in der Muskelmasse (51,70→51,80, +0,10) = Glykogen/Wasser in der Muskulatur; Protein 18,7% (+0,1, Höchststand), Körperwasser 59,2% (-0,1). Visceral 4 / Knochen 2,73 / BMR 1546 / BMI 21,2 / Metab. Alter 25 stabil. Nach dem großen Sprung gestern (-0,20 kg / -1,0 cm Bauch) ist ein Halte-Tag völlig normal – Treppenmuster wie 16.→17.07. Noch 0,10 kg über dem Juli-Allzeit-Tief (66,35), KF 0,1% über 17,9%. Netto seit Baseline: -0,90 kg / -0,6% KF / -0,58 kg Fett. Bauchumfang heute nicht gemessen (Ref. 22.09.: 84,0 cm)** |
 | _24.09.–07.10._ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _Messlücke (15 Tage) – Ende Phase 1 (04.10.), Start Phase 2 (05.10.)_ |
 | **08.10.2026** | **65.85** | **17.6** | **11.59** | **54.30** | **—** | **1542** | **Phase 2 Tag 4 – 🚀 NEUE ALLZEIT-TIEFS: Gewicht -0,60 kg ggü. 23.09. und erstmals unter 66 kg (Juli-Tief 66,35 um 0,50 kg unterboten). KF 17,6 % (-0,4), Fettmasse 11,59 kg (-0,36), Subkutan 16,0 % (-0,4) – alles Allzeit-Tief. Skelettmuskel 53,3 % & Körperwasser 59,5 % = Höchststände. FFM -0,20 / Muskelmasse -0,30 = v. a. Glykogen nach 1:47 h Tennis am Vortag. Bauch nicht gemessen** |
+| **09.10.2026** | **65.45** | **17.3** | **11.32** | **54.10** | **—** | **1539** | **Phase 2 Tag 5 – 🚀 ERNEUT ALLZEIT-TIEFS, Tag nach Kraft-Session: Gewicht -0,40 kg (65,85→65,45), davon -0,27 kg Fett (68 %). KF 17,3 % (-0,3), Fettmasse 11,32 kg, Subkutan 15,8 % (erstmals < 16). 🎯 Phase-2-Gewichtsziel 65,0–65,5 kg schon erreicht. Skelettmuskel 53,4 %, Körperwasser 59,7 %, Protein 18,9 % = Höchststände. FFM 54,10 (-0,20) / Muskelmasse 51,40 (-0,10) → beobachten. Bauch nicht gemessen** |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -789,6 +790,31 @@ Noch **0.40 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)**. Der Whoosh hat ger
 **Kumulativ:** seit Baseline 08.09.: -1,50 kg / -1,0% KF / **-0,94 kg Fett** · seit Coaching-Start 12.07.: -2,30 kg / -1,4% KF / -1,36 kg Fett.
 
 **Was bis 01.11. (24 Tage) noch fehlt:** Gewicht 65,0–65,5 kg (-0,35 bis -0,85) · KF ≤ 16,5 % (-1,1 %, ≈ -0,8 kg Fett ≈ ~330 kcal Fett-Defizit/Tag) · Bauch ≤ 82 cm (-2 cm von 84). KF-Ziel ist ambitioniert, aber mit 3× Kraft + Defizit 450–600 kcal erreichbar.
+
+### 08.10. → 09.10. (Phase 2 Tag 4 → 5) — 🚀 Nächster Sprung nach Kraft-Tag, Gewichtsziel Phase 2 erreicht
+
+| Metrik | 08.10. | 09.10. | Δ | Bewertung |
+|--------|--------|--------|---|-----------|
+| Gewicht | 65.85 | **65.45** | -0.40 kg | 🚀 Allzeit-Tief · 🎯 Phase-2-Zielkorridor 65,0–65,5 erreicht |
+| Körperfett | 17.6 | **17.3** | -0.3% | 🚀 Allzeit-Tief · noch -0,8 % bis Ziel 16,5 % |
+| Fettmasse | 11.59 | **11.32** | -0.27 kg | 68 % des Verlusts = Fett |
+| Subkutanfett | 16.0 | **15.8** | -0.2% | 🚀 erstmals unter 16 % |
+| Fettfreie Masse | 54.30 | 54.10 | -0.20 kg | 🟠 seit 23.09. -0,40 kg → beobachten |
+| Muskelmasse | 51.50 | 51.40 | -0.10 kg | 🟡 leicht runter |
+| Skelettmuskel | 53.3 | **53.4** | +0.1% | 💪 Höchststand |
+| Körperwasser | 59.5 | **59.7** | +0.2% | Höchststand |
+| Protein | 18.7 | **18.9** | +0.2% | Höchststand |
+| Visceral / Knochen | 4 / 2.72 | 4 / 2.71 | 0 / -0.01 | Stabil |
+| BMR / BMI / Metab. Alter | 1542 / 21.0 / 26 | 1539 / 20.9 / 26 | -3 / -0.1 / 0 | BMR folgt dem Gewicht |
+| Bauchumfang | 84.0 (22.09.) | — | — | Montag 13.10. messen |
+
+**Fazit:** Statt dem erwarteten Glykogen-Rebound nach der Kraft-Session (+0,1–0,3 kg) kam ein weiterer Sprung nach unten – Defizit (~400–500 kcal) + 156 g Protein + 0 Alkohol greifen. Das Phase-2-Gewichtsziel ist nach 5 von 28 Tagen erreicht, der Fettanteil am Verlust (68 %) ist gut.
+
+**Einziger Haken:** Die fettfreie Masse sinkt mit (54,50 → 54,10 seit 23.09.). Bioimpedanz schwankt mit Glykogen/Wasser, und Skelettmuskel-% steigt – noch kein Alarm. Aber: **Defizit NICHT weiter vergrößern**, an Kraft-Tagen +30–50 g Carbs vor/nach dem Training, Protein 150 g+ halten.
+
+**Kumulativ:** seit Baseline 08.09.: -1,90 kg / -1,3 % KF / **-1,21 kg Fett** · seit Coaching-Start 12.07.: -2,70 kg / -1,7 % KF / -1,63 kg Fett.
+
+**Bis 01.11. (23 Tage):** KF ≤ 16,5 % (-0,8 % ≈ -0,55 kg Fett ≈ ~170 g Fett/Woche – entspannt machbar) · Bauch ≤ 82 cm (-2 cm) · Gewicht darf jetzt Richtung **64,8–65,2 kg** weiterlaufen, Fokus verschiebt sich auf KF + Bauch statt Waage.
 
 ---
 
