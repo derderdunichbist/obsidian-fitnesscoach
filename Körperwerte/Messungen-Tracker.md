@@ -41,6 +41,7 @@
 | _24.09.–07.10._ | _—_ | _—_ | _—_ | _—_ | _—_ | _—_ | _Messlücke (15 Tage) – Ende Phase 1 (04.10.), Start Phase 2 (05.10.)_ |
 | **08.10.2026** | **65.85** | **17.6** | **11.59** | **54.30** | **84** | **1542** | **Phase 2 Tag 4 – 🚀 NEUE ALLZEIT-TIEFS: Gewicht -0,60 kg ggü. 23.09. und erstmals unter 66 kg (Juli-Tief 66,35 um 0,50 kg unterboten). KF 17,6 % (-0,4), Fettmasse 11,59 kg (-0,36), Subkutan 16,0 % (-0,4) – alles Allzeit-Tief. Skelettmuskel 53,3 % & Körperwasser 59,5 % = Höchststände. FFM -0,20 / Muskelmasse -0,30 = v. a. Glykogen nach 1:47 h Tennis am Vortag. Bauch 84,0 cm (nachgetragen) = gleich wie 22.09.** |
 | **09.10.2026** | **65.45** | **17.3** | **11.32** | **54.10** | **—** | **1539** | **Phase 2 Tag 5 – 🚀 ERNEUT ALLZEIT-TIEFS, Tag nach Kraft-Session: Gewicht -0,40 kg (65,85→65,45), davon -0,27 kg Fett (68 %). KF 17,3 % (-0,3), Fettmasse 11,32 kg, Subkutan 15,8 % (erstmals < 16). 🎯 Phase-2-Gewichtsziel 65,0–65,5 kg schon erreicht. Skelettmuskel 53,4 %, Körperwasser 59,7 %, Protein 18,9 % = Höchststände. FFM 54,10 (-0,20) / Muskelmasse 51,40 (-0,10) → beobachten. Bauch nicht gemessen** |
+| 10.10.2026 | 65.45 | 17.3 | 11.32 | 54.10 | — | 1539 | Phase 2 Tag 6 (Sa) – 🔒 KONSOLIDIERUNG auf dem Allzeit-Tief: alle Werte **exakt identisch** zu 09.10. Logisch nach dem Krankheitstag gestern (Erhaltung ~1.830 kcal, Move 68 kcal, 1 Pale Ale): kein Defizit → kein Verlust, aber auch kein Wasser-/Alkohol-Rebound. Skelettmuskel 53,4 % / Körperwasser 59,7 % / Protein 18,9 % halten die Höchststände, FFM 54,10 stabil (Abwärtstrend gestoppt). Halte-Tag wie 16.→17.07. & 22.→23.09. Bauch nicht gemessen |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -815,6 +816,24 @@ Noch **0.40 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)**. Der Whoosh hat ger
 **Kumulativ:** seit Baseline 08.09.: -1,90 kg / -1,3 % KF / **-1,21 kg Fett** · seit Coaching-Start 12.07.: -2,70 kg / -1,7 % KF / -1,63 kg Fett.
 
 **Bis 01.11. (23 Tage):** KF ≤ 16,5 % (-0,8 % ≈ -0,55 kg Fett ≈ ~170 g Fett/Woche – entspannt machbar) · Bauch ≤ 82 cm (-2 cm) · Gewicht darf jetzt Richtung **64,8–65,2 kg** weiterlaufen, Fokus verschiebt sich auf KF + Bauch statt Waage.
+
+---
+
+### 09.10. → 10.10. (Phase 2 Tag 5 → 6) — 🔒 Halte-Tag nach Krankheitstag
+
+| Metrik | 09.10. | 10.10. | Δ | Bewertung |
+|--------|--------|--------|---|-----------|
+| Gewicht | 65.45 | 65.45 | 0 | 🔒 Allzeit-Tief gehalten |
+| Körperfett / Fettmasse | 17.3 / 11.32 | 17.3 / 11.32 | 0 | 🔒 gehalten – kein Fett dazu trotz Erhaltungstag + Pale Ale |
+| Subkutanfett | 15.8 | 15.8 | 0 | 🔒 |
+| FFM / Muskelmasse | 54.10 / 51.40 | 54.10 / 51.40 | 0 | 🟢 Abwärtstrend der FFM gestoppt |
+| Skelettmuskel / Wasser / Protein | 53.4 / 59.7 / 18.9 | 53.4 / 59.7 / 18.9 | 0 | 💪 Höchststände gehalten |
+| Visceral / Knochen / BMR | 4 / 2.71 / 1539 | 4 / 2.71 / 1539 | 0 | Stabil |
+| Bauchumfang | 84.0 (08.10.) | — | — | Montag 12.10. messen |
+
+**Fazit:** Exakt das, was ein Erhaltungstag (krank, ~1.830 kcal bei TDEE ~1.650–1.800) erwarten lässt: Nullsumme. Kein Rückschritt, und die FFM, die zuletzt sank, ist stabil. Nach zwei großen Sprüngen (-0,60 / -0,40) ist eine Treppenstufe normal.
+
+**Bis 01.11. (22 Tage):** KF ≤ 16,5 % (-0,8 %) · Bauch ≤ 82 cm (-2 cm) · Gewicht 64,8–65,2 kg.
 
 ---
 
