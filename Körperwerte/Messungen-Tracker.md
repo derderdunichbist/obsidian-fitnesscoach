@@ -42,7 +42,7 @@
 | **08.10.2026** | **65.85** | **17.6** | **11.59** | **54.30** | **84** | **1542** | **Phase 2 Tag 4 – 🚀 NEUE ALLZEIT-TIEFS: Gewicht -0,60 kg ggü. 23.09. und erstmals unter 66 kg (Juli-Tief 66,35 um 0,50 kg unterboten). KF 17,6 % (-0,4), Fettmasse 11,59 kg (-0,36), Subkutan 16,0 % (-0,4) – alles Allzeit-Tief. Skelettmuskel 53,3 % & Körperwasser 59,5 % = Höchststände. FFM -0,20 / Muskelmasse -0,30 = v. a. Glykogen nach 1:47 h Tennis am Vortag. Bauch 84,0 cm (nachgetragen) = gleich wie 22.09.** |
 | **09.10.2026** | **65.45** | **17.3** | **11.32** | **54.10** | **—** | **1539** | **Phase 2 Tag 5 – 🚀 ERNEUT ALLZEIT-TIEFS, Tag nach Kraft-Session: Gewicht -0,40 kg (65,85→65,45), davon -0,27 kg Fett (68 %). KF 17,3 % (-0,3), Fettmasse 11,32 kg, Subkutan 15,8 % (erstmals < 16). 🎯 Phase-2-Gewichtsziel 65,0–65,5 kg schon erreicht. Skelettmuskel 53,4 %, Körperwasser 59,7 %, Protein 18,9 % = Höchststände. FFM 54,10 (-0,20) / Muskelmasse 51,40 (-0,10) → beobachten. Bauch nicht gemessen** |
 | 10.10.2026 | 65.45 | 17.3 | 11.32 | 54.10 | — | 1539 | Phase 2 Tag 6 (Sa) – 🔒 KONSOLIDIERUNG auf dem Allzeit-Tief: alle Werte **exakt identisch** zu 09.10. Logisch nach dem Krankheitstag gestern (Erhaltung ~1.830 kcal, Move 68 kcal, 1 Pale Ale): kein Defizit → kein Verlust, aber auch kein Wasser-/Alkohol-Rebound. Skelettmuskel 53,4 % / Körperwasser 59,7 % / Protein 18,9 % halten die Höchststände, FFM 54,10 stabil (Abwärtstrend gestoppt). Halte-Tag wie 16.→17.07. & 22.→23.09. Bauch nicht gemessen |
-| 13.10.2026 | 65.35 | 17.3 | 11.31 | 54.10 | — | 1537 | Phase 2 Tag 9 (Di) – 📉 neues Allzeit-Tief: -0,10 kg ggü. 10.10. (11./12.10. keine Messung). KF 17,3 % / Subkutan 15,8 % gehalten, FFM 54,10 stabil, Skelettmuskel 53,5 % & Wasser 59,8 % = Höchststände → Muskel geschützt. Bauchumfang nicht gemessen |
+| 13.10.2026 | 65.35 | 17.3 | 11.31 | 54.10 | — | 1537 | Phase 2 Tag 9 (Di) – 📉 neues Allzeit-Tief: -0,10 kg ggü. 10.10. (11./12.10. keine Messung). KF 17,3 % / Subkutan 15,8 % gehalten, FFM 54,10 stabil, Skelettmuskel 53,5 % & Wasser 59,8 % = Höchststände → Muskel geschützt. Bauchumfang **83,5 cm** (-0,5 ggü. 08.10., neues Allzeit-Tief) |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -848,7 +848,7 @@ Noch **0.40 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)**. Der Whoosh hat ger
 | FFM / Muskelmasse | 54.10 / 51.40 | 54.10 / 51.30 | 0 / -0.10 | 🟢 FFM stabil |
 | Skelettmuskel / Wasser / Protein | 53.4 / 59.7 / 18.9 | 53.5 / 59.8 / 18.8 | +0.1 / +0.1 / -0.1 | 💪 Höchststände |
 | Visceral / Knochen / BMR | 4 / 2.71 / 1539 | 4 / 2.71 / 1537 | 0 / 0 / -2 | Stabil |
-| Bauchumfang | 84.0 (08.10.) | — | — | ⚠️ Montag 12.10. ausgefallen → heute/morgen nüchtern messen |
+| Bauchumfang | 84.0 (08.10.) | 83.5 | -0.5 | 🟢 neues Allzeit-Tief (erster Fortschritt seit 22.09.) |
 
 **Fazit:** Das -0,10 kg sind reines Wasser (FFM & KF unverändert) – kein Fettverlust, aber auch kein Rückschritt. Fett steht seit 09.10. bei 11,3 kg: **Stillstand in 4 Tagen** (2 Tage Krankheit/Erhaltung). Jetzt muss das Defizit wieder greifen. Netto seit Baseline 08.09.: -2,00 kg / -1,3 % KF / -1,22 kg Fett.
 
