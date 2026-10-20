@@ -44,6 +44,7 @@
 | 10.10.2026 | 65.45 | 17.3 | 11.32 | 54.10 | — | 1539 | Phase 2 Tag 6 (Sa) – 🔒 KONSOLIDIERUNG auf dem Allzeit-Tief: alle Werte **exakt identisch** zu 09.10. Logisch nach dem Krankheitstag gestern (Erhaltung ~1.830 kcal, Move 68 kcal, 1 Pale Ale): kein Defizit → kein Verlust, aber auch kein Wasser-/Alkohol-Rebound. Skelettmuskel 53,4 % / Körperwasser 59,7 % / Protein 18,9 % halten die Höchststände, FFM 54,10 stabil (Abwärtstrend gestoppt). Halte-Tag wie 16.→17.07. & 22.→23.09. Bauch nicht gemessen |
 | 13.10.2026 | 65.35 | 17.3 | 11.31 | 54.10 | — | 1537 | Phase 2 Tag 9 (Di) – 📉 neues Allzeit-Tief: -0,10 kg ggü. 10.10. (11./12.10. keine Messung). KF 17,3 % / Subkutan 15,8 % gehalten, FFM 54,10 stabil, Skelettmuskel 53,5 % & Wasser 59,8 % = Höchststände → Muskel geschützt. Bauchumfang **83,5 cm** (-0,5 ggü. 08.10., neues Allzeit-Tief) |
 | 19.10.2026 | 65.40 | 17.3 | 11.30 | 54.10 | — | 1538 | Phase 2 Tag 15 (Mo) – 🔒 Stillstand: +0,05 kg ggü. 13.10. (Rauschen), KF 17,3 % / Subkutan 15,8 % / FFM 54,10 unverändert. Skelettmuskel 53,4 %, Wasser 59,7 %, Protein 18,8 % stabil → Muskel geschützt, aber Fett seit 09.10. bei ~11,3 kg. Bauchumfang nicht gemessen |
+| 20.10.2026 | 64.65 | 16.8 | 10.85 | 53.80 | — | 1531 | Phase 2 Tag 16 (Di) – 📉 Allzeit-Tiefs: -0,75 kg ggü. 19.10., Fett -0,45 kg (11,30→10,85), KF 16,8 %, Subkutan 15,3 %. Stillstand durchbrochen. Skelettmuskel 53,8 % / Wasser 60,1 % / Protein 19,0 % = Höchststände; FFM -0,30 = Wasser/Glykogen. Bauchumfang nicht gemessen |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -854,6 +855,23 @@ Noch **0.40 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)**. Der Whoosh hat ger
 **Fazit:** Das -0,10 kg sind reines Wasser (FFM & KF unverändert) – kein Fettverlust, aber auch kein Rückschritt. Fett steht seit 09.10. bei 11,3 kg: **Stillstand in 4 Tagen** (2 Tage Krankheit/Erhaltung). Jetzt muss das Defizit wieder greifen. Netto seit Baseline 08.09.: -2,00 kg / -1,3 % KF / -1,22 kg Fett.
 
 **Bis 01.11. (19 Tage):** KF ≤ 16,5 % (-0,8 % ≈ -0,55 kg Fett) · Bauch ≤ 82 cm (-2 cm) · Gewicht 64,8–65,2 kg.
+
+---
+
+### 19.10. → 20.10. (Phase 2 Tag 15 → 16) — 📉 Stillstand durchbrochen
+
+| Metrik | 19.10. | 20.10. | Δ | Bewertung |
+|--------|--------|--------|---|-----------|
+| Gewicht | 65.40 | 64.65 | -0.75 | 📉 Allzeit-Tief |
+| Körperfett / Fettmasse | 17.3 / 11.30 | 16.8 / 10.85 | -0.5 / -0.45 | 📉 Allzeit-Tief |
+| Subkutanfett | 15.8 | 15.3 | -0.5 | 📉 |
+| FFM / Muskelmasse | 54.10 / 51.40 | 53.80 / 51.10 | -0.30 / -0.30 | 🟠 beobachten (Wasser/Glykogen) |
+| Skelettmuskel / Wasser / Protein | 53.4 / 59.7 / 18.8 | 53.8 / 60.1 / 19.0 | +0.4 / +0.4 / +0.2 | 💪 Höchststände |
+| Visceral / Knochen / BMR | 4 / 2.71 / 1538 | 4 / 2.69 / 1531 | 0 / -0.02 / -7 | Stabil |
+
+**Fazit:** Fett-Stillstand seit 09.10. durchbrochen: -0,45 kg Fett über Nacht, KF 16,8 % = Phase-2-Ziel (≤ 16,5 %) nur noch -0,3 % entfernt. Von -0,75 kg sind ~60 % Fett, der Rest Wasser/Glykogen. Muskel-% und Wasser-% steigen → kein echter Muskelverlust, aber FFM-Trend (-0,30) im Blick behalten. Einzelmessung → Bestätigung durch Folgemessung nötig.
+
+**Bis 01.11. (12 Tage):** KF ≤ 16,5 % (-0,3 %) · Bauch ≤ 82 cm (Messung offen, Ref 83,5) · Muskel halten.
 
 ---
 
