@@ -45,6 +45,7 @@
 | 13.10.2026 | 65.35 | 17.3 | 11.31 | 54.10 | — | 1537 | Phase 2 Tag 9 (Di) – 📉 neues Allzeit-Tief: -0,10 kg ggü. 10.10. (11./12.10. keine Messung). KF 17,3 % / Subkutan 15,8 % gehalten, FFM 54,10 stabil, Skelettmuskel 53,5 % & Wasser 59,8 % = Höchststände → Muskel geschützt. Bauchumfang **83,5 cm** (-0,5 ggü. 08.10., neues Allzeit-Tief) |
 | 19.10.2026 | 65.40 | 17.3 | 11.30 | 54.10 | — | 1538 | Phase 2 Tag 15 (Mo) – 🔒 Stillstand: +0,05 kg ggü. 13.10. (Rauschen), KF 17,3 % / Subkutan 15,8 % / FFM 54,10 unverändert. Skelettmuskel 53,4 %, Wasser 59,7 %, Protein 18,8 % stabil → Muskel geschützt, aber Fett seit 09.10. bei ~11,3 kg. Bauchumfang nicht gemessen |
 | 20.10.2026 | 64.65 | 16.8 | 10.85 | 53.80 | **82** | 1531 | Phase 2 Tag 16 (Di) – 📉 Allzeit-Tiefs: -0,75 kg ggü. 19.10., Fett -0,45 kg (11,30→10,85), KF 16,8 %, Subkutan 15,3 %. Stillstand durchbrochen. Skelettmuskel 53,8 % / Wasser 60,1 % / Protein 19,0 % = Höchststände; FFM -0,30 = Wasser/Glykogen. 🎯 Bauchumfang 82 cm (-1,5 cm ggü. 13.10.) = Allzeit-Tief, Ziel ≤ 82 cm erreicht |
+| 28.10.2026 | 65.15 | 17.1 | 11.15 | 54.00 | — | 1536 | Phase 2 Tag 24 (Mi) – ↗️ +0,50 kg ggü. 20.10.: Fett +0,30 kg (10,85→11,15), KF 17,1 %, Subkutan 15,6 %; FFM 54,00 (+0,20), Skelettmuskel 53,5 %, Wasser 59,8 %, Protein 18,9 %, Visceral 4. Messlücke 21.–27.10. Bauch nicht gemessen (Ref 20.10.: 82 cm) |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -874,6 +875,23 @@ Noch **0.40 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)**. Der Whoosh hat ger
 | Bauchumfang | 83.5 (13.10.) | 82.0 | -1.5 | 🎯 Allzeit-Tief, Ziel erreicht |
 
 **Bis 01.11. (12 Tage):** KF ≤ 16,5 % (-0,3 %) · Bauch ✅ 82 cm erreicht (jetzt halten/weiter Richtung 81) · Muskel halten.
+
+---
+
+### 20.10. → 28.10. (Phase 2 Tag 16 → 24) — ↗️ Teil-Rebound nach Allzeit-Tief
+
+| Metrik | 20.10. | 28.10. | Δ | Bewertung |
+|--------|--------|--------|---|-----------|
+| Gewicht | 64.65 | 65.15 | +0.50 | 🟠 Rebound (noch -0.70 ggü. 08.10.) |
+| Körperfett / Fettmasse | 16.8 / 10.85 | 17.1 / 11.15 | +0.3 / +0.30 | 🟠 zurück auf Niveau ~13.10. |
+| Subkutanfett | 15.3 | 15.6 | +0.3 | 🟠 |
+| FFM / Muskelmasse | 53.80 / 51.10 | 54.00 / 51.30 | +0.20 / +0.20 | ✅ Muskel gehalten |
+| Skelettmuskel / Wasser / Protein | 53.8 / 60.1 / 19.0 | 53.5 / 59.8 / 18.9 | -0.3 / -0.3 / -0.1 | 🟡 leicht runter |
+| Visceral / Knochen / BMR | 4 / 2.69 / 1531 | 4 / 2.70 / 1536 | 0 / +0.01 / +5 | Stabil |
+
+**Fazit:** Der 20.10.-Sprung war teils Wasser/Glykogen; ein Teil davon ist zurück (Wasser-% -0,3, Fett-Anstieg folgt der Bioimpedanz). Gegenüber 08.09.-Baseline weiterhin **-2,20 kg / -1,5 % KF / -1,38 kg Fett**, Muskelmasse über dem Startwert. 7 Tage Messlücke → Ursache nicht belegbar; Bauch fehlt (Ref 82 cm).
+
+**Bis 01.11. (4 Tage):** KF ≤ 16,5 % wäre -0,6 % (~-0,4 kg Fett) – knapp, nur mit sauberem Defizit + Salz niedrig. Realistisch: 16,8–17,0 %. Bauch 82 cm halten.
 
 ---
 

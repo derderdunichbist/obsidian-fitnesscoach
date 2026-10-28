@@ -8,9 +8,9 @@
 | **Start Phase 1** | 08.09.2026 (Deadline 04.10. → archiviert: [[Archiv/Sixpack-Challenge-04.10.2026-ARCHIVIERT]]) |
 | **Start Phase 2** | 05.10.2026 |
 | **Deadline** | **01.11.2026** (Sonntag) |
-| **Heute** | 20.10.2026 (Phase 2, Tag 16) |
-| **Verbleibende Tage bis Deadline** | **12** |
-| **Status** | 🟢 Aktiv – **20.10.: 64,65 kg / KF 16,8 % / Fett ~10,85 kg = Stillstand durchbrochen (-0,45 kg Fett), Allzeit-Tiefs.** **Bauchumfang 82 cm = Ziel ≤ 82 cm erreicht 🎯.** KF-Ziel ≤ 16,5 % nur noch -0,3 % entfernt. Vorher: 🟡 **19.10.: 65,40 kg / KF 17,3 % / Fett ~11,30 kg = Stillstand seit 09.10.**, Muskel gehalten. Defizit muss ab jetzt greifen. Vorheriger Stand: 🟢 vor Plan. **10.10.: Halte-Tag, Werte identisch zu 09.10.: 65,45 kg / KF 17,3 % / Fettmasse 11,32 kg / Subkutan 15,8 % = Allzeit-Tiefs**, Skelettmuskel 53,4 % (Höchststand). 🎯 Gewichtsziel 65,0–65,5 bereits erreicht → Fokus KF ≤ 16,5 % + Bauch ≤ 82 cm. Bauch **83,5 cm (13.10.)** = erstes neues Allzeit-Tief seit 22.09. (Ziel ≤ 82 cm) → Hauptbaustelle. Offen: Fotos. |
+| **Heute** | 28.10.2026 (Phase 2, Tag 24) |
+| **Verbleibende Tage bis Deadline** | **4** |
+| **Status** | 🟡 Aktiv – **28.10.: 65,15 kg / KF 17,1 % / Fett ~11,15 kg = Teil-Rebound (+0,30 kg Fett ggü. 20.10.), Muskel gehalten, Bauch nicht gemessen.** Vorher: **20.10.: 64,65 kg / KF 16,8 % / Fett ~10,85 kg = Stillstand durchbrochen (-0,45 kg Fett), Allzeit-Tiefs.** **Bauchumfang 82 cm = Ziel ≤ 82 cm erreicht 🎯.** KF-Ziel ≤ 16,5 % nur noch -0,3 % entfernt. Vorher: 🟡 **19.10.: 65,40 kg / KF 17,3 % / Fett ~11,30 kg = Stillstand seit 09.10.**, Muskel gehalten. Defizit muss ab jetzt greifen. Vorheriger Stand: 🟢 vor Plan. **10.10.: Halte-Tag, Werte identisch zu 09.10.: 65,45 kg / KF 17,3 % / Fettmasse 11,32 kg / Subkutan 15,8 % = Allzeit-Tiefs**, Skelettmuskel 53,4 % (Höchststand). 🎯 Gewichtsziel 65,0–65,5 bereits erreicht → Fokus KF ≤ 16,5 % + Bauch ≤ 82 cm. Bauch **83,5 cm (13.10.)** = erstes neues Allzeit-Tief seit 22.09. (Ziel ≤ 82 cm) → Hauptbaustelle. Offen: Fotos. |
 
 ---
 
