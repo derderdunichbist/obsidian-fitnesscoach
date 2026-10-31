@@ -5,35 +5,24 @@
 ## Zeitstrahl
 ```
 08.09. ━━━━━━━━ 04.10. ━━━━━━━━━━━━━━━━━━━━━━━━━━ 01.11.
-BASELINE     Ende Phase 1   ▲ heute 09.10.        ZIEL
-  |←—— Phase 1 ——→|←— Phase 2: Tag 5 —→|←— 23 Tage —→|
-  KF: 18.6%                    17.3%      Ziel: ≤ 16,5 %
-  Gew: 67.35 kg                65.45 kg   Ziel: 65,0–65,5 kg ✅
-  Fett: 12.53 kg               11.32 kg   Ziel: ~10,5–11 kg
-  Bauch: (85,5)                84,0 cm*   Ziel: ≤ 82 cm      (*Stand 08.10.)
+BASELINE     Ende Phase 1   ▲ heute 31.10.        ZIEL
+  |←—— Phase 1 ——→|←— Phase 2: Tag 27 —→|← 1 Tag →|
+  KF: 18.6%                    17.2%      Ziel: ≤ 16,5 % ❌
+  Gew: 67.35 kg                65.30 kg   Ziel: 65,0–65,5 kg ✅
+  Fett: 12.53 kg               11.30 kg   Ziel: ~10,5–11 kg
+  Bauch: (85,5)                82,0 cm*   Ziel: ≤ 82 cm ✅   (*Stand 20.10.)
 ```
 
-## Status-Ampel (Stand: 09.10.2026 – Phase 2 Tag 5, noch 23 Tage bis 01.11.)
+## Status-Ampel (Stand: 31.10.2026 – Phase 2 Tag 27, noch 1 Tag bis 01.11.)
 | Bereich | Status | Kommentar |
 |---------|--------|-----------|
-| Körperfett | 🟢 17,3 % | **Allzeit-Tief** (-0,3 ggü. 08.10.); -1,3 % seit Baseline; noch -0,8 % bis Ziel |
-| Gewicht | 🟢 65,45 kg | **Allzeit-Tief**, -0,40 kg ggü. 08.10. trotz Kraft-Tag; -1,90 kg seit Baseline · 🎯 **Phase-2-Ziel 65,0–65,5 bereits erreicht** |
-| Fettmasse | 🟢 11,32 kg | **Allzeit-Tief**; -1,21 kg echtes Fett seit Baseline |
-| Subkutanfett | 🟢 15,8 % | **Allzeit-Tief**, erstmals < 16 % (-1,1 % seit Baseline) |
-| Muskelschutz | 🟡 | Skelettmuskel **53,4 %** (Höchststand), aber FFM 54,50 → 54,10 seit 23.09. → Defizit nicht vergrößern, Carbs an Kraft-Tagen |
-| Bauchumfang | 🟡 84,0 cm | 08.10. = gleich wie 22.09. → **16 Tage Stillstand** trotz -0,55 kg; heute erneut messen (Ziel ≤ 82 cm) |
-| Training | 🟢 | 08.10.: Kraft 2/3 (43 min) · 07.10.: Tennis 1:47 h, Move 1.186 |
-| Ernährung | 🟢 | 08.10.: 1.681 kcal, Protein 156 g, Fett 59 g, 0 Alkohol |
-
----------|--------|-----------|
-| Körperfett | 🟢 17,6 % | **Allzeit-Tief** (vorher 17,9 % am 23.07.); -1,0 % seit Baseline; noch -1,1 % bis Ziel |
-| Gewicht | 🟢 65,85 kg | **Allzeit-Tief**, erstmals unter 66 kg; -1,50 kg seit Baseline; Tempo -0,28 kg/Woche = im Korridor. Teil davon Glykogen nach 1:47 h Tennis → kleiner Rebound normal |
-| Fettmasse | 🟢 11,59 kg | **Allzeit-Tief**; -0,94 kg echtes Fett seit Baseline |
-| Subkutanfett | 🟢 16,0 % | **Allzeit-Tief** (-0,9 % seit Baseline) |
-| Muskelschutz | 🟢 | Skelettmuskel **53,3 %** (Höchststand), Körperwasser 59,5 %; Muskelmasse 51,50 (-0,30 = Glykogen nach Tennis, nächste Messung prüfen) |
-| Bauchumfang | 🟠 84,0 cm | Letzte Messung 22.09. → **messen!** (Ziel ≤ 82 cm) |
-| Training | 🟢 | 07.10.: Tennis 1:47 h, Move 1.186 kcal (Rekord) · 06.10.: Gym + Tennis · Kraft 3×/Woche fix |
-| Ernährung | 🟢 | 07.10.: 1.972 kcal, Protein 178 g, Fett 62 g, 0 Alkohol |
+| Körperfett | 🔴 17,2 % | +0,4 ggü. Tief 20.10. (16,8 %); -1,4 % seit Baseline; Ziel ≤ 16,5 % bis morgen nicht mehr erreichbar |
+| Gewicht | 🟢 65,30 kg | im Zielkorridor 65,0–65,5 ✅; +0,65 kg ggü. Tief 20.10.; -2,05 kg seit Baseline |
+| Fettmasse | 🟠 11,30 kg | +0,45 kg ggü. 20.10. (10,85); -1,23 kg echtes Fett seit Baseline |
+| Subkutanfett | 🟠 15,7 % | +0,4 ggü. 20.10.; -1,2 % seit Baseline |
+| Muskelschutz | 🟢 | Skelettmuskel **53,4 %** (Ziel ≥ 53,0 ✅), FFM 54,00 (+0,20), Muskelmasse 51,40 (+0,30) |
+| Bauchumfang | 🟢 82,0 cm | 20.10. = Ziel ≤ 82 erreicht; 31.10. nicht gemessen → morgen nüchtern messen |
+| Messroutine | 🟠 | 11 Tage Lücke (21.–30.10.) → Trend unklar, Rebound nicht rechtzeitig gegengesteuert |
 
 ---
 
@@ -49,11 +38,12 @@ BASELINE     Ende Phase 1   ▲ heute 09.10.        ZIEL
 
 ---
 
-## Restweg zum Ziel (Stand 09.10., noch 23 Tage)
-- **Gewicht:** 65,45 kg → Ziel 65,0–65,5 ✅ erreicht. Darf Richtung 64,8–65,2 kg weiterlaufen, ist aber nicht mehr der Fokus.
-- **Körperfett:** 17,3 → ≤ 16,5 % = noch **-0,8 %** ≈ **-0,55 kg Fett** ≈ ~170 g Fett/Woche → gut machbar.
-- **Bauchumfang:** 84,0 → ≤ 82 cm = noch **-2 cm** in 23 Tagen (~-0,6 cm/Woche). Stillstand seit 22.09. → Salz runter, Wasser 3–4 L, Core 3–4×/Woche, immer gleich messen (morgens nüchtern, Nabelhöhe, entspannt).
-- **Einordnung:** Waage und Bioimpedanz laufen vor Plan, der Bauch hinkt hinterher – er ist jetzt die Hauptbaustelle.
+## Restweg zum Ziel (Stand 31.10., noch 1 Tag)
+- **Gewicht:** 65,30 kg → Ziel 65,0–65,5 ✅ erreicht.
+- **Körperfett:** 17,2 → ≤ 16,5 % = noch **-0,7 %** ≈ -0,5 kg Fett → in 1 Tag nicht erreichbar. Kein Crash-Defizit (kostet Muskel/Glykogen).
+- **Bauchumfang:** 82,0 cm (20.10.) ✅ → morgen erneut messen.
+- **Morgen:** Abschlussmessung nüchtern + Fotos (gleiches Licht/Pose wie 08.09.), danach Entscheidung: Ziel verlängern oder neues Ziel.
+- **Einordnung:** 3 von 4 Kennzahlen im Ziel (Gewicht, Muskel, Bauch), KF knapp verfehlt (+0,7 %).
 
 ---
 

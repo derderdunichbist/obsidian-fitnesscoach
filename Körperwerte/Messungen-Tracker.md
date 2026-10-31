@@ -45,6 +45,7 @@
 | 13.10.2026 | 65.35 | 17.3 | 11.31 | 54.10 | — | 1537 | Phase 2 Tag 9 (Di) – 📉 neues Allzeit-Tief: -0,10 kg ggü. 10.10. (11./12.10. keine Messung). KF 17,3 % / Subkutan 15,8 % gehalten, FFM 54,10 stabil, Skelettmuskel 53,5 % & Wasser 59,8 % = Höchststände → Muskel geschützt. Bauchumfang **83,5 cm** (-0,5 ggü. 08.10., neues Allzeit-Tief) |
 | 19.10.2026 | 65.40 | 17.3 | 11.30 | 54.10 | — | 1538 | Phase 2 Tag 15 (Mo) – 🔒 Stillstand: +0,05 kg ggü. 13.10. (Rauschen), KF 17,3 % / Subkutan 15,8 % / FFM 54,10 unverändert. Skelettmuskel 53,4 %, Wasser 59,7 %, Protein 18,8 % stabil → Muskel geschützt, aber Fett seit 09.10. bei ~11,3 kg. Bauchumfang nicht gemessen |
 | 20.10.2026 | 64.65 | 16.8 | 10.85 | 53.80 | **82** | 1531 | Phase 2 Tag 16 (Di) – 📉 Allzeit-Tiefs: -0,75 kg ggü. 19.10., Fett -0,45 kg (11,30→10,85), KF 16,8 %, Subkutan 15,3 %. Stillstand durchbrochen. Skelettmuskel 53,8 % / Wasser 60,1 % / Protein 19,0 % = Höchststände; FFM -0,30 = Wasser/Glykogen. 🎯 Bauchumfang 82 cm (-1,5 cm ggü. 13.10.) = Allzeit-Tief, Ziel ≤ 82 cm erreicht |
+| 31.10.2026 | 65.30 | 17.2 | 11.30 | 54.00 | — | 1537 | Phase 2 Tag 27 (Sa) – 🔶 Messung nach 11 Tagen Lücke: +0,65 kg ggü. 20.10., Fett +0,45 kg (10,85→11,30), KF 17,2 % (+0,4), Subkutan 15,7 % (+0,4). Gewicht 65,30 liegt im Zielkorridor 65,0–65,5 ✅, KF-Ziel ≤ 16,5 % verfehlt. Skelettmuskel 53,4 % (-0,4), Wasser 59,7 % (-0,4), Protein 19,0 % gehalten; FFM 54,00 (+0,20) / Muskelmasse 51,40 (+0,30) = Muskel geschützt. Visceral 4 / Knochen 2,70 / BMR 1537 / BMI 20,8 / Metab. Alter 26. Bauchumfang nicht gemessen (Ref 20.10.: 82 cm) |
 
 → Rohdaten: `[[../data/koerperwerte.csv]]`
 
@@ -874,6 +875,23 @@ Noch **0.40 kg über dem Juli-Allzeit-Tief (23.07.: 66.35)**. Der Whoosh hat ger
 | Bauchumfang | 83.5 (13.10.) | 82.0 | -1.5 | 🎯 Allzeit-Tief, Ziel erreicht |
 
 **Bis 01.11. (12 Tage):** KF ≤ 16,5 % (-0,3 %) · Bauch ✅ 82 cm erreicht (jetzt halten/weiter Richtung 81) · Muskel halten.
+
+---
+
+### 20.10. → 31.10. (Phase 2 Tag 16 → 27) — 🔶 Rebound nach Allzeit-Tief, Muskel gehalten
+
+| Metrik | 20.10. | 31.10. | Δ | Bewertung |
+|--------|--------|--------|---|-----------|
+| Gewicht | 64.65 | 65.30 | +0.65 | 🟠 im Zielkorridor 65,0–65,5, aber +0,65 kg ggü. Tief |
+| Körperfett / Fettmasse | 16.8 / 10.85 | 17.2 / 11.30 | +0.4 / +0.45 | 🔴 KF-Ziel ≤ 16,5 % verfehlt (Fettmasse abgeleitet Gewicht-FFM) |
+| Subkutanfett | 15.3 | 15.7 | +0.4 | 🟠 |
+| FFM / Muskelmasse | 53.80 / 51.10 | 54.00 / 51.40 | +0.20 / +0.30 | 🟢 Muskel stabil |
+| Skelettmuskel / Wasser / Protein | 53.8 / 60.1 / 19.0 | 53.4 / 59.7 / 19.0 | -0.4 / -0.4 / 0 | 🟢 Ziel ≥ 53,0 % gehalten |
+| Visceral / Knochen / BMR | 4 / 2.69 / 1531 | 4 / 2.70 / 1537 | 0 / +0.01 / +6 | Stabil |
+
+**Fazit:** 11 Tage ohne Messung. Das Tief vom 20.10. (10,85 kg Fett) hat sich nicht gehalten: +0,45 kg Fett, KF 17,2 % statt ≤ 16,5 %. Ein Teil des Tiefs war vermutlich Wasser-/Messeffekt (FFM damals -0,30, heute wieder +0,20). Positiv: Gewicht 65,30 kg und Skelettmuskel 53,4 % liegen im Ziel, der Muskel ist geschützt. Netto seit Baseline 08.09.: **-2,05 kg / -1,4 % KF / -1,23 kg Fett**, deutlich besser als das Juli-Tief (66,35 kg). Das KF-Ziel wird bis morgen aber nicht mehr erreicht.
+
+**Bis 01.11. (1 Tag):** Gewicht ✅ · Skelettmuskel ✅ · Bauch ✅ (82 cm am 20.10., heute nicht gemessen → **nüchtern messen!**) · KF ❌ (17,2 statt ≤ 16,5 %). Morgen: Abschlussmessung + Fotos (gleiches Licht/Pose wie 08.09.), dann Entscheidung Verlängerung vs. neues Ziel.
 
 ---
 
