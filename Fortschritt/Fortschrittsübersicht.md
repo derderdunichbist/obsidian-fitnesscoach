@@ -1,68 +1,70 @@
 # Fortschrittsübersicht – Leicht sichtbarer Sixpack bis 03.12.2026
 
-> 📊 **Interaktives Dashboard:** [[dashboard.html]] — Verlaufsgrafiken (Gewicht, Körperfett & Subkutanfett, Fettmasse, Bauchumfang, Muskelschutz) mit Ziel-Korridoren für 01.11. Speist sich aus `[[../data/koerperwerte.csv]]`; im Browser öffnen.
+> 📊 **Interaktives Dashboard:** [[dashboard.html]] — Verlaufsgrafiken (Gewicht, Körperfett & Subkutanfett, Fettmasse, Bauchumfang, Muskelschutz) mit Ziel-Korridoren für 03.12. Speist sich aus `[[../data/koerperwerte.csv]]`; im Browser öffnen.
 
 ## Zeitstrahl
 ```
-08.09. ━━━━━━━━ 04.10. ━━━━━━━━━━━━━━━━━━━━━━━━━━ 01.11.
-BASELINE     Ende Phase 1   ▲ heute 31.10.        ZIEL
-  |←—— Phase 1 ——→|←— Phase 2: Tag 27 —→|← 1 Tag →|
-  KF: 18.6%                    17.2%      Ziel: ≤ 16,5 % ❌
-  Gew: 67.35 kg                65.30 kg   Ziel: 65,0–65,5 kg ✅
-  Fett: 12.53 kg               11.30 kg   Ziel: ~10,5–11 kg
-  Bauch: (85,5)                82,0 cm*   Ziel: ≤ 82 cm ✅   (*Stand 20.10.)
+08.09. ━━━ 04.10. ━━━ 01.11. ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 03.12.
+BASELINE  Ende Ph.1  Ende Ph.2   ▲ heute 02.11. (Ph.3 Tag 1)   ZIEL
+  |← Phase 1 →|← Phase 2 →|←——— Phase 3: 31 Tage ———→|
+  KF:    18.6%            16.9%                   Ziel: ≤ 15,5 %
+  Gew:   67.35 kg         64.75 kg                Ziel: 64,0–64,5 kg
+  Fett:  12.53 kg         10.95 kg                Ziel: ~9,7–10,0 kg
+  Bauch: (85,5)           82,0 cm*                Ziel: ≤ 80 cm   (*Stand 20.10.)
 ```
 
-## Status-Ampel (Stand: 31.10.2026 – Phase 2 Tag 27, noch 1 Tag bis 01.11.)
+## Status-Ampel (Stand: 02.11.2026 – Phase 3 Tag 1, noch 31 Tage bis 03.12.)
 | Bereich | Status | Kommentar |
 |---------|--------|-----------|
-| Körperfett | 🔴 17,2 % | +0,4 ggü. Tief 20.10. (16,8 %); -1,4 % seit Baseline; Ziel ≤ 16,5 % bis morgen nicht mehr erreichbar |
-| Gewicht | 🟢 65,30 kg | im Zielkorridor 65,0–65,5 ✅; +0,65 kg ggü. Tief 20.10.; -2,05 kg seit Baseline |
-| Fettmasse | 🟠 11,30 kg | +0,45 kg ggü. 20.10. (10,85); -1,23 kg echtes Fett seit Baseline |
-| Subkutanfett | 🟠 15,7 % | +0,4 ggü. 20.10.; -1,2 % seit Baseline |
-| Muskelschutz | 🟢 | Skelettmuskel **53,4 %** (Ziel ≥ 53,0 ✅), FFM 54,00 (+0,20), Muskelmasse 51,40 (+0,30) |
-| Bauchumfang | 🟢 82,0 cm | 20.10. = Ziel ≤ 82 erreicht; 31.10. nicht gemessen → morgen nüchtern messen |
-| Messroutine | 🟠 | 11 Tage Lücke (21.–30.10.) → Trend unklar, Rebound nicht rechtzeitig gegengesteuert |
+| Körperfett | 🟠 16,9 % | -0,3 ggü. 31.10.; -1,7 % seit Baseline; Ziel ≤ 15,5 % = noch -1,4 % (Zwischenziel ≤ 16,5 % bis ~13.11.) |
+| Gewicht | 🟢 64,75 kg | -0,55 kg ggü. 31.10.; 0,10 kg über Tief 20.10. (64,65); -2,60 kg seit Baseline; Ziel 64,0–64,5 |
+| Fettmasse | 🟠 10,95 kg | -0,35 kg ggü. 31.10.; -1,58 kg echtes Fett seit Baseline; Ziel ~9,7–10,0 |
+| Subkutanfett | 🟢 15,4 % | -0,3 ggü. 31.10.; -1,5 % seit Baseline |
+| Muskelschutz | 🟢 | Skelettmuskel **53,7 %** (Höchststand, Ziel ≥ 53,0 ✅), FFM 53,80, Muskelmasse 51,10 (Wasser/Glykogen) |
+| Bauchumfang | 🟢 82,0 cm | 20.10. (Phase-2-Ziel erreicht); Phase-3-Ziel ≤ 80 cm → morgen nüchtern messen |
+| Messroutine | 🟠 | 11 Tage Lücke (21.–30.10.) → ab jetzt Mo/Mi/Fr, Bauch montags |
 
 ---
 
-## Wochenziele Phase 2
+## Wochenziele Phase 3
 | Woche | Zeitraum | Fokus | Erwartung | Status |
 |-------|----------|-------|-----------|--------|
-| 1 | 05.–11.10. | Neustart: Messroutine, 3× Kraft, frisch kochen | Bauch ≤ 83,5 cm | 🟢 Waage stark: 65,45 kg / 17,3 % (Allzeit-Tiefs) · 🟡 Bauch 84,0 (08.10.) – noch -0,5 cm bis Wochenziel |
-| 2 | 12.–18.10. | Defizit stabil, Protein jeden Tag 150 g+ | ~65,9 kg / Bauch ≤ 83 cm | ⏳ (Gewichtsziel schon vorab erreicht) |
-| 3 | 19.–25.10. | Definition, Core-Fokus, 0 Fertigprodukte | ~65,6 kg / Bauch ≤ 82,5 cm | ⏳ |
-| 4 | 26.10.–01.11. | Peaking: salzarm, Wasser hoch, kein Alkohol | ≤ 82 cm / Fotos | ⏳ |
+| 1 | 02.–08.11. | Fotos + Bauchumfang, 3× Kraft, 0 Fertigprodukte | KF ≤ 16,7 % / Bauch ≤ 82 cm | 🔄 läuft |
+| 2 | 09.–15.11. | Protein 150 g+ täglich, Defizit 450 kcal | KF ≤ 16,5 % / Bauch ≤ 81,5 cm | ⏳ |
+| 3 | 16.–22.11. | Core-Fokus, Alkohol max. 1×/Woche | KF ≤ 16,2 % / Bauch ≤ 81 cm | ⏳ |
+| 4 | 23.–29.11. | Defizit halten, Carbs an Kraft-Tagen | KF ≤ 15,8 % / Bauch ≤ 80,5 cm | ⏳ |
+| 5 | 30.11.–03.12. | Peaking: salzarm, Wasser hoch, kein Alkohol | KF ≤ 15,5 % / Bauch ≤ 80 cm / Fotos | ⏳ |
 
-> Phase 1 (08.09.–04.10.): -0,90 kg / -0,6 % KF / Bauch 84,0 cm → archiviert: [[../Ziele/Archiv/Sixpack-Challenge-04.10.2026-ARCHIVIERT]]
+> Phase 1 (08.09.–04.10.): -0,90 kg / -0,6 % KF → [[../Ziele/Archiv/Sixpack-Challenge-04.10.2026-ARCHIVIERT]]
+> Phase 2 (05.10.–01.11.): Gewicht ✅ Muskel ✅ Bauch ✅ KF ❌ (16,9 %) → [[../Ziele/Archiv/Sixpack-Challenge-Phase2-01.11.2026-ARCHIVIERT]]
 
 ---
 
-## Restweg zum Ziel (Stand 31.10., noch 1 Tag)
-- **Gewicht:** 65,30 kg → Ziel 65,0–65,5 ✅ erreicht.
-- **Körperfett:** 17,2 → ≤ 16,5 % = noch **-0,7 %** ≈ -0,5 kg Fett → in 1 Tag nicht erreichbar. Kein Crash-Defizit (kostet Muskel/Glykogen).
-- **Bauchumfang:** 82,0 cm (20.10.) ✅ → morgen erneut messen.
-- **Morgen:** Abschlussmessung nüchtern + Fotos (gleiches Licht/Pose wie 08.09.), danach Entscheidung: Ziel verlängern oder neues Ziel.
-- **Einordnung:** 3 von 4 Kennzahlen im Ziel (Gewicht, Muskel, Bauch), KF knapp verfehlt (+0,7 %).
+## Restweg zum Ziel (Stand 02.11., noch 31 Tage)
+- **Körperfett:** 16,9 → ≤ 15,5 % = **-1,4 %** ≈ -1,0 kg Fett → ca. -0,23 kg Fett/Woche, realistisch bei konsequentem Defizit.
+- **Gewicht:** 64,75 → 64,0–64,5 kg = -0,25 bis -0,75 kg.
+- **Bauchumfang:** 82 → ≤ 80 cm = -2 cm (~-0,4 cm/Woche).
+- **Muskel:** Skelettmuskel ≥ 53,0 % halten (aktuell 53,7 %).
+- **Diese Woche:** Fotos (Start Phase 3), Bauchumfang nüchtern, 3× Kraft.
 
 ---
 
 ## Coaching-Analyse
 
 ### Was gut läuft
-- **Vier Allzeit-Tiefs gleichzeitig (09.10.):** Gewicht 65,45 / KF 17,3 % / Fettmasse 11,32 kg / Subkutan 15,8 %.
-- **Fettbasierter Trend:** **-1,21 kg echtes Fett** seit Baseline (64 % des Gesamtverlusts von -1,90 kg).
-- **Muskelschutz:** Skelettmuskel-Anteil 52,6 → **53,4 %** (Höchststand), Körperwasser 59,7 %.
-- **Visceral 4 stabil**, BMI 20,9 – gesunde Werte.
+- **Rebound sofort abgebaut (02.11.):** 64,75 kg / KF 16,9 % / Fettmasse 10,95 kg / Subkutan 15,4 %.
+- **Fettbasierter Trend:** **-1,58 kg echtes Fett** seit Baseline (61 % des Gesamtverlusts von -2,60 kg).
+- **Muskelschutz:** Skelettmuskel-Anteil 52,6 → **53,7 %** (Höchststand), Körperwasser 60,0 %.
+- **Visceral 4 stabil**, BMI 20,7 – gesunde Werte.
 
-### Haupt-Hebel für die nächsten 23 Tage
-1. **Krafttraining 3×/Woche fix** – größter Unterschied zu Phase 1
+### Haupt-Hebel für die nächsten 31 Tage
+1. **Krafttraining 3×/Woche fix** – fix beibehalten
 2. **Protein 150 g+/Tag**, Fett < 70 g
 3. **Defizit 450–600 kcal** – an großen Tennis-Tagen Carbs nachlegen statt Defizit ausufern lassen
 4. **Fertigprodukte max. 1×/Woche**, Alkohol max. 1×/Woche
 5. **Wasser 3–4 L, Schlaf ≥ 7 h**
 
 ### Wichtigste offene Aufgabe
-- 📏 **Bauchumfang messen** (letzter Wert 22.09.) – danach jeden Montag.
-- ⚖️ **Waage Mo/Mi/Fr nüchtern** – keine 15-Tage-Lücken mehr.
-- 📸 Fotos zum Vergleich mit 08.09.
+- 📏 **Bauchumfang messen** (letzter Wert 20.10.: 82 cm) – danach jeden Montag.
+- ⚖️ **Waage Mo/Mi/Fr nüchtern** – keine Messlücken mehr.
+- 📸 Startfotos Phase 3 (Licht/Pose wie 08.09.), Endfotos am 03.12.

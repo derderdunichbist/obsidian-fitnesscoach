@@ -2,14 +2,23 @@
 
 ## Primäres Ziel
 > **Leicht sichtbarer Sixpack bis 03.12.2026 – Phase 3, Tag 1, noch 31 Tage**
-> Stand 31.10.: Gewicht ✅ · Skelettmuskel ✅ · Bauch ✅ (82 cm, 20.10.) · KF 17,2 % ❌ (Ziel ≤ 16,5 %)
+> Stand 02.11.: Phase 2 beendet (Gewicht ✅ · Muskel ✅ · Bauch ✅ · KF 16,9 % ❌) → Phase 3 Ziele: KF ≤ 15,5 % · Bauch ≤ 80 cm · Skelettmuskel ≥ 53 %
 > 📊 Grafiken → [[Fortschritt/dashboard.html]] · [[Fortschritt/Fortschrittsübersicht]]
 
 ---
 
-## Körperwerte Aktuell (31.10.2026 · Phase 2 Tag 27)
+## Körperwerte Aktuell (02.11.2026 · Phase 3 Tag 1)
 | Metrik | Wert | Ziel 03.12. | Trend |
 |--------|------|-------------|-------|
+| Gewicht | 64.75 kg | 64,0–64,5 kg | ↓ -2.60 kg seit 08.09. · -0.55 kg ggü. 31.10. |
+| Körperfett | 16.9% | ≤ 15,5 % | ↓ -1.7 % seit 08.09. · -0.3 % ggü. 31.10. |
+| Fettmasse | 10.95 kg | ~9,7–10,0 kg | ↓ -1.58 kg seit 08.09. · -0.35 kg ggü. 31.10. |
+| Subkutanfett | 15.4% | — | ↓ -1.5 % seit 08.09. |
+| Bauchumfang | 82.0 cm* | ≤ 80 cm | Allzeit-Tief · *Stand 20.10., morgen messen |
+| Skelettmuskel | 53.7% | ≥ 53,0 % ✅ | Höchststand · FFM 53.80 / Muskelmasse 51.10 |
+| Visceral Fett | 4 | ≤ 4 | stabil ✓ |
+
+--------|------|-------------|-------|
 | Gewicht | 65.30 kg | 65,0–65,5 kg ✅ | ↓ -2.05 kg seit 08.09. · +0.65 kg ggü. Tief 20.10. |
 | Körperfett | 17.2% | ≤ 16,5 % ❌ | ↓ -1.4 % seit 08.09. · +0.4 % ggü. Tief 20.10. (16,8 %) |
 | Fettmasse | 11.30 kg | ~10,5–11 kg | ↓ -1.23 kg seit 08.09. · +0.45 kg ggü. 20.10. |
