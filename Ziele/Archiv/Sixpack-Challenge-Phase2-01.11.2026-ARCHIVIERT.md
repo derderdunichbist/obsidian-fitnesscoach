@@ -1,0 +1,81 @@
+> ⚠️ **ARCHIVIERT am 02.11.2026** — Deadline 01.11.2026 abgelaufen. Auf Wunsch verlängert → [[../Primäres-Ziel-Aktiv]] (Sixpack-Challenge Phase 3, Deadline 03.12.2026). Abschlussbilanz Phase 2: Gewicht ✅, Skelettmuskel ✅, Bauch ✅ (82 cm), KF 16,9 % ❌ (Ziel ≤ 16,5 %). Diese Datei bleibt als Referenz/Verlauf erhalten.
+
+# Primäres Ziel: Leicht sichtbarer Sixpack – Challenge Phase 2 (Verlängerung)
+
+## Zielübersicht
+| | |
+|---|---|
+| **Ziel** | Leicht sichtbarer Sixpack (klare Kontur reicht – kein Wettkampf-Shredded) |
+| **Nebenziel** | Muskeln halten/aufbauen – Krafttraining wieder fest einplanen |
+| **Start Phase 1** | 08.09.2026 (Deadline 04.10. → archiviert: [[Archiv/Sixpack-Challenge-04.10.2026-ARCHIVIERT]]) |
+| **Start Phase 2** | 05.10.2026 |
+| **Deadline** | **01.11.2026** (Sonntag) |
+| **Heute** | 02.11.2026 (Deadline 01.11. abgelaufen – Entscheidung offen) |
+| **Verbleibende Tage bis Deadline** | **0 (abgelaufen)** |
+| **Status** | 🟢 **02.11.: 64,75 kg / KF 16,9 % / Fett ~10,95 kg / Skelettmuskel 53,7 % = Rebound abgebaut (-0,35 kg Fett), KF-Ziel ≤ 16,5 % nur 0,4 Pkt verfehlt.** Deadline-Bilanz: Gewicht ✅, Skelettmuskel ✅, Bauch ✅ (82 cm), KF ❌ knapp. Fotos + Bauchumfang offen; **Verlängerung oder neues Ziel?** Vorher: 🟠 Aktiv – **31.10.: 65,30 kg / KF 17,2 % / Fett ~11,30 kg = Rebound nach dem Tief vom 20.10. (+0,45 kg Fett), Muskel gehalten (Skelettmuskel 53,4 %).** Gewicht ✅, Skelettmuskel ✅, Bauch ✅ (82 cm, 20.10.), **KF-Ziel ≤ 16,5 % verfehlt**. Morgen Abschlussmessung + Fotos, dann Verlängerung oder neues Ziel. Vorher: 🟢 **20.10.: 64,65 kg / KF 16,8 % / Fett ~10,85 kg = Stillstand durchbrochen (-0,45 kg Fett), Allzeit-Tiefs.** **Bauchumfang 82 cm = Ziel ≤ 82 cm erreicht 🎯.** KF-Ziel ≤ 16,5 % nur noch -0,3 % entfernt. Vorher: 🟡 **19.10.: 65,40 kg / KF 17,3 % / Fett ~11,30 kg = Stillstand seit 09.10.**, Muskel gehalten. Defizit muss ab jetzt greifen. Vorheriger Stand: 🟢 vor Plan. **10.10.: Halte-Tag, Werte identisch zu 09.10.: 65,45 kg / KF 17,3 % / Fettmasse 11,32 kg / Subkutan 15,8 % = Allzeit-Tiefs**, Skelettmuskel 53,4 % (Höchststand). 🎯 Gewichtsziel 65,0–65,5 bereits erreicht → Fokus KF ≤ 16,5 % + Bauch ≤ 82 cm. Bauch **83,5 cm (13.10.)** = erstes neues Allzeit-Tief seit 22.09. (Ziel ≤ 82 cm) → Hauptbaustelle. Offen: Fotos. |
+
+---
+
+## Bilanz Phase 1 (08.09.–04.10.)
+| Metrik | Baseline 08.09. | Letzter Stand | Δ |
+|--------|-----------------|---------------|---|
+| Gewicht | 67,35 kg | 66,45 kg (23.09.) → **65,85 kg (08.10.)** | **-0,90 kg** (→ -1,50 kg) |
+| Körperfett | 18,6 % | 18,0 % (23.09.) | **-0,6 %** |
+| Fettmasse | 12,53 kg | 11,95 kg (23.09.) | **-0,58 kg** |
+| Bauchumfang | 85,5 cm (18.09.) | **84,0 cm (22.09.)** | **-1,5 cm** (Allzeit-Tief) |
+| Skelettmuskel | 52,6 % | 53,0 % | +0,4 % ✅ Muskel geschützt |
+
+- 🟢 Richtung stimmt, Muskel voll gehalten, Bauchumfang auf Allzeit-Tief.
+- 🟠 Tempo langsamer als geplant (-0,6 kg Fett statt -2 bis -3 kg) → Hauptgründe: Messlücke ab 24.09., Fertigprodukte/Salz an einzelnen Tagen, Protein schwankend, kaum Krafttraining.
+- ✅ Abschluss-Messung nachgeholt am 08.10.: 65,85 kg / 17,6 % KF / 11,59 kg Fett (Details → Messungen-Tracker).
+
+---
+
+## Ziele Phase 2 (bis 01.11.)
+| Metrik | Ziel | Warum |
+|--------|------|-------|
+| Bauchumfang | **≤ 82 cm** | Ehrlichster Sixpack-Indikator |
+| Körperfett (Waage) | **≤ 16,5 %** | ~-1,5 % → Kontur obere Reihe |
+| Gewicht | **~65,0–65,5 kg** | -0,25 bis -0,35 kg/Woche |
+| Skelettmuskel | **≥ 53,0 %** halten | Muskel nicht opfern |
+| Fotos | 01.11. (gleiches Licht/Pose wie 08.09.) | Vorher/Nachher |
+
+---
+
+## Strategie – was anders wird als in Phase 1
+
+### 1. Ernährung
+- Defizit **450–600 kcal/Tag** – bei sehr viel Bewegung (>700 kcal Move) Carbs nachlegen statt Defizit ausufern lassen
+- **Protein 150 g+ täglich** (06.10. mit 195 g zeigt, dass es geht)
+- **Fett < 70 g**
+- **Fertigprodukte (Nuggets, Saucen, Fast Food) max. 1×/Woche** – frisch: Hähnchen/Pute/Fisch + Reis/Kartoffeln + Gemüse
+- **Alkohol:** alkoholisch max. 1×/Woche & max. 1 Getränk · **alkoholfreies Bier ok** (max. 1×/Tag, zählt als Carb-Snack: Pils ~100–130 kcal, Weißbier ~130–160 kcal / 0,5 l)
+- Frühstück: max. 1 Cappuccino, Honig ≤ 15 g
+- → [[../Ernährung/Ernährungsplan]]
+
+### 2. Training
+- **Krafttraining 3×/Woche fix** (Ganzkörper, progressive Überlastung) – größter Unterschied zu Phase 1
+- Tennis/Padel zusätzlich, zählt voll
+- **Schritte 8.000+/Tag**
+- Core 3–4×/Woche
+- → [[../Training/Trainingsplan-Sixpack]]
+
+### 3. Messen & Recovery
+- **Waage nüchtern mind. 3×/Woche** (Mo/Mi/Fr), **Bauchumfang 1×/Woche (Montag)**
+- Schlaf ≥ 7 h, Wasser 3–4 L
+
+---
+
+## Wochenziele
+| Woche | Zeitraum | Fokus | Erwartung |
+|-------|----------|-------|-----------|
+| 1 | 05.–11.10. | Neustart: Messroutine, 3× Kraft, frisch kochen | Bauch ≤ 83,5 cm |
+| 2 | 12.–18.10. | Defizit stabil, Protein jeden Tag 150 g+ | ~65,9 kg / Bauch ≤ 83 cm |
+| 3 | 19.–25.10. | Definition, Core-Fokus, 0 Fertigprodukte | ~65,6 kg / Bauch ≤ 82,5 cm |
+| 4 | 26.10.–01.11. | Peaking: salzarm, Wasser hoch, kein Alkohol | ≤ 82 cm / Fotos |
+
+---
+
+## Fortschritt-Tracking
+- → [[../Körperwerte/Messungen-Tracker]] · `data/koerperwerte.csv`
+- → [[../Fortschritt/Fortschrittsübersicht]]

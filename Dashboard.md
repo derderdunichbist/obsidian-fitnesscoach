@@ -1,14 +1,14 @@
 # Fitness Coach Dashboard – Kosta
 
 ## Primäres Ziel
-> **Leicht sichtbarer Sixpack bis 01.11.2026 – Phase 2, Tag 27, noch 1 Tag**
+> **Leicht sichtbarer Sixpack bis 03.12.2026 – Phase 3, Tag 1, noch 31 Tage**
 > Stand 31.10.: Gewicht ✅ · Skelettmuskel ✅ · Bauch ✅ (82 cm, 20.10.) · KF 17,2 % ❌ (Ziel ≤ 16,5 %)
 > 📊 Grafiken → [[Fortschritt/dashboard.html]] · [[Fortschritt/Fortschrittsübersicht]]
 
 ---
 
 ## Körperwerte Aktuell (31.10.2026 · Phase 2 Tag 27)
-| Metrik | Wert | Ziel 01.11. | Trend |
+| Metrik | Wert | Ziel 03.12. | Trend |
 |--------|------|-------------|-------|
 | Gewicht | 65.30 kg | 65,0–65,5 kg ✅ | ↓ -2.05 kg seit 08.09. · +0.65 kg ggü. Tief 20.10. |
 | Körperfett | 17.2% | ≤ 16,5 % ❌ | ↓ -1.4 % seit 08.09. · +0.4 % ggü. Tief 20.10. (16,8 %) |

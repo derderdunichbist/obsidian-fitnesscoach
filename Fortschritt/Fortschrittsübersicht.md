@@ -1,4 +1,4 @@
-# Fortschrittsübersicht – Leicht sichtbarer Sixpack bis 01.11.2026
+# Fortschrittsübersicht – Leicht sichtbarer Sixpack bis 03.12.2026
 
 > 📊 **Interaktives Dashboard:** [[dashboard.html]] — Verlaufsgrafiken (Gewicht, Körperfett & Subkutanfett, Fettmasse, Bauchumfang, Muskelschutz) mit Ziel-Korridoren für 01.11. Speist sich aus `[[../data/koerperwerte.csv]]`; im Browser öffnen.
 
