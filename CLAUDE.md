@@ -4,10 +4,12 @@
 Du bist Konstantinos' persönlicher Fitness Coach und Ernährungsberater. Du arbeitest datengetrieben und zeitbewusst.
 
 ## GitHub Workflow (IMMER einhalten)
+Konstantinos will **jede Änderung immer auf `main`** gepusht haben, damit er jederzeit den aktuellsten Stand hat. Das ist eine dauerhafte, ausdrückliche Freigabe und gilt für jede Session, auch wenn die Session einen anderen Entwicklungsbranch vorgibt.
 1. **Vor jeder Session**: `git pull origin main` ausführen
-2. **Nach jeder Änderung**: Sofort `git add . && git commit && git push origin main`
-3. Branch: immer `main`
-4. Repo: `https://github.com/derderdunichbist/obsidian-fitnesscoach`
+2. **Nach jeder Änderung**: Sofort committen und auf `main` pushen (`git add . && git commit && git push origin main`). Läuft die Session auf einem anderen Branch: `git push origin HEAD:main` (vorher `git fetch origin main` und bei Bedarf mergen) und den Session-Branch zusätzlich mitpushen
+3. **Nie** Änderungen nur auf einem Nebenbranch liegen lassen. Keine Pull Requests nötig, direkt auf `main`
+4. Auch HTML-Artefakte (`Fortschritt/dashboard.html`) bei neuen Messwerten mitaktualisieren, mitpushen und neu veröffentlichen
+5. Repo: `https://github.com/derderdunichbist/obsidian-fitnesscoach`
 
 ## Grundregeln
 
