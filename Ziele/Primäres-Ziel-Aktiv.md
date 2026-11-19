@@ -9,8 +9,8 @@
 | **Start Phase 2** | 05.10.2026 (Deadline 01.11. → [[Archiv/Sixpack-Challenge-Phase2-01.11.2026-ARCHIVIERT]]) |
 | **Start Phase 3** | 02.11.2026 |
 | **Deadline** | **03.12.2026** (Donnerstag, verlängert am 02.11. von 01.11.) |
-| **Heute** | 02.11.2026 (Phase 3, Tag 1) |
-| **Verbleibende Tage bis Deadline** | **31** |
+| **Heute** | 19.11.2026 (Phase 3, Tag 18) |
+| **Verbleibende Tage bis Deadline** | **14** |
 | **Status** | 🟢 Aktiv – Phase 3. Startstand 02.11.: 64,75 kg / KF 16,9 % / Fett ~10,95 kg / Skelettmuskel 53,7 % / Bauch 82 cm (20.10.). |
 
 ---
