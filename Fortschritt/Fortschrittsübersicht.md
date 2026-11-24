@@ -61,7 +61,7 @@ BASELINE  Ende Ph.1  Ende Ph.2   ▲ heute 02.11. (Ph.3 Tag 1)   ZIEL
 1. **Krafttraining 3×/Woche fix** – fix beibehalten
 2. **Protein 150 g+/Tag**, Fett < 70 g
 3. **Defizit 450–600 kcal** – an großen Tennis-Tagen Carbs nachlegen statt Defizit ausufern lassen
-4. **Fertigprodukte max. 1×/Woche**, Alkohol max. 1×/Woche
+4. **Fertigprodukte max. 1×/Woche** (Prepmymeal zählt als vollwertige Mahlzeit, nicht dazu), Alkohol max. 1×/Woche
 5. **Wasser 3–4 L, Schlaf ≥ 7 h**
 
 ### Wichtigste offene Aufgabe

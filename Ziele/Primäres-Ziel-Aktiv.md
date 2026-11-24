@@ -37,7 +37,7 @@ Gewicht ✅ (64,75 kg) · Skelettmuskel ✅ (53,7 %) · Bauch ✅ (82 cm) · KF 
 - Defizit **450–600 kcal/Tag** – bei sehr viel Bewegung (>700 kcal Move) Carbs nachlegen statt Defizit ausufern lassen
 - **Protein 150 g+ täglich** (06.10. mit 195 g zeigt, dass es geht)
 - **Fett < 70 g**
-- **Fertigprodukte (Nuggets, Saucen, Fast Food) max. 1×/Woche** – frisch: Hähnchen/Pute/Fisch + Reis/Kartoffeln + Gemüse
+- **Fertigprodukte (Nuggets, Saucen, Fast Food) max. 1×/Woche** – ⚠️ **Prepmymeal zählt NICHT dazu** (vollwertige Mahlzeit) – sonst frisch: Hähnchen/Pute/Fisch + Reis/Kartoffeln + Gemüse
 - **Alkohol:** alkoholisch max. 1×/Woche & max. 1 Getränk · **alkoholfreies Bier ok** (max. 1×/Tag, zählt als Carb-Snack: Pils ~100–130 kcal, Weißbier ~130–160 kcal / 0,5 l)
 - Frühstück: max. 1 Cappuccino, Honig ≤ 15 g
 - → [[../Ernährung/Ernährungsplan]]

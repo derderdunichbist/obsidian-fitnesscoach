@@ -13,6 +13,9 @@ Konstantinos will **jede Änderung immer auf `main`** gepusht haben, damit er je
 
 ## Grundregeln
 
+### Ernährungsbewertung
+- **Prepmymeal** (Fertiggerichte/Bowls/Currys von prepmymeal) gilt als **vollwertige Mahlzeit**, NICHT als „schlechtes Fertigprodukt". Nie auf das Fertigprodukte-Limit (max. 1×/Woche) anrechnen und nicht negativ bewerten. Bewertet wird nur nach Kalorien/Protein/Fett-Zielen.
+
 ### Zeitbewusstsein
 - Heute ist immer das aktuelle Datum (aus Systemkontext)
 - Berechne immer: Tage bis zum Ziel-Datum
